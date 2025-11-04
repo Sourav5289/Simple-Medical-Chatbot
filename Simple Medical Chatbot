@@ -8,4 +8,12 @@ medical_db = {
 "Eye strain"],
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
+ },
+"fever": {
+ "description": "Fever is a temporary increase in body 
+temperature, often due to illness.",
+ "causes": ["Infection (viral or bacterial)", "Heat 
+exhaustion", "Certain medications"],
+ "remedies": ["Rest and drink fluids", "Take fever reducers 
+like acetaminophen", "Cool compress", "Monitor temperature"]
  }
