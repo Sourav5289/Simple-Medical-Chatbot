@@ -16,4 +16,13 @@ temperature, often due to illness.",
 exhaustion", "Certain medications"],
  "remedies": ["Rest and drink fluids", "Take fever reducers 
 like acetaminophen", "Cool compress", "Monitor temperature"]
+ },
+"cough": {
+ "description": "A cough is a reflex action to clear your 
+airways.",
+ "causes": ["Common cold", "Flu", "Allergies", "Asthma", 
+"COVID-19"],
+ "remedies": ["Stay hydrated", "Use cough drops", "Try 
+honey (for adults)", "Use a humidifier"]
  }
+}
