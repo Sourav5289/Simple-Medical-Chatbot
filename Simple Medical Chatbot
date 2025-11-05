@@ -26,3 +26,6 @@ airways.",
 honey (for adults)", "Use a humidifier"]
  }
 }
+
+# Common greetings and responses
+greetings = ["hello", "hi", "hey", "greetings"]
