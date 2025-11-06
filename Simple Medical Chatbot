@@ -30,3 +30,4 @@ honey (for adults)", "Use a humidifier"]
 # Common greetings and responses
 greetings = ["hello", "hi", "hey", "greetings"]
 farewells = ["bye", "goodbye", "see you", "exit"]
+thanks = ["thanks", "thank you", "appreciate it"]
