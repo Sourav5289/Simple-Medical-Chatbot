@@ -31,3 +31,6 @@ honey (for adults)", "Use a humidifier"]
 greetings = ["hello", "hi", "hey", "greetings"]
 farewells = ["bye", "goodbye", "see you", "exit"]
 thanks = ["thanks", "thank you", "appreciate it"]
+
+def get_response(user_input):
+ user_input = user_input.lower()
