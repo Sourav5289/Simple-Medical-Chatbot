@@ -34,3 +34,12 @@ thanks = ["thanks", "thank you", "appreciate it"]
 
 def get_response(user_input):
  user_input = user_input.lower()
+
+Check for greetings
+ if any(word in user_input for word in greetings):
+ return random.choice([
+ "Hello! I'm MediBot. How can I help you today?",
+ "Hi there! What health concerns do you have?",
+ "Greetings! I'm here to provide general health 
+information."
+ ])
