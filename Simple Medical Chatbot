@@ -43,3 +43,12 @@ Check for greetings
  "Greetings! I'm here to provide general health 
 information."
  ])
+
+# Check for farewells
+ if any(word in user_input for word in farewells):
+ return random.choice([
+ "Take care and stay healthy!",
+ "Goodbye! Remember to consult a doctor for serious 
+symptoms.",
+ "See you later! Wishing you good health."
+ ])
