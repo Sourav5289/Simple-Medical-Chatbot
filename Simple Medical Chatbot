@@ -61,3 +61,7 @@ if any(word in user_input for word in thanks):
  "Happy to help!",
  "No problem! Stay healthy."
  ])
+
+# Check for symptoms in the database
+ for symptom, info in medical_db.items():
+ if symptom in user_input:
