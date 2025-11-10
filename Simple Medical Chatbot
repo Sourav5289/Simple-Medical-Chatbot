@@ -55,3 +55,9 @@ symptoms.",
  ])
 
 # Check for thanks
+if any(word in user_input for word in thanks):
+ return random.choice([
+ "You're welcome!",
+ "Happy to help!",
+ "No problem! Stay healthy."
+ ])
