@@ -76,3 +76,6 @@ consult a doctor."
 
 
 Default response if no matches found
+return "I'm sorry, I can only provide information about 
+common symptoms like headache, fever, and cough. For other 
+concerns, please consult a healthcare professional."
