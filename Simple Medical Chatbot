@@ -66,3 +66,4 @@ if any(word in user_input for word in thanks):
  for symptom, info in medical_db.items():
  if symptom in user_input:
     response = f"About {symptom}:\n"
+    response += f"Description: {info['description']}\n"
