@@ -72,3 +72,4 @@ if any(word in user_input for word in thanks):
 '.join(info['remedies'])}\n"
     response += "Note: If symptoms persist or worsen, please 
 consult a doctor."
+    return response
