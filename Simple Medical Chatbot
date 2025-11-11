@@ -67,3 +67,4 @@ if any(word in user_input for word in thanks):
  if symptom in user_input:
     response = f"About {symptom}:\n"
     response += f"Description: {info['description']}\n"
+    response += f"Possible causes: {', '.join(info['causes'])}\n"
