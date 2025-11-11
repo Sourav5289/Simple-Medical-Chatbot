@@ -70,3 +70,5 @@ if any(word in user_input for word in thanks):
     response += f"Possible causes: {', '.join(info['causes'])}\n"
     response += f"Suggested remedies: {', 
 '.join(info['remedies'])}\n"
+    response += "Note: If symptoms persist or worsen, please 
+consult a doctor."
