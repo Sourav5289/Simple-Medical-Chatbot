@@ -84,3 +84,4 @@ concerns, please consult a healthcare professional."
 def main():
     print("MediBot: Hello! I'm a simple medical chatbot. I can 
 provide general information about common symptoms.")
+    print("Type 'bye' to exit at any time.")
