@@ -87,5 +87,7 @@ provide general information about common symptoms.")
     print("Type 'bye' to exit at any time")
 
 while True:
-    user_input = input("You: ")
-    if user_input.lower() in farewells:
+ user_input = input("You: ")
+ if user_input.lower() in farewells:
+ print("MediBot:", get_response(user_input))
+ break
