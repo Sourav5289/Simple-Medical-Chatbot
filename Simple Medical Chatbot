@@ -87,3 +87,4 @@ provide general information about common symptoms.")
     print("Type 'bye' to exit at any time")
 
 while True:
+    user_input = input("You: ")
