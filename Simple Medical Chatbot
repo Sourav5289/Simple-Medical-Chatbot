@@ -1,4 +1,4 @@
-i#importing library
+hui#importing library
 import random
 
 # Medical knowledge base
@@ -88,3 +88,4 @@ provide general information about common symptoms.")
 
 while True:
     user_input = input("You: ")
+    if user_input.lower() in farewells:
