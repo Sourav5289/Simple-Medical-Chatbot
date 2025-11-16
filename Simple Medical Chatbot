@@ -91,3 +91,4 @@ while True:
  if user_input.lower() in farewells:
  print("MediBot:", get_response(user_input))
  break
+response = get_response(user_input)
