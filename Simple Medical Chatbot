@@ -92,3 +92,4 @@ while True:
  print("MediBot:", get_response(user_input))
  break
 response = get_response(user_input)
+break
