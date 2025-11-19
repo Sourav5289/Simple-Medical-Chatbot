@@ -18,6 +18,14 @@ exhaustion", "Certain medications"],
  "remedies": ["Rest and drink fluids", "Take fever reducers 
 like acetaminophen", "Cool compress", "Monitor temperature"]
  },
+diarrhea": {
+
+"description": "Diarrhea is frequent loose or watery bowel movements.",
+"causes": ["Food poisoning", "Viral or bacterial infection", "Food intolerance", "Medications"],
+"remedies": ["Drink ORS", "Avoid spicy foods",
+"Eat bananas, rice, toast", "Consult a doctor if
+severe"]
+},
 "cough": {
  "description": "A cough is a reflex action to clear your 
 airways.",
