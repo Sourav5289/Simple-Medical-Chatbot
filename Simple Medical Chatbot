@@ -18,6 +18,8 @@ exhaustion", "Certain medications"],
  "remedies": ["Rest and drink fluids", "Take fever reducers 
 like acetaminophen", "Cool compress", "Monitor temperature"]
  },
+asthma": {
+"description": "Asthma is a chronic condition where airways become inflamed and narrow, causing breathing difficulty.",
 diarrhea": {
 
 "description": "Diarrhea is frequent loose or watery bowel movements.",
