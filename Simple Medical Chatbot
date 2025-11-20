@@ -19,7 +19,7 @@ exhaustion", "Certain medications"],
 like acetaminophen", "Cool compress", "Monitor temperature"]
  },
 asthma": {
-"description": "Asthma is a chronic condition where airways become inflamed and narrow, causing breathing difficulty.",causes": ["Allergens", "Air pollution", "Exercise", "Respiratory infections"],
+"description": "Asthma is a chronic condition where airways become inflamed and narrow, causing breathing difficulty.",causes": ["Allergens", "Air pollution", "Exercise", "Respiratory infections"],"remedies": ["Use inhalers", "Avoid triggers", "Breathing exercises", "Take prescribed medications"]},
 diarrhea": {
 
 "description": "Diarrhea is frequent loose or watery bowel movements.",
