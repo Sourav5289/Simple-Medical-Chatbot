@@ -18,6 +18,10 @@ exhaustion", "Certain medications"],
  "remedies": ["Rest and drink fluids", "Take fever reducers 
 like acetaminophen", "Cool compress", "Monitor temperature"]
  },
+malaria": {
+"description": "Malaria is a mosquito-borne infectious disease caused by Plasmodium parasites.", "causes": ["Bite of infected Anopheles mosquito", "Travel to malaria-prone areas"],
+"remedies": ["Antimalarial medications", "Use mosquito nets", "Stay hydrated", "Seek medical
+},
 asthma": {
 "description": "Asthma is a chronic condition where airways become inflamed and narrow, causing breathing difficulty.",causes": ["Allergens", "Air pollution", "Exercise", "Respiratory infections"],"remedies": ["Use inhalers", "Avoid triggers", "Breathing exercises", "Take prescribed medications"]},
 diarrhea": {
