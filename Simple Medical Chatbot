@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+diabetes": {
+
+"description": "Diabetes is a chronic condition where the body cannot regulate blood sugar
+
+properly.",
+
+"causes": ["Genetics", "Obesity", "Poor lifestyle habits", "Insulin resistance"],
+
+"remedies": ["Healthy diet", "Regular exercise" "Medications or insulin", "Monitor blood sugar"]},
 "fever": {
  "description": "Fever is a temporary increase in body 
 temperature, often due to illness.",
