@@ -21,7 +21,7 @@ properly.",
 "remedies": ["Healthy diet", "Regular exercise" "Medications or insulin", "Monitor blood sugar"]},
 
 hypertension":
-"description": "Hypertension is a condition where blood pressure is persistently higher than normal.",
+"description": "Hypertension is a condition where blood pressure is persistently higher than normal.",causes": ["Stress", "Obesity", "High salt intake", "Genetics"],
 
 
 "fever": {
