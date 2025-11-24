@@ -22,7 +22,7 @@ properly.",
 
 hypertension":
 "description": "Hypertension is a condition where blood pressure is persistently higher than normal.",causes": ["Stress", "Obesity", "High salt intake", "Genetics"],
-
+"remedies": ["Reduce salt intake", "Exercise regularly", "Take prescribed medication", "Manage stress"]},
 
 "fever": {
  "description": "Fever is a temporary increase in body 
