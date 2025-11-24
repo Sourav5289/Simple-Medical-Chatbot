@@ -19,6 +19,11 @@ properly.",
 "causes": ["Genetics", "Obesity", "Poor lifestyle habits", "Insulin resistance"],
 
 "remedies": ["Healthy diet", "Regular exercise" "Medications or insulin", "Monitor blood sugar"]},
+
+hypertension":
+"description": "Hypertension is a condition where blood pressure is persistently higher than normal.",
+
+
 "fever": {
  "description": "Fever is a temporary increase in body 
 temperature, often due to illness.",
