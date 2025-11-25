@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"skin_allergy": {
+
+"description": "Skin allergy is a reaction causing itching, redness, or swelling of the skin.",
+
+"causes": ["Dust", "Detergents", "Food allergens", "Insect bites"],
+
+"remedies": ["Use antihistamines", "Apply soothing
+
+creams", "Avoid allergens", "Keep skin clean"]},
 diabetes": {
 
 "description": "Diabetes is a chronic condition where the body cannot regulate blood sugar
