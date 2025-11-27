@@ -13,6 +13,12 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 measles": {
 
 "description": "Measles is a highly contagious viral infection that causes fever, rash, and cough.",
+cough.",
+
+"causes": ["Measles virus", "Exposure to infected
+
+droplets"],
+
 chickenpox": {
 
 "description": "Chickenpox is a viral infection
