@@ -10,6 +10,9 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+measles": {
+
+"description": "Measles is a highly contagious viral infection that causes fever, rash, and cough.",
 chickenpox": {
 
 "description": "Chickenpox is a viral infection
