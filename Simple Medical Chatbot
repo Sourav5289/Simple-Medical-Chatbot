@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+tuberculosis":
+
+"description": "Tuberculosis is a bacterial infection that primarily affects the lungs.",
+
+"causes": ["Mycobacterium tuberculosis", "Airborne transmission"],
+
+"remedies": ["Long-term antibiotics", "Good
+
+nutrition", "Regular doctor check-ups"]},
 measles": {
 
 "description": "Measles is a highly contagious viral infection that causes fever, rash, and cough.",
