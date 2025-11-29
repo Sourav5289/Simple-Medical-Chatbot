@@ -10,6 +10,17 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+anemia": {
+
+"description": "Anemia is a condition where the body lacks enough healthy red blood cells.",
+
+"causes": ["Iron deficiency", "Vitamin B12
+
+deficiency", "Chronic diseases"],
+
+"remedies": ["Iron supplements",
+
+greens", "Vitamin B12 injections"]},
 tuberculosis":
 
 "description": "Tuberculosis is a bacterial infection that primarily affects the lungs.",
