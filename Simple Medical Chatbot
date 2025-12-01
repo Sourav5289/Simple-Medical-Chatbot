@@ -12,6 +12,13 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
  },
 anemia": {
 
+"description": "Anemia is a condition where the body lacks enough healthy red blood cells.", "causes": ["Iron deficiency", "Vitamin B12
+
+deficiency", "Chronic diseases"],
+
+"remedies": ["Iron supplements", "Eat leafy greens", "Vitamin B12 injections"]},
+anemia": {
+
 "description": "Anemia is a condition where the body lacks enough healthy red blood cells.",
 
 "causes": ["Iron deficiency", "Vitamin B12
