@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+arthritis": {
+
+"description": "Arthritis is inflammation of the joints causing pain and stiffness.",
+
+"causes": ["Aging", "Autoimmune disorders", "Injury"],
+
+"remedies": ["Pain relievers", "Physiotherapy", "Regular exercise"]},
 anemia": {
 
 "description": "Anemia is a condition where the body lacks enough healthy red blood cells.", "causes": ["Iron deficiency", "Vitamin B12
