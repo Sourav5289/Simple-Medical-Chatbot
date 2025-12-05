@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+migraine": {
+
+"description": "Migraine is a neurological condition with severe headache and sensitivity to light.",
+
+"causes": ["Stress", "Hormonal changes", "Sleep disturbances"],
+
+"remedies": ["Migraine medication", "Rest in dark room", "Cold compress"]},
 sinusitis": {
 
 "description": "Sinusitis is inflammation of the sinuses causing congestion and facial pain.",
