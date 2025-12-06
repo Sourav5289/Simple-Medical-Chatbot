@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+sinusitis": {
+
+"description": "Sinusitis is inflammation of the sinuses causing congestion and facial pain.",
+
+"causes": ["Viral infections", "Allergies", "Nasal polyps"],
+
+"remedies": ["Steam inhalation", "Nasal sprays" "Hydration"]},
 migraine": {
 
 "description": "Migraine is a neurological condition with severe headache and sensitivity to light.",
