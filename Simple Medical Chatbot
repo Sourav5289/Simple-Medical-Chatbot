@@ -14,7 +14,9 @@ jaundice": {
 
 "description": "Jaundice is yellowing of the skin and eyes due to high bilirubin levels.",
 
-"causes": ["Liver infection", "Hepatitis",
+"causes": ["Liver infection", "Hepatitis", "Alcoholic liver disease"],
+
+"remedies": ["Treat underlying liver issue", "Hydration", "Healthy diet"]
 sinusitis": {
 
 "description": "Sinusitis is inflammation of the sinuses causing congestion and facial pain.",
