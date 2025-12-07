@@ -10,6 +10,11 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+jaundice": {
+
+"description": "Jaundice is yellowing of the skin and eyes due to high bilirubin levels.",
+
+"causes": ["Liver infection", "Hepatitis",
 sinusitis": {
 
 "description": "Sinusitis is inflammation of the sinuses causing congestion and facial pain.",
