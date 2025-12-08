@@ -10,6 +10,11 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"pneumonia": {
+
+"description": "Pneumonia is an infection that inflames the lungs' air sacs.",
+
+"causes": ["Bacteria", "Viruses", "Fungi"],
 jaundice": {
 
 "description": "Jaundice is yellowing of the skin and eyes due to high bilirubin levels.",
