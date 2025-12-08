@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Bacteria", "Viruses", "Fungi"],"remedies": ["Antibiotics", "Rest", "Fluids",
 
-"Hospitalization in severe cases"]
+"Hospitalization in severe cases"]},
 jaundice": {
 
 "description": "Jaundice is yellowing of the skin and eyes due to high bilirubin levels.",
