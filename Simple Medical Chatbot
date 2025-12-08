@@ -14,7 +14,9 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "description": "Pneumonia is an infection that inflames the lungs' air sacs.",
 
-"causes": ["Bacteria", "Viruses", "Fungi"],
+"causes": ["Bacteria", "Viruses", "Fungi"],"remedies": ["Antibiotics", "Rest", "Fluids",
+
+"Hospitalization in severe cases"]
 jaundice": {
 
 "description": "Jaundice is yellowing of the skin and eyes due to high bilirubin levels.",
