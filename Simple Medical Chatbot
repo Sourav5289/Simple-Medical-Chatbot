@@ -18,7 +18,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "remedies": ["Antibiotics", "Drink plenty of
 
-water", "Maintain hygiene"]}
+water", "Maintain hygiene"]},
 "pneumonia": {
 
 "description": "Pneumonia is an infection that inflames the lungs' air sacs.",
