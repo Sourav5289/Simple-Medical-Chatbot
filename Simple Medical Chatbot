@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"urinary_tract_infection": {
+
+"description": "UTI is an infection in the urinary system causing pain and frequent urination.",
+
+"causes": ["Bacterial infection", "Poor hygiene"],
+
+"remedies": ["Antibiotics", "Drink plenty of
+
+water", "Maintain hygiene"]
 "pneumonia": {
 
 "description": "Pneumonia is an infection that inflames the lungs' air sacs.",
