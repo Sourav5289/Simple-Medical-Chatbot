@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"appendicitis": {
+
+"description": "Appendicitis is inflammation of
+
+the appendix causing severe abdominal pain.", "causes": ["Blockage of the appendix", "Infection"],
+
+"remedies": ["Surgery", "Pain relief", "Antibiotics"]
 "urinary_tract_infection": {
 
 "description": "UTI is an infection in the urinary system causing pain and frequent urination.",
