@@ -10,7 +10,7 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
-food_poisoning": {
+"food_poisoning": {
 
 "description": "Food poisoning occurs due to consuming contaminated food.",
 
