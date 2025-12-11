@@ -16,7 +16,7 @@ food_poisoning": {
 
 "causes": ["Bacteria", "Viruses", "Toxins in food"],
 
-"remedies": ["ORS", "Rest", "Avoid heavy meals" "Medical care if severe"]
+"remedies": ["ORS", "Rest", "Avoid heavy meals" "Medical care if severe"]},
 "appendicitis": {
 
 "description": "Appendicitis is inflammation of
