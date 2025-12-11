@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+food_poisoning": {
+
+"description": "Food poisoning occurs due to consuming contaminated food.",
+
+"causes": ["Bacteria", "Viruses", "Toxins in food"],
+
+"remedies": ["ORS", "Rest", "Avoid heavy meals" "Medical care if severe"]
 "appendicitis": {
 
 "description": "Appendicitis is inflammation of
