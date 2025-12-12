@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"stroke": {
+
+"description": "Stroke occurs when blood supply to the brain is reduced or blocked.",
+
+"causes": ["Blood clot", "Burst blood vessel", "High blood pressure"],
+
+"remedies": ["Immediate medical care", "Rehabilitation", "Medications"]
 "food_poisoning": {
 
 "description": "Food poisoning occurs due to consuming contaminated food.",
