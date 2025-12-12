@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Blood clot", "Burst blood vessel", "High blood pressure"],
 
-"remedies": ["Immediate medical care", "Rehabilitation", "Medications"]
+"remedies": ["Immediate medical care", "Rehabilitation", "Medications"]}
 "food_poisoning": {
 
 "description": "Food poisoning occurs due to consuming contaminated food.",
