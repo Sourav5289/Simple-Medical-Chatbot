@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"covid19": {
+
+"description": "COVID-19 is a contagious respiratory disease caused by SARS-CoV-2.",
+
+"causes": ["Coronavirus infection", "Close exposure to infected individuals"],
+
+"remedies": ["Rest", "Isolation", "Antiviral drugs", "Hydration"]
 "stroke": {
 
 "description": "Stroke occurs when blood supply to the brain is reduced or blocked.",
