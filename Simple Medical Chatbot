@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Coronavirus infection", "Close exposure to infected individuals"],
 
-"remedies": ["Rest", "Isolation", "Antiviral drugs", "Hydration"]}
+"remedies": ["Rest", "Isolation", "Antiviral drugs", "Hydration"]},
 "stroke": {
 
 "description": "Stroke occurs when blood supply to the brain is reduced or blocked.",
