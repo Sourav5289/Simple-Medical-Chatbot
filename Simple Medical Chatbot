@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"eczema":
+
+"description": "Eczema is a skin condition causing dryness, itching, and inflammation."
+
+"causes": ["Allergic reaction", "Genetics",
+
+"Stress"],
+
+"remedies": ["Moisturizers", "Steroid creams", "Avoid triggers"]},
 "covid19": {
 
 "description": "COVID-19 is a contagious respiratory disease caused by SARS-CoV-2.",
