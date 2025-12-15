@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"obesity": {
+
+"description": "Obesity is a condition involving excessive body fat.",
+
+"causes": ["Overeating", "Lack of exercise" "Genetics"],
+
+"remedies": ["Healthy diet", "Regular physical activity", "Lifestyle changes"]},
 "eczema":
 
 "description": "Eczema is a skin condition causing dryness, itching, and inflammation."
