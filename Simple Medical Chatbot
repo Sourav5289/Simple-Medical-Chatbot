@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"gastritis": {
+
+"description": "Gastritis is inflammation of the stomach lining.",
+
+"causes": ["Spicy food", "Alcohol", "H. pylori infection"],
+
+"remedies": ["Antacids",
+
+"Medications for H. pylori"]},
 "obesity": {
 
 "description": "Obesity is a condition involving excessive body fat.",
