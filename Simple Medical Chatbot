@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"conjunctivitis": {
+
+"description": "Conjunctivitis is inflammation of the eye's outer membrane, causing redness and irritation.",
+
+"causes": ["Virus", "Bacteria", "Allergens"],
+
+"remedies": ["Eye drops", "Cold compress", "Maintain eye hygiene"]},
 "gastritis": {
 
 "description": "Gastritis is inflammation of the stomach lining.",
