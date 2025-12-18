@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"hepatitis": {
+
+"description": "Hepatitis is inflammation of the liver caused by viral infections or toxins.",
+
+"causes": ["Hepatitis A, B, C viruses", "Alcohol", "Contaminated food/water"],
+
+"remedies": ["Antiviral medications", "Rest", "Avoid alcohol"]},
 "conjunctivitis": {
 
 "description": "Conjunctivitis is inflammation of the eye's outer membrane, causing redness and irritation.",
