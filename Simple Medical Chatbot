@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+anxiety": {
+
+"description": "Anxiety is a mental health condition characterized by excessive worry or fear.",
+
+"causes": ["Stress", "Genetics", "Brain chemistry imbalance"],
+
+"remedies": ["Therapy", "Relaxation techniques", "Medication"]
 "alopecia":
 
 "description": "Alopecia is a condition that causes hair loss from the scalp or body.",
