@@ -10,7 +10,7 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
-depression": {
+"depression": {
 
 "description": "Depression is a mood disorder causing persistent sadness and loss of interest.",
 
