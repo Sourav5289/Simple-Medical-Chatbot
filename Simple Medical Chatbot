@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+tonsillitis": {
+
+"description": "Tonsillitis is inflammation of the tonsils causing sore throat.",
+
+"causes": ["Viral infection", "Bacterial infection"],
+
+"remedies": ["Warm fluids", "Antibiotics if
+
+bacterial", "Rest"]
 "vertigo": {
 
 "description": "Vertigo is a sensation of spinning or
