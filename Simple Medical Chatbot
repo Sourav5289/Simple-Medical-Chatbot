@@ -10,7 +10,7 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
-tonsillitis": {
+"tonsillitis": {
 
 "description": "Tonsillitis is inflammation of the tonsils causing sore throat.",
 
