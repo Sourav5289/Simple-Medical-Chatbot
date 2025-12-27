@@ -18,7 +18,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "remedies": ["Voice rest", "Steam inhalation",
 
-"Fluids"]
+"Fluids"]}
 "pharyngitis": {
 
 "description": "Pharyngitis is inflammation of the throat.",
