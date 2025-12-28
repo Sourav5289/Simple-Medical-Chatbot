@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"otitis_media": {
+
+"description": "Otitis media is a middle ear
+
+infection.",
+
+"causes": ["Bacterial infection", "Viral infection"],
+
+"remedies": ["Antibiotics", "Pain relievers", "Warm compress"]},
 "laryngitis": {
 
 "description": "Laryngitis is inflammation of the voice box causing hoarseness.",
