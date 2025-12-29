@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"glaucoma": {
+
+"description": "Glaucoma damages the optic nerve due to high eye pressure."
+
+"causes": ["Increased eye pressure", "Genetics"],
+
+"remedies": ["Eye drops", "Surgery", "Regular eye check-ups"]},
 "otitis_media": {
 
 "description": "Otitis media is a middle ear
