@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"cataract":
+
+"description": "Cataract is clouding of the eye lens leading to vision loss.",
+
+"causes": ["Aging", "Diabetes", "UV exposure"],
+
+"remedies": ["Surgery", "Protective eyewear"]},
 "glaucoma": {
 
 "description": "Glaucoma damages the optic nerve due to high eye pressure."
