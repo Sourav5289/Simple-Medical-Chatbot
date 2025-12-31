@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"osteoporosis": {
+
+"description": "Osteoporosis weakens bones making them fragile.",
+
+"causes": ["Calcium deficiency", "Aging", "Hormonal changes"],
+
+"remedies": ["Calcium supplements", "Exercise", "Medication"]},
 "cataract":
 
 "description": "Cataract is clouding of the eye lens leading to vision loss.",
