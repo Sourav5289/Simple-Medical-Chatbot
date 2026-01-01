@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"gout": {
+
+"description": "Gout is a form of arthritis causing sudden joint pain.",
+
+"causes": ["High uric acid levels", "Diet"], 'remedies": ["Medication", "Low-purine diet",
+
+"Hydration"]},
 "osteoporosis": {
 
 "description": "Osteoporosis weakens bones making them fragile.",
