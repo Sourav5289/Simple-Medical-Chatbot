@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"peptic_ulcer": {
+
+"description": "Peptic ulcer is an open sore in the stomach lining.",
+
+"causes": ["H. pylori infection", "Painkillers"],
+
+"remedies": ["Antacids", "Antibiotics", "Avoid spicy food"]},
 "sciatica": {
 
 "description": "Sciatica is pain along the sciatic nerve path."
