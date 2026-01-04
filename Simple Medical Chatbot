@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"irritable_bowel_syndrome": {
+
+"description": "IBS affects the large intestine causing cramps and bloating.",
+
+"causes": ["Stress", "Digestive sensitivity"],
+
+"remedies": ["Diet control", "Stress management", "Medication"]
 "peptic_ulcer": {
 
 "description": "Peptic ulcer is an open sore in the stomach lining.",
