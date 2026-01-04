@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Stress", "Digestive sensitivity"],
 
-"remedies": ["Diet control", "Stress management", "Medication"]}
+"remedies": ["Diet control", "Stress management", "Medication"]},
 "peptic_ulcer": {
 
 "description": "Peptic ulcer is an open sore in the stomach lining.",
