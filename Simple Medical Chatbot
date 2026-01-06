@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"hemorrhoids": {
+
+"description": "Hemorrhoids are swollen veins in the rectal area.",
+
+"causes": ["Straining", "Chronic constipation"],
+
+"remedies": ["High-fiber diet", "Creams", "Warm baths"]
 "constipation": {
 
 "description": "Constipation is difficulty in passing stools.",
