@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Straining", "Chronic constipation"],
 
-"remedies": ["High-fiber diet", "Creams", "Warm baths"]
+"remedies": ["High-fiber diet", "Creams", "Warm baths"]}
 "constipation": {
 
 "description": "Constipation is difficulty in passing stools.",
