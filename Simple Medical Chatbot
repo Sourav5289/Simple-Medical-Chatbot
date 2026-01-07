@@ -12,11 +12,11 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
  },
 "kidney_stones": {
 
-"description": "Kidney stones are hard mineral deposits in the kidneys.",
+"description": "Kidney stones are hard mineral deposits(stones) in the kidneys.",
 
 "causes": ["Dehydration", "High mineral intake"],
 
-"remedies": ["Drink water", "Pain medication", "Medical procedures"]
+"remedies": ["Drink  water", "Pain medication", "Medical procedures"]
 "hemorrhoids": {
 
 "description": "Hemorrhoids are swollen veins in the rectal area.",
