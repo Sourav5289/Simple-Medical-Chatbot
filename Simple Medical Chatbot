@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Dehydration", "High mineral intake"],
 
-"remedies": ["Drink  water", "Pain medication", "Medical procedures"]
+"remedies": ["Drink more  water", "Pain medication", "Medical procedures"]
 "hemorrhoids": {
 
 "description": "Hemorrhoids are swollen veins in the rectal area.",
