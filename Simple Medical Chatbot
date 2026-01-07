@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"kidney_stones": {
+
+"description": "Kidney stones are hard mineral deposits in the kidneys.",
+
+"causes": ["Dehydration", "High mineral intake"],
+
+"remedies": ["Drink water", "Pain medication", "Medical procedures"]
 "hemorrhoids": {
 
 "description": "Hemorrhoids are swollen veins in the rectal area.",
