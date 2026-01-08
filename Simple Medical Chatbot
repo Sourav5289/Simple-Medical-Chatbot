@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"chronic_kidney_disease": { "description": "CKD is gradual loss of kidney
+
+function.",
+
+"causes": ["Diabetes", "High blood pressure"], "remedies": ["Diet control", "Medication",
+
+"Dialysis"]
 "kidney_stones": {
 
 "description": "Kidney stones are hard mineral deposits(stones) in the kidneys.",
