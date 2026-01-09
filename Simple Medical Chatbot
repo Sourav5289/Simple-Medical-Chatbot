@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Obesity", "Alcohol consumption"], "remedies": ["Weight loss", "Healthy diet", "Avoid
 
-alcohol"]}
+alcohol"]},
 "chronic_kidney_disease": { "description": "CKD is gradual loss of kidney
 
 function.",
