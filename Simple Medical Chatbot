@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"fatty_liver": {
+
+"description": "Fatty liver is excess fat accumulation in the liver.",
+
+"causes": ["Obesity", "Alcohol consumption"], "remedies": ["Weight loss", "Healthy diet", "Avoid
+
+alcohol"]
 "chronic_kidney_disease": { "description": "CKD is gradual loss of kidney
 
 function.",
