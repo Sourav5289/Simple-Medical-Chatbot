@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+gallstones": {
+
+"description": "Gallstones are hardened digestive fluid deposits in the gallbladder.",
+
+"causes": ["High cholesterol", "Obesity"],
+
+"remedies": ["Surgery", "Diet control"]
 "fatty_liver": {
 
 "description": "Fatty liver is excess fat accumulation in the liver.",
