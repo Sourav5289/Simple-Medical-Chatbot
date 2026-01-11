@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"pancreatitis": {
+
+"description": "Pancreatitis is inflammation of the pancreas.",
+
+"causes": ["Alcohol abuse", "Gallstones"], "remedies": ["Hospital care", "Fluids", "Pain
+
+control"]},
 "gallstones": {
 
 "description": "Gallstones are hardened digestive fluid deposits in the gallbladder.",
