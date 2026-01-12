@@ -10,6 +10,11 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"hypothyroidism": { "description": "Hypothyroidism is underactive thyroid hormone production."
+
+"causes": ["Autoimmune disease", "Iodine deficiency"],
+
+"remedies": ["Thyroid medication", "Regular monitoring"]},
 "pancreatitis": {
 
 "description": "Pancreatitis is inflammation of the pancreas.",
