@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"hyperthyroidism": {
+
+"description": "Hyperthyroidism is excess thyroid hormone production.",
+
+"causes": ["Graves' disease", "Thyroid nodules"],
+
+"remedies": ["Medication", "Radioactive iodine", "Surgery"]},
 "hypothyroidism": { "description": "Hypothyroidism is underactive thyroid hormone production."
 
 "causes": ["Autoimmune disease", "Iodine deficiency"],
