@@ -10,6 +10,11 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"polycystic_ovary_syndrome": { "description": "PCOS is a hormonal disorder affecting women.",
+
+},
+
+"causes": ["Hormonal imbalance", "Genetics"], "remedies": ["Lifestyle changes", "Medication"]},
 "hyperthyroidism": {
 
 "description": "Hyperthyroidism is excess thyroid hormone production.",
