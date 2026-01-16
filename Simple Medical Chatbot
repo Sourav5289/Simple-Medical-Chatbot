@@ -14,6 +14,15 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "description": "Endometriosis occurs when tissue grows outside the uterus.",
 
+"causes": ["Hormonal imbalance", "Genetics"],
+
+"remedies": ["Pain medication", "Hormone
+
+therapy"]},
+"endometriosis": {
+
+"description": "Endometriosis occurs when tissue grows outside the uterus.",
+
 },
 
 "causes": ["Hormonal imbalance", "Genetics"],
