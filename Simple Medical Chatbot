@@ -10,6 +10,11 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"erectile_dysfunction": {
+
+"description": "ED is difficulty achieving or maintaining an erection.",
+
+"causes": ["Stress", "Diabetes", "Heart disease"], "remedies": ["Lifestyle changes", "Medication"]},
 "endometriosis": {
 
 "description": "Endometriosis occurs when tissue grows outside the uterus.",
