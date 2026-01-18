@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"dengue": {
+
+"description": "Dengue is a mosquito-borne viral infection.",
+
+"causes": ["Aedes mosquito bite"],
+
+"remedies": ["Fluids", "Rest", "Medical monitoring"]
 "prostatitis": {
 
 "description": "Prostatitis is inflammation of the prostate gland.",
