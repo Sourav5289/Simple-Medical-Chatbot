@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"prostatitis": {
+
+"description": "Prostatitis is inflammation of the prostate gland.",
+
+"causes": ["Bacterial infection"],
+
+"remedies": ["Antibiotics", "Pain relief"]},
 "erectile_dysfunction": {
 
 "description": "ED is difficulty achieving or maintaining an erection.",
