@@ -16,7 +16,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "causes": ["Aedes mosquito bite"],
 
-"remedies": ["Fluids", "Rest", "Medical monitoring"]
+"remedies": ["Fluids", "Rest", "Medical monitoring"]},
 "prostatitis": {
 
 "description": "Prostatitis is inflammation of the prostate gland.",
