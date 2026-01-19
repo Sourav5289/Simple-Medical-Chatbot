@@ -18,7 +18,7 @@ causing joint pain and fever.
 
 "causes": ["Mosquito bite"],
 
-"remedies": ["Pain relievers", "Rest", "Hydration"]
+"remedies": ["Pain relievers", "Rest", "Hydration"]}
 "dengue": {
 
 "description": "Dengue is a mosquito-borne viral infection.",
