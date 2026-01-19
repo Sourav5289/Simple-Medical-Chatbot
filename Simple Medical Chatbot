@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"chikungunya": {
+
+"description": "Chikungunya is a viral disease
+
+causing joint pain and fever.
+
+"causes": ["Mosquito bite"],
+
+"remedies": ["Pain relievers", "Rest", "Hydration"]
 "dengue": {
 
 "description": "Dengue is a mosquito-borne viral infection.",
