@@ -14,7 +14,7 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 
 "description": "Tetanus causes muscle stiffness and spasms.",
 
-"causes": ["Bacterial infection through wounds"], "remedies": ["Vaccination", "Medical treatment"]}
+"causes": ["Bacterial infection through wounds"], "remedies": ["Vaccination", "Medical treatment"]},
 "rabies": {
 
 "description": "Rabies is a fatal viral disease
