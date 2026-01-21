@@ -10,6 +10,11 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"tetanus": {
+
+"description": "Tetanus causes muscle stiffness and spasms.",
+
+"causes": ["Bacterial infection through wounds"], "remedies": ["Vaccination", "Medical treatment"]
 "rabies": {
 
 "description": "Rabies is a fatal viral disease
