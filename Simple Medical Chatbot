@@ -10,6 +10,15 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"diphtheria": {
+
+"description": "Diphtheria affects the throat and
+
+airways.",
+
+"causes": ["Bacterial infection"],
+
+"remedies": ["Antibiotics", "Vaccination"]
 "whooping_cough": {
 
 "description": "Whooping cough is a contagious respiratory disease.",
