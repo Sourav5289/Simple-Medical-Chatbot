@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"mumps": {
+
+"description": "Mumps is a viral infection causing swollen salivary glands.",
+
+"causes": ["Mumps virus"],
+
+"remedies": ["Rest", "Pain relievers"]},
 "diphtheria": {
 
 "description": "Diphtheria affects the throat and
