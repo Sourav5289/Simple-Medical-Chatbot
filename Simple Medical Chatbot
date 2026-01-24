@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"influenza": {
+
+"description": "Influenza is a viral respiratory illness.
+
+"causes": ["Influenza virus"],
+
+"remedies": ["Antivirals", "Rest", "Fluids"]},
 "rubella": {
 
 "description": "Rubella is a viral infection with rash and fever.",
