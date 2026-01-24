@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"rubella": {
+
+"description": "Rubella is a viral infection with rash and fever.",
+
+"causes": ["Rubella virus"],
+
+"remedies": ["Rest", "Vaccination"]},
 "mumps": {
 
 "description": "Mumps is a viral infection causing swollen salivary glands.",
