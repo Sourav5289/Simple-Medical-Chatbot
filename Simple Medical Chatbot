@@ -10,6 +10,13 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"allergic_rhinitis": {
+
+"description": "Allergic rhinitis causes sneezing and nasal congestion.",
+
+"causes": ["Dust", "Pollen"],
+
+"remedies": ["Antihistamines", "Avoid allergens"]},
 "influenza": {
 
 "description": "Influenza is a viral respiratory illness.
