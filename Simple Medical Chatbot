@@ -10,6 +10,14 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"sleep_apnea": {
+
+"description": "Sleep apnea causes breathing interruptions during sleep.",
+
+
+"causes": ["Obesity", "Airway blockage"],
+
+"remedies": ["CPAP therapy", "Weight loss"]},
 "allergic_rhinitis": {
 
 "description": "Allergic rhinitis causes sneezing and nasal congestion.",
