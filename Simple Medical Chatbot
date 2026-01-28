@@ -10,6 +10,14 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+"psoriasis": {
+
+"description": "Psoriasis is a chronic skin disease causing red patches.",
+
+
+"causes": ["Immune disorder", "Genetics"], "remedies": ["Topical creams", "Medication"]},
+
+
 "epilepsy": {
 
 "description": "Epilepsy is a neurological disorder causing seizures.",
