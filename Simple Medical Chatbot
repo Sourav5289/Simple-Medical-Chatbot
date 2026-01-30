@@ -10,15 +10,12 @@ medical_db = {
  "remedies": ["Rest in a quiet room", "Apply cold 
 compress", "Take OTC pain relievers", "Stay hydrated"]
  },
+
 "vitiligo": {
-
-"description": "Vitiligo causes loss of skin pigmentation.",
-
+"description": "Vitiligo causes loss of skinpigmentation.",
 "causes": ["Autoimmune condition"],
+"remedies": ["Skin therapy","Medical treatment"]},
 
-"remedies": ["Skin therapy",
-
-"Medical treatment"]},
 "psoriasis": {
 
 "description": "Psoriasis is a chronic skin disease causing red patches.",
