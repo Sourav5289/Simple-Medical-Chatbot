@@ -28,13 +28,10 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 "remedies": ["Antiepileptic drugs", "Medical care"]},
 
 "sleep_apnea": {
-
 "description": "Sleep apnea causes breathing interruptions during sleep.",
-
-
 "causes": ["Obesity", "Airway blockage"],
-
 "remedies": ["CPAP therapy", "Weight loss"]},
+
 "allergic_rhinitis": {
 
 "description": "Allergic rhinitis causes sneezing and nasal congestion.",
