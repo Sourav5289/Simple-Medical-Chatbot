@@ -33,12 +33,10 @@ compress", "Take OTC pain relievers", "Stay hydrated"]
 "remedies": ["CPAP therapy", "Weight loss"]},
 
 "allergic_rhinitis": {
-
 "description": "Allergic rhinitis causes sneezing and nasal congestion.",
-
 "causes": ["Dust", "Pollen"],
-
 "remedies": ["Antihistamines", "Avoid allergens"]},
+
 "influenza": {
 
 "description": "Influenza is a viral respiratory illness.
