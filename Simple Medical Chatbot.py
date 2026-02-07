@@ -8,6 +8,10 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+    "motion_sickness": {
+         "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
+   "causes": ["Travel by car/boat/air", "Inner ear sensitivity"],
+    "remedies": ["Look at horizon", "Ginger", "Motion sickness tablets"]},
     
     "vitiligo": {
         "description": "Vitiligo causes loss of skin pigmentation.",
