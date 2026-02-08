@@ -8,6 +8,13 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"heatstroke": {
+
+"description": "Heatstroke is a severe heat-related illness with very high body temperature.",
+
+"causes": ["Prolonged heat exposure", "Dehydration"],
+
+"remedies": ["Cool the body", "Fluids", "Emergency medical care"]
     "motion_sickness": {
          "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
    "causes": ["Travel by car/boat/air", "Inner ear sensitivity"],
