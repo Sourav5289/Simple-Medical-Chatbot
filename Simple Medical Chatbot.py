@@ -8,6 +8,15 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+hypothermia": {
+
+"description": "Hypothermia occurs when body temperature drops dangerously low.",
+
+"causes": ["Cold exposure", "Wet clothing"],
+
+"remedies": ["Warm blankets", "Warm drinks", "Medical
+
+help"]},
 "heatstroke": {
 
 "description": "Heatstroke is a severe heat-related illness with very high body temperature.",
