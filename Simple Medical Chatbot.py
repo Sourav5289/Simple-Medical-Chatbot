@@ -8,6 +8,15 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"sunburn": {
+
+"description": "Sunburn is skin damage caused by excessive UV exposure.",
+
+},
+
+"causes": ["Prolonged sun exposure"],
+
+"remedies": ["Aloe vera", "Cool bath", "Hydration"]},
 hypothermia": {
 
 "description": "Hypothermia occurs when body temperature drops dangerously low.",
