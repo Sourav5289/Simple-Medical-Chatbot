@@ -13,6 +13,15 @@ medical_db = {
 "description": "Sunburn is skin damage caused by excessive UV exposure.",
 
 },
+"scabies": {
+
+"description": "Scabies is a skin infestation by mites causing itching.",
+
+"causes": ["Mite infestation", "Close contact"],
+
+"remedies": ["Medicated lotions", "Wash clothes in
+
+hot water"]},
 
 "causes": ["Prolonged sun exposure"],
 
