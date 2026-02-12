@@ -13,6 +13,13 @@ medical_db = {
 "description": "Sunburn is skin damage caused by excessive UV exposure.",
 
 },
+"ringworm": {
+
+"description": "Ringworm is a fungal skin infection causing circular rash.",
+
+"causes": ["Fungal infection", "Contact with infected surfaces"],
+
+"remedies": ["Antifungal creams", "Keep area dry"]},
 "scabies": {
 
 "description": "Scabies is a skin infestation by mites causing itching.",
