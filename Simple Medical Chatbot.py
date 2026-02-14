@@ -13,6 +13,13 @@ medical_db = {
 "description": "Sunburn is skin damage caused by excessive UV exposure.",
 
 },
+"lice_infestation": {
+
+"description": "Lice infestation affects scalp causing itching.
+
+"causes": ["Head-to-head contact"],
+
+"remedies": ["Medicated shampoo", "Fine combing"]},
 "scabies": {
 
 "description": "Scabies is a skin infestation by mites causing itching.",
