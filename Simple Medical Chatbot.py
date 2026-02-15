@@ -13,6 +13,13 @@ medical_db = {
 "description": "Sunburn is skin damage caused by excessive UV exposure.",
 
 },
+"impetigo": {
+
+"description": "Impetigo is a contagious bacterial skin infection.",
+
+"causes": ["Bacteria", "Skin cuts"],
+
+"remedies": ["Antibiotic ointment", "Hygiene"]},
 "lice_infestation": {
 
 "description": "Lice infestation affects scalp causing itching.
