@@ -8,6 +8,13 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+cellulitis": {
+
+"description": "Cellulitis is a bacterial skin infection causing redness and swelling.",
+
+"causes": ["Skin injury",
+
+"remedies": ["Antibiotics", "Rest"]},
 "sunburn": {
 
 "description": "Sunburn is skin damage caused by excessive UV exposure.",
