@@ -8,6 +8,15 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"abscess": {
+
+"description": "Abscess is a collection of pus due to  infection.",
+
+},
+
+"causes": ["Bacterial infection"],
+
+"remedies": ["Drainage", "Antibiotics"]},
 cellulitis": {
 
 "description": "Cellulitis is a bacterial skin infection causing redness and swelling.",
