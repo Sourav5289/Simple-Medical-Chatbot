@@ -8,6 +8,13 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"boils": {
+
+"description": "Boils are painful pus-filled lumps under the skin.",
+
+"causes": ["Bacterial infection"],
+
+"remedies": ["Warm compress", "Medical drainage"]},
 "abscess": {
 
 "description": "Abscess is a collection of pus due to  infection.",
