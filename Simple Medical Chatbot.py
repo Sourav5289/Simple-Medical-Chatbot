@@ -8,6 +8,13 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"warts": {
+
+"description": "Warts are small skin growths caused by HPV virus.",
+
+"causes": ["HPV infection"],
+
+"remedies": ["Salicylic acid", "Cryotherapy"]},
 "boils": {
 
 "description": "Boils are painful pus-filled lumps under the skin.",
