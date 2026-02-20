@@ -8,6 +8,13 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"corns": {
+
+"description": "Corns are thickened skin areas due to
+
+friction.",
+
+"causes": ["Tight footwear"], "remedies": ["Proper shoes", "Foot care"]},
 "warts": {
 
 "description": "Warts are small skin growths caused by HPV virus.",
