@@ -9,7 +9,6 @@ medical_db = {
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
 "corns": {
-
 "description": "Corns are thickened skin areas due to
 
 friction.",
