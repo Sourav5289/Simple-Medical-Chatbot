@@ -11,7 +11,6 @@ medical_db = {
 "corns": {
 "description": "Corns are thickened skin areas due to
 friction.",
-
 "causes": ["Tight footwear"], "remedies": ["Proper shoes", "Foot care"]},
 "warts": {
 
