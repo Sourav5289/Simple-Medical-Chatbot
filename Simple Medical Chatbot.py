@@ -14,7 +14,6 @@ friction.",
 "causes": ["Tight footwear"], "remedies": ["Proper shoes", "Foot care"]},
 
 "warts": {
-
 "description": "Warts are small skin growths caused by HPV virus.",
 
 "causes": ["HPV infection"],
