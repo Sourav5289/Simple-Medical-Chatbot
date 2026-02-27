@@ -20,7 +20,6 @@ friction.",
 
 "remedies": ["Salicylic acid", "Cryotherapy"]},
 "boils": {
-
 "description": "Boils are painful pus-filled lumps under the skin.",
 
 "causes": ["Bacterial infection"],
