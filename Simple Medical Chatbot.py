@@ -15,7 +15,6 @@ friction.",
 
 "warts": {
 "description": "Warts are small skin growths caused by HPV virus.",
-
 "causes": ["HPV infection"],
 
 "remedies": ["Salicylic acid", "Cryotherapy"]},
