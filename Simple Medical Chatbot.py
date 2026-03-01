@@ -8,6 +8,251 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"trigeminal_neuralgia": {
+  "description": "Trigeminal neuralgia is a chronic pain condition affecting the facial nerve.",
+  "causes": ["Nerve compression", "Multiple sclerosis"],
+  "remedies": ["Anticonvulsant medication", "Surgery"]
+},
+
+"guillain_barre_syndrome": {
+  "description": "Guillain-Barré syndrome is an autoimmune disorder causing muscle weakness.",
+  "causes": ["Immune response after infection"],
+  "remedies": ["Immunotherapy", "Supportive care"]
+},
+
+"tourettes_syndrome": {
+  "description": "Tourette syndrome is a neurological disorder causing repetitive movements or sounds.",
+  "causes": ["Genetic factors"],
+  "remedies": ["Behavior therapy", "Medication"]
+},
+
+"narcolepsy": {
+  "description": "Narcolepsy is a sleep disorder causing excessive daytime sleepiness.",
+  "causes": ["Brain chemical imbalance"],
+  "remedies": ["Stimulant medication", "Scheduled naps"]
+},
+
+"restless_leg_syndrome": {
+  "description": "Restless leg syndrome causes urge to move legs during rest.",
+  "causes": ["Iron deficiency", "Nerve disorders"],
+  "remedies": ["Iron supplements", "Medication"]
+},
+
+"cluster_headache": {
+  "description": "Cluster headache causes severe one-sided head pain.",
+  "causes": ["Unknown neurological factors"],
+  "remedies": ["Oxygen therapy", "Medication"]
+},
+
+"tension_headache": {
+  "description": "Tension headache is mild to moderate head pain.",
+  "causes": ["Stress", "Muscle strain"],
+  "remedies": ["Pain relievers", "Relaxation"]
+},
+
+"subarachnoid_hemorrhage": {
+  "description": "Subarachnoid hemorrhage is bleeding in the space around the brain.",
+  "causes": ["Ruptured aneurysm"],
+  "remedies": ["Emergency surgery"]
+},
+
+"brain_tumor": {
+  "description": "Brain tumor is abnormal growth of cells in the brain.",
+  "causes": ["Genetic mutations"],
+  "remedies": ["Surgery", "Radiation therapy"]
+},
+
+"concussion": {
+  "description": "Concussion is a mild traumatic brain injury.",
+  "causes": ["Head injury"],
+  "remedies": ["Rest", "Medical monitoring"]
+},
+
+"heat_cramps": {
+  "description": "Heat cramps are painful muscle spasms due to heat exposure.",
+  "causes": ["Dehydration", "Electrolyte imbalance"],
+  "remedies": ["Hydration", "Electrolyte drinks"]
+},
+
+"water_intoxication": {
+  "description": "Water intoxication is overhydration leading to low sodium levels.",
+  "causes": ["Excess water intake"],
+  "remedies": ["Electrolyte correction", "Medical care"]
+},
+
+"carbon_monoxide_poisoning": {
+  "description": "Carbon monoxide poisoning occurs from inhaling CO gas.",
+  "causes": ["Faulty heaters", "Car exhaust"],
+  "remedies": ["Oxygen therapy", "Emergency care"]
+},
+
+"lead_poisoning": {
+  "description": "Lead poisoning results from lead accumulation in body.",
+  "causes": ["Contaminated water", "Lead paint"],
+  "remedies": ["Chelation therapy"]
+},
+
+"mercury_poisoning": {
+  "description": "Mercury poisoning affects nervous system.",
+  "causes": ["Contaminated seafood"],
+  "remedies": ["Chelation therapy"]
+},
+
+"arsenic_poisoning": {
+  "description": "Arsenic poisoning occurs from contaminated water or food.",
+  "causes": ["Industrial exposure"],
+  "remedies": ["Chelation therapy"]
+},
+
+"silicosis": {
+  "description": "Silicosis is lung disease from silica dust inhalation.",
+  "causes": ["Occupational exposure"],
+  "remedies": ["Supportive care"]
+},
+
+"asbestosis": {
+  "description": "Asbestosis is lung scarring from asbestos exposure.",
+  "causes": ["Inhalation of asbestos fibers"],
+  "remedies": ["Oxygen therapy"]
+},
+
+"black_lung_disease": {
+  "description": "Black lung disease affects coal miners.",
+  "causes": ["Coal dust inhalation"],
+  "remedies": ["Supportive care"]
+},
+
+"mesothelioma": {
+  "description": "Mesothelioma is cancer linked to asbestos exposure.",
+  "causes": ["Asbestos exposure"],
+  "remedies": ["Chemotherapy", "Surgery"]
+},
+
+"whooping_cough": {
+  "description": "Whooping cough is a contagious bacterial respiratory infection.",
+  "causes": ["Bordetella pertussis bacteria"],
+  "remedies": ["Antibiotics", "Vaccination"]
+},
+
+"mononucleosis": {
+  "description": "Mononucleosis is viral infection causing fatigue and sore throat.",
+  "causes": ["Epstein-Barr virus"],
+  "remedies": ["Rest", "Hydration"]
+},
+
+"hand_tremor": {
+  "description": "Hand tremor is involuntary shaking of hands.",
+  "causes": ["Neurological disorders", "Stress"],
+  "remedies": ["Medication", "Therapy"]
+},
+
+"kyphosis": {
+  "description": "Kyphosis is excessive curvature of upper spine.",
+  "causes": ["Poor posture", "Osteoporosis"],
+  "remedies": ["Physical therapy", "Bracing"]
+},
+
+"scoliosis": {
+  "description": "Scoliosis is sideways curvature of spine.",
+  "causes": ["Congenital factors"],
+  "remedies": ["Bracing", "Surgery"]
+},
+
+"lordosis": {
+  "description": "Lordosis is excessive inward spinal curvature.",
+  "causes": ["Obesity", "Muscle imbalance"],
+  "remedies": ["Exercise therapy"]
+},
+
+"frozen_shoulder": {
+  "description": "Frozen shoulder causes stiffness and pain in shoulder joint.",
+  "causes": ["Immobility", "Diabetes"],
+  "remedies": ["Physiotherapy", "Pain relief"]
+},
+
+"rotator_cuff_injury": {
+  "description": "Rotator cuff injury affects shoulder tendons.",
+  "causes": ["Overuse", "Trauma"],
+  "remedies": ["Rest", "Surgery if severe"]
+},
+
+"plantar_fasciitis": {
+  "description": "Plantar fasciitis causes heel pain.",
+  "causes": ["Overuse", "Flat feet"],
+  "remedies": ["Stretching", "Orthotics"]
+},
+
+"bursitis": {
+  "description": "Bursitis is inflammation of fluid-filled sacs near joints.",
+  "causes": ["Repetitive motion"],
+  "remedies": ["Rest", "Anti-inflammatory medication"]
+},
+
+"tendinitis": {
+  "description": "Tendinitis is inflammation of a tendon.",
+  "causes": ["Overuse injury"],
+  "remedies": ["Rest", "Ice therapy"]
+},
+
+"shingles": {
+  "description": "Shingles is viral infection causing painful rash.",
+  "causes": ["Reactivation of varicella virus"],
+  "remedies": ["Antiviral medication"]
+},
+
+"herpes_simplex": {
+  "description": "Herpes simplex is viral infection causing sores.",
+  "causes": ["HSV infection"],
+  "remedies": ["Antiviral drugs"]
+},
+
+"genital_warts": {
+  "description": "Genital warts are caused by HPV infection.",
+  "causes": ["Human papillomavirus"],
+  "remedies": ["Topical treatment", "Cryotherapy"]
+},
+
+"syphilis": {
+  "description": "Syphilis is bacterial sexually transmitted infection.",
+  "causes": ["Treponema pallidum"],
+  "remedies": ["Antibiotics"]
+},
+
+"gonorrhea": {
+  "description": "Gonorrhea is sexually transmitted bacterial infection.",
+  "causes": ["Neisseria gonorrhoeae"],
+  "remedies": ["Antibiotics"]
+},
+
+"chlamydia": {
+  "description": "Chlamydia is common sexually transmitted infection.",
+  "causes": ["Chlamydia trachomatis"],
+  "remedies": ["Antibiotics"]
+},
+
+"hiv_aids": {
+  "description": "HIV/AIDS is viral infection damaging immune system.",
+  "causes": ["Human immunodeficiency virus"],
+  "remedies": ["Antiretroviral therapy"]
+},
+
+"hepatitis_a": {
+  "description": "Hepatitis A is viral liver infection.",
+  "causes": ["Contaminated food or water"],
+  "remedies": ["Rest", "Vaccination prevention"]
+},
+
+"hepatitis_b": {
+  "description": "Hepatitis B is viral liver infection.",
+  "causes": ["Blood or body fluids"],
+  "remedies": ["Antiviral medication", "Vaccination prevention"]
+},
+
+"hepatitis_c": {
+  "description": "Hepatitis C is viral infection causing liver inflammation.",
+  "causes": ["Blood exposure"],
+  "remedies": ["Antiviral medication"]
+}
 "sarcoidosis": {
   "description": "Sarcoidosis is an inflammatory disease that forms granulomas in organs.",
   "causes": ["Immune system overreaction", "Unknown triggers"],
