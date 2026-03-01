@@ -13,6 +13,245 @@ medical_db = {
   "causes": ["Inherited genetic mutation"],
   "remedies": ["Monitoring", "Surgical removal if needed"]
 },
+"myocardial_infarction": {
+  "description": "Myocardial infarction, commonly called a heart attack, occurs when blood flow to the heart is blocked.",
+  "causes": ["Coronary artery blockage", "Blood clot"],
+  "remedies": ["Emergency medical care", "Medications", "Surgery"]
+},
+
+"hypertrophic_cardiomyopathy": {
+  "description": "Hypertrophic cardiomyopathy is thickening of the heart muscle.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Medications", "Surgical procedures"]
+},
+
+"dilated_cardiomyopathy": {
+  "description": "Dilated cardiomyopathy causes enlargement of the heart chambers.",
+  "causes": ["Genetics", "Alcohol abuse"],
+  "remedies": ["Medications", "Heart transplant in severe cases"]
+},
+
+"restrictive_cardiomyopathy": {
+  "description": "Restrictive cardiomyopathy reduces heart flexibility.",
+  "causes": ["Amyloidosis", "Scar tissue"],
+  "remedies": ["Medications", "Treat underlying cause"]
+},
+
+"thoracic_aneurysm": {
+  "description": "Thoracic aneurysm is abnormal bulging in chest aorta.",
+  "causes": ["High blood pressure", "Atherosclerosis"],
+  "remedies": ["Surgical repair"]
+},
+
+"abdominal_aortic_aneurysm": {
+  "description": "Abdominal aortic aneurysm is enlargement of lower aorta.",
+  "causes": ["Smoking", "High blood pressure"],
+  "remedies": ["Surgery"]
+},
+
+"mitral_valve_prolapse": {
+  "description": "Mitral valve prolapse occurs when valve bulges backward.",
+  "causes": ["Connective tissue disorder"],
+  "remedies": ["Monitoring", "Surgery if severe"]
+},
+
+"aortic_stenosis": {
+  "description": "Aortic stenosis is narrowing of aortic valve.",
+  "causes": ["Aging", "Congenital defect"],
+  "remedies": ["Valve replacement"]
+},
+
+"mitral_regurgitation": {
+  "description": "Mitral regurgitation is leakage of blood backward in heart.",
+  "causes": ["Valve damage"],
+  "remedies": ["Surgery"]
+},
+
+"rheumatoid_arthritis": {
+  "description": "Rheumatoid arthritis is autoimmune joint inflammation.",
+  "causes": ["Immune system attack"],
+  "remedies": ["Immunosuppressants", "Physical therapy"]
+},
+
+"juvenile_arthritis": {
+  "description": "Juvenile arthritis affects children’s joints.",
+  "causes": ["Autoimmune factors"],
+  "remedies": ["Medication", "Therapy"]
+},
+
+"ankle_sprain": {
+  "description": "Ankle sprain is ligament injury in ankle.",
+  "causes": ["Twisting injury"],
+  "remedies": ["Rest", "Ice", "Compression"]
+},
+
+"patellar_tendinitis": {
+  "description": "Patellar tendinitis causes knee pain.",
+  "causes": ["Overuse injury"],
+  "remedies": ["Rest", "Physiotherapy"]
+},
+
+"meniscus_tear": {
+  "description": "Meniscus tear is knee cartilage injury.",
+  "causes": ["Sudden twisting"],
+  "remedies": ["Rest", "Surgery if severe"]
+},
+
+"degenerative_disc_disease": {
+  "description": "Degenerative disc disease affects spinal discs.",
+  "causes": ["Aging"],
+  "remedies": ["Physical therapy", "Pain relief"]
+},
+
+"herniated_disc": {
+  "description": "Herniated disc occurs when spinal disc bulges.",
+  "causes": ["Spinal strain"],
+  "remedies": ["Physiotherapy", "Surgery if severe"]
+},
+
+"spinal_stenosis": {
+  "description": "Spinal stenosis is narrowing of spinal canal.",
+  "causes": ["Arthritis"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"osteogenesis_imperfecta": {
+  "description": "Osteogenesis imperfecta causes brittle bones.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Supportive care"]
+},
+
+"paget_disease_of_bone": {
+  "description": "Paget disease disrupts bone remodeling.",
+  "causes": ["Genetic factors"],
+  "remedies": ["Medication"]
+},
+
+"costochondritis": {
+  "description": "Costochondritis is inflammation of chest cartilage.",
+  "causes": ["Injury", "Infection"],
+  "remedies": ["Pain relievers"]
+},
+
+"thalassemia_minor": {
+  "description": "Thalassemia minor is mild inherited blood disorder.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Monitoring"]
+},
+
+"iron_deficiency_anemia": {
+  "description": "Iron deficiency anemia results from low iron levels.",
+  "causes": ["Poor diet", "Blood loss"],
+  "remedies": ["Iron supplements"]
+},
+
+"pernicious_anemia": {
+  "description": "Pernicious anemia is vitamin B12 deficiency anemia.",
+  "causes": ["Autoimmune disorder"],
+  "remedies": ["Vitamin B12 injections"]
+},
+
+"hemolytic_anemia": {
+  "description": "Hemolytic anemia is destruction of red blood cells.",
+  "causes": ["Autoimmune disease"],
+  "remedies": ["Medication"]
+},
+
+"thrombocytopenia": {
+  "description": "Thrombocytopenia is low platelet count.",
+  "causes": ["Bone marrow disorders"],
+  "remedies": ["Treat underlying cause"]
+},
+
+"hyperparathyroidism": {
+  "description": "Hyperparathyroidism causes excess parathyroid hormone.",
+  "causes": ["Parathyroid tumor"],
+  "remedies": ["Surgery"]
+},
+
+"hypoparathyroidism": {
+  "description": "Hypoparathyroidism is low parathyroid hormone.",
+  "causes": ["Surgical removal"],
+  "remedies": ["Calcium supplements"]
+},
+
+"diabetic_neuropathy": {
+  "description": "Diabetic neuropathy damages nerves due to diabetes.",
+  "causes": ["High blood sugar"],
+  "remedies": ["Blood sugar control"]
+},
+
+"diabetic_retinopathy": {
+  "description": "Diabetic retinopathy damages retinal blood vessels.",
+  "causes": ["Uncontrolled diabetes"],
+  "remedies": ["Laser therapy"]
+},
+
+"diabetic_nephropathy": {
+  "description": "Diabetic nephropathy damages kidneys.",
+  "causes": ["Chronic high blood sugar"],
+  "remedies": ["Blood sugar control"]
+},
+
+"methemoglobinemia": {
+  "description": "Methemoglobinemia reduces oxygen delivery in blood.",
+  "causes": ["Genetic defect", "Drug exposure"],
+  "remedies": ["Methylene blue treatment"]
+},
+
+"gouty_arthritis": {
+  "description": "Gouty arthritis causes joint inflammation from uric acid.",
+  "causes": ["High uric acid"],
+  "remedies": ["Medication", "Diet control"]
+},
+
+"complex_regional_pain_syndrome": {
+  "description": "CRPS causes chronic pain after injury.",
+  "causes": ["Nerve dysfunction"],
+  "remedies": ["Physical therapy", "Medication"]
+},
+
+"narcolepsy_type_1": {
+  "description": "Narcolepsy type 1 includes sudden muscle weakness.",
+  "causes": ["Hypocretin deficiency"],
+  "remedies": ["Stimulants"]
+},
+
+"sleep_paralysis": {
+  "description": "Sleep paralysis is temporary inability to move during sleep.",
+  "causes": ["Sleep cycle disruption"],
+  "remedies": ["Improve sleep hygiene"]
+},
+
+"jet_lag": {
+  "description": "Jet lag is temporary sleep disturbance from travel.",
+  "causes": ["Time zone changes"],
+  "remedies": ["Gradual schedule adjustment"]
+},
+
+"seasonal_affective_disorder": {
+  "description": "SAD is depression related to seasonal changes.",
+  "causes": ["Reduced sunlight"],
+  "remedies": ["Light therapy"]
+},
+
+"claustrophobia": {
+  "description": "Claustrophobia is fear of confined spaces.",
+  "causes": ["Anxiety disorder"],
+  "remedies": ["Therapy"]
+},
+
+"agoraphobia": {
+  "description": "Agoraphobia is fear of open or crowded spaces.",
+  "causes": ["Anxiety disorder"],
+  "remedies": ["Cognitive behavioral therapy"]
+},
+
+"social_anxiety_disorder": {
+  "description": "Social anxiety disorder causes intense fear of social situations.",
+  "causes": ["Psychological factors"],
+  "remedies": ["Therapy", "Medication"]
+}
 
 "tuberous_sclerosis": {
   "description": "Tuberous sclerosis is a genetic disorder causing benign tumors in organs.",
