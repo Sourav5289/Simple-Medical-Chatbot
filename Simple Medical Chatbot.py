@@ -8,6 +8,263 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"sarcoidosis": {
+  "description": "Sarcoidosis is an inflammatory disease that forms granulomas in organs.",
+  "causes": ["Immune system overreaction", "Unknown triggers"],
+  "remedies": ["Corticosteroids", "Immunosuppressants"]
+},
+
+"scleroderma": {
+  "description": "Scleroderma is an autoimmune disease causing skin thickening.",
+  "causes": ["Immune dysfunction"],
+  "remedies": ["Immunotherapy", "Symptom management"]
+},
+
+"lupus": {
+  "description": "Lupus is an autoimmune disease affecting multiple organs.",
+  "causes": ["Genetics", "Environmental triggers"],
+  "remedies": ["Immunosuppressants", "Anti-inflammatory drugs"]
+},
+
+"rheumatic_fever": {
+  "description": "Rheumatic fever is an inflammatory disease following strep infection.",
+  "causes": ["Untreated streptococcal infection"],
+  "remedies": ["Antibiotics", "Anti-inflammatory medication"]
+},
+
+"ankylosing_spondylitis": {
+  "description": "Ankylosing spondylitis is arthritis affecting the spine.",
+  "causes": ["Genetic factors"],
+  "remedies": ["Exercise", "Medication"]
+},
+
+"fibromyalgia": {
+  "description": "Fibromyalgia causes widespread muscle pain and fatigue.",
+  "causes": ["Unknown", "Stress triggers"],
+  "remedies": ["Pain management", "Exercise"]
+},
+
+"chronic_fatigue_syndrome": {
+  "description": "Chronic fatigue syndrome causes extreme fatigue.",
+  "causes": ["Unknown", "Viral triggers"],
+  "remedies": ["Energy management", "Therapy"]
+},
+
+"raynaud_disease": {
+  "description": "Raynaud disease reduces blood flow to fingers and toes.",
+  "causes": ["Cold exposure", "Stress"],
+  "remedies": ["Keep warm", "Medication"]
+},
+
+"crohn_disease": {
+  "description": "Crohn disease is inflammatory bowel disease.",
+  "causes": ["Immune response", "Genetics"],
+  "remedies": ["Medication", "Diet control"]
+},
+
+"ulcerative_colitis": {
+  "description": "Ulcerative colitis causes inflammation in colon.",
+  "causes": ["Autoimmune factors"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"diverticulitis": {
+  "description": "Diverticulitis is inflammation of colon pouches.",
+  "causes": ["Infection"],
+  "remedies": ["Antibiotics", "Diet changes"]
+},
+
+"barrett_esophagus": {
+  "description": "Barrett esophagus is damage to esophageal lining from acid reflux.",
+  "causes": ["Chronic GERD"],
+  "remedies": ["Acid reducers", "Monitoring"]
+},
+
+"achalasia": {
+  "description": "Achalasia is difficulty swallowing due to esophageal dysfunction.",
+  "causes": ["Nerve damage"],
+  "remedies": ["Surgery", "Medication"]
+},
+
+"hiatal_hernia": {
+  "description": "Hiatal hernia occurs when stomach pushes into chest cavity.",
+  "causes": ["Weak diaphragm"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"inguinal_hernia": {
+  "description": "Inguinal hernia is protrusion in groin area.",
+  "causes": ["Muscle weakness"],
+  "remedies": ["Surgical repair"]
+},
+
+"umbilical_hernia": {
+  "description": "Umbilical hernia is swelling near navel.",
+  "causes": ["Weak abdominal wall"],
+  "remedies": ["Surgery if needed"]
+},
+
+"hydrocele": {
+  "description": "Hydrocele is fluid buildup in scrotum.",
+  "causes": ["Injury", "Infection"],
+  "remedies": ["Surgery"]
+},
+
+"varicocele": {
+  "description": "Varicocele is enlarged veins in scrotum.",
+  "causes": ["Poor vein valves"],
+  "remedies": ["Surgery"]
+},
+
+"interstitial_cystitis": {
+  "description": "Interstitial cystitis causes chronic bladder pain.",
+  "causes": ["Unknown"],
+  "remedies": ["Medication", "Bladder training"]
+},
+
+"nephritis": {
+  "description": "Nephritis is inflammation of kidneys.",
+  "causes": ["Infection", "Autoimmune disease"],
+  "remedies": ["Medication", "Diet control"]
+},
+
+"glomerulonephritis": {
+  "description": "Glomerulonephritis damages kidney filtering units.",
+  "causes": ["Infection", "Immune disorders"],
+  "remedies": ["Medication", "Dialysis"]
+},
+
+"cystitis": {
+  "description": "Cystitis is bladder inflammation.",
+  "causes": ["Bacterial infection"],
+  "remedies": ["Antibiotics", "Hydration"]
+},
+
+"urethritis": {
+  "description": "Urethritis is inflammation of urethra.",
+  "causes": ["Bacterial infection", "STIs"],
+  "remedies": ["Antibiotics"]
+},
+
+"pelvic_inflammatory_disease": {
+  "description": "PID is infection of female reproductive organs.",
+  "causes": ["Sexually transmitted infections"],
+  "remedies": ["Antibiotics"]
+},
+
+"uterine_fibroids": {
+  "description": "Uterine fibroids are noncancerous growths in uterus.",
+  "causes": ["Hormonal imbalance"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"adenomyosis": {
+  "description": "Adenomyosis is uterine lining growth into muscle wall.",
+  "causes": ["Hormonal factors"],
+  "remedies": ["Pain management", "Surgery"]
+},
+
+"preeclampsia": {
+  "description": "Preeclampsia is high blood pressure during pregnancy.",
+  "causes": ["Pregnancy complications"],
+  "remedies": ["Monitoring", "Early delivery if severe"]
+},
+
+"gestational_diabetes": {
+  "description": "Gestational diabetes occurs during pregnancy.",
+  "causes": ["Hormonal changes"],
+  "remedies": ["Diet control", "Insulin"]
+},
+
+"miscarriage": {
+  "description": "Miscarriage is pregnancy loss before 20 weeks.",
+  "causes": ["Chromosomal abnormalities"],
+  "remedies": ["Medical care"]
+},
+
+"ectopic_pregnancy": {
+  "description": "Ectopic pregnancy occurs outside uterus.",
+  "causes": ["Blocked fallopian tube"],
+  "remedies": ["Emergency treatment"]
+},
+
+"infertility": {
+  "description": "Infertility is inability to conceive after one year.",
+  "causes": ["Hormonal imbalance", "Low sperm count"],
+  "remedies": ["Fertility treatment"]
+},
+
+"andropause": {
+  "description": "Andropause is age-related testosterone decline in men.",
+  "causes": ["Aging"],
+  "remedies": ["Hormone therapy"]
+},
+
+"metabolic_syndrome": {
+  "description": "Metabolic syndrome is cluster of conditions increasing heart risk.",
+  "causes": ["Obesity", "Insulin resistance"],
+  "remedies": ["Lifestyle changes"]
+},
+
+"hyperlipidemia": {
+  "description": "Hyperlipidemia is high levels of fats in blood.",
+  "causes": ["Poor diet", "Genetics"],
+  "remedies": ["Diet control", "Medication"]
+},
+
+"hypoglycemia": {
+  "description": "Hypoglycemia is low blood sugar.",
+  "causes": ["Excess insulin", "Skipping meals"],
+  "remedies": ["Glucose intake"]
+},
+
+"hypercalcemia": {
+  "description": "Hypercalcemia is high calcium levels in blood.",
+  "causes": ["Parathyroid disorders"],
+  "remedies": ["Hydration", "Medication"]
+},
+
+"hypocalcemia": {
+  "description": "Hypocalcemia is low calcium levels.",
+  "causes": ["Vitamin D deficiency"],
+  "remedies": ["Calcium supplements"]
+},
+
+"rickets": {
+  "description": "Rickets is bone weakness in children.",
+  "causes": ["Vitamin D deficiency"],
+  "remedies": ["Vitamin D supplements"]
+},
+
+"scurvy": {
+  "description": "Scurvy is vitamin C deficiency disease.",
+  "causes": ["Poor diet"],
+  "remedies": ["Vitamin C intake"]
+},
+
+"beriberi": {
+  "description": "Beriberi is vitamin B1 deficiency disease.",
+  "causes": ["Malnutrition"],
+  "remedies": ["Thiamine supplements"]
+},
+
+"pellagra": {
+  "description": "Pellagra is niacin deficiency disease.",
+  "causes": ["Poor nutrition"],
+  "remedies": ["Niacin supplements"]
+},
+
+"kwashiorkor": {
+  "description": "Kwashiorkor is severe protein malnutrition.",
+  "causes": ["Protein deficiency"],
+  "remedies": ["Nutritional therapy"]
+},
+
+"marasmus": {
+  "description": "Marasmus is severe calorie deficiency malnutrition.",
+  "causes": ["Starvation"],
+  "remedies": ["Gradual nutritional rehabilitation"]
+}
 "meningitis": {
   "description": "Meningitis is inflammation of the protective membranes covering the brain and spinal cord.",
   "causes": ["Bacterial infection", "Viral infection", "Fungal infection"],
