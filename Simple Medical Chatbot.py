@@ -8,6 +8,323 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"motion_sickness": {
+  "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
+  "causes": ["Travel by car/boat/air", "Inner ear sensitivity"],
+  "remedies": ["Look at horizon", "Ginger", "Motion sickness tablets"]
+},
+
+"heatstroke": {
+  "description": "Heatstroke is a severe heat-related illness with very high body temperature.",
+  "causes": ["Prolonged heat exposure", "Dehydration"],
+  "remedies": ["Cool the body", "Fluids", "Emergency medical care"]
+},
+
+"hypothermia": {
+  "description": "Hypothermia occurs when body temperature drops dangerously low.",
+  "causes": ["Cold exposure", "Wet clothing"],
+  "remedies": ["Warm blankets", "Warm drinks", "Medical help"]
+},
+
+"sunburn": {
+  "description": "Sunburn is skin damage caused by excessive UV exposure.",
+  "causes": ["Prolonged sun exposure"],
+  "remedies": ["Aloe vera", "Cool bath", "Hydration"]
+},
+
+"ringworm": {
+  "description": "Ringworm is a fungal skin infection causing circular rash.",
+  "causes": ["Fungal infection", "Contact with infected surfaces"],
+  "remedies": ["Antifungal creams", "Keep area dry"]
+},
+
+"scabies": {
+  "description": "Scabies is a skin infestation by mites causing itching.",
+  "causes": ["Mite infestation", "Close contact"],
+  "remedies": ["Medicated lotions", "Wash clothes in hot water"]
+},
+
+"lice_infestation": {
+  "description": "Lice infestation affects scalp causing itching.",
+  "causes": ["Head-to-head contact"],
+  "remedies": ["Medicated shampoo", "Fine combing"]
+},
+
+"impetigo": {
+  "description": "Impetigo is a contagious bacterial skin infection.",
+  "causes": ["Bacteria", "Skin cuts"],
+  "remedies": ["Antibiotic ointment", "Hygiene"]
+},
+
+"cellulitis": {
+  "description": "Cellulitis is a bacterial skin infection causing redness and swelling.",
+  "causes": ["Skin injury", "Bacteria"],
+  "remedies": ["Antibiotics", "Rest"]
+},
+
+"abscess": {
+  "description": "Abscess is a collection of pus due to infection.",
+  "causes": ["Bacterial infection"],
+  "remedies": ["Drainage", "Antibiotics"]
+},
+
+"boils": {
+  "description": "Boils are painful pus-filled lumps under the skin.",
+  "causes": ["Bacterial infection"],
+  "remedies": ["Warm compress", "Medical drainage"]
+},
+
+"warts": {
+  "description": "Warts are small skin growths caused by HPV virus.",
+  "causes": ["HPV infection"],
+  "remedies": ["Salicylic acid", "Cryotherapy"]
+},
+
+"corns": {
+  "description": "Corns are thickened skin areas due to friction.",
+  "causes": ["Tight footwear"],
+  "remedies": ["Proper shoes", "Foot care"]
+},
+
+"calluses": {
+  "description": "Calluses are hardened skin areas due to pressure.",
+  "causes": ["Repeated friction"],
+  "remedies": ["Moisturizers", "Reduce pressure"]
+},
+
+"frostbite": {
+  "description": "Frostbite is skin and tissue injury from freezing.",
+  "causes": ["Extreme cold"],
+  "remedies": ["Warm gradually", "Medical care"]
+},
+
+"heat_rash": {
+  "description": "Heat rash is skin irritation from blocked sweat ducts.",
+  "causes": ["Hot humid weather"],
+  "remedies": ["Cool skin", "Loose clothing"]
+},
+
+"dehydration": {
+  "description": "Dehydration occurs when body loses more fluids than taken in.",
+  "causes": ["Vomiting", "Heat", "Low water intake"],
+  "remedies": ["ORS", "Water", "Electrolytes"]
+},
+
+"electrolyte_imbalance": {
+  "description": "Electrolyte imbalance affects body functions due to mineral level changes.",
+  "causes": ["Vomiting", "Kidney issues"],
+  "remedies": ["Fluids", "Medical correction"]
+},
+
+"food_allergy": {
+  "description": "Food allergy is immune reaction to certain foods.",
+  "causes": ["Peanuts", "Milk", "Shellfish"],
+  "remedies": ["Avoid allergen", "Antihistamines"]
+},
+
+"lactose_intolerance": {
+  "description": "Lactose intolerance causes digestive issues after dairy intake.",
+  "causes": ["Lactase deficiency"],
+  "remedies": ["Lactose-free foods", "Enzyme supplements"]
+},
+
+"celiac_disease": {
+  "description": "Celiac disease is an autoimmune reaction to gluten.",
+  "causes": ["Genetic", "Gluten intake"],
+  "remedies": ["Gluten-free diet"]
+},
+
+"gerd": {
+  "description": "GERD is acid reflux causing heartburn.",
+  "causes": ["Obesity", "Spicy food"],
+  "remedies": ["Antacids", "Diet control"]
+},
+
+"hiccups": {
+  "description": "Hiccups are involuntary diaphragm contractions.",
+  "causes": ["Eating fast", "Carbonated drinks"],
+  "remedies": ["Hold breath", "Sip water"]
+},
+
+"nosebleed": {
+  "description": "Nosebleed is bleeding from nasal passages.",
+  "causes": ["Dry air", "Injury"],
+  "remedies": ["Pinch nose", "Lean forward"]
+},
+
+"earwax_blockage": {
+  "description": "Earwax blockage occurs when wax accumulates in ear canal.",
+  "causes": ["Excess wax"],
+  "remedies": ["Ear drops", "Medical removal"]
+},
+
+"tooth_decay": {
+  "description": "Tooth decay is damage to teeth due to bacteria.",
+  "causes": ["Sugary foods", "Poor hygiene"],
+  "remedies": ["Brushing", "Dental treatment"]
+},
+
+"gingivitis": {
+  "description": "Gingivitis is gum inflammation.",
+  "causes": ["Plaque buildup"],
+  "remedies": ["Oral hygiene", "Dental cleaning"]
+},
+
+"periodontitis": {
+  "description": "Periodontitis is severe gum infection.",
+  "causes": ["Untreated gingivitis"],
+  "remedies": ["Dental treatment"]
+},
+
+"tooth_sensitivity": {
+  "description": "Tooth sensitivity causes pain to hot or cold.",
+  "causes": ["Enamel erosion"],
+  "remedies": ["Desensitizing toothpaste"]
+},
+
+"mouth_ulcer": {
+  "description": "Mouth ulcers are painful sores in the mouth.",
+  "causes": ["Stress", "Injury"],
+  "remedies": ["Salt rinse", "Topical gels"]
+},
+
+"cold_sore": {
+  "description": "Cold sores are blisters caused by herpes virus.",
+  "causes": ["HSV infection"],
+  "remedies": ["Antiviral creams"]
+},
+
+"hand_foot_mouth_disease": {
+  "description": "Viral illness causing sores in mouth and rash.",
+  "causes": ["Enterovirus"],
+  "remedies": ["Rest", "Fluids"]
+},
+
+"pink_eye": {
+  "description": "Pink eye is inflammation of conjunctiva.",
+  "causes": ["Virus", "Bacteria"],
+  "remedies": ["Eye drops", "Hygiene"]
+},
+
+"stye": {
+  "description": "Stye is a painful eyelid lump.",
+  "causes": ["Bacterial infection"],
+  "remedies": ["Warm compress"]
+},
+
+"dry_eye": {
+  "description": "Dry eye occurs when tears are insufficient.",
+  "causes": ["Screen use", "Aging"],
+  "remedies": ["Artificial tears"]
+},
+
+"color_blindness": {
+  "description": "Color blindness affects color perception.",
+  "causes": ["Genetics"],
+  "remedies": ["Corrective lenses"]
+},
+
+"carpal_tunnel_syndrome": {
+  "description": "Nerve compression in wrist causing pain.",
+  "causes": ["Repetitive motion"],
+  "remedies": ["Wrist splint", "Rest"]
+},
+
+"tennis_elbow": {
+  "description": "Tennis elbow is tendon inflammation in elbow.",
+  "causes": ["Overuse"],
+  "remedies": ["Rest", "Ice"]
+},
+
+"sprain": {
+  "description": "Sprain is ligament injury.",
+  "causes": ["Twisting injury"],
+  "remedies": ["Rest", "Ice", "Compression"]
+},
+
+"strain": {
+  "description": "Strain is muscle or tendon injury.",
+  "causes": ["Overstretching"],
+  "remedies": ["Rest", "Pain relief"]
+},
+
+"fracture": {
+  "description": "Fracture is a broken bone.",
+  "causes": ["Trauma"],
+  "remedies": ["Immobilization", "Medical care"]
+},
+
+"dislocation": {
+  "description": "Dislocation is bone displacement from joint.",
+  "causes": ["Injury"],
+  "remedies": ["Medical reposition"]
+},
+
+"burn": {
+  "description": "Burn is skin damage from heat or chemicals.",
+  "causes": ["Fire", "Hot liquids"],
+  "remedies": ["Cool water", "Burn cream"]
+},
+
+"electric_shock": {
+  "description": "Electric shock injury from current exposure.",
+  "causes": ["Electrical contact"],
+  "remedies": ["Emergency care"]
+},
+
+"poisoning": {
+  "description": "Poisoning occurs from harmful substance intake.",
+  "causes": ["Chemicals", "Drugs"],
+  "remedies": ["Medical help"]
+},
+
+"snake_bite": {
+  "description": "Snake bite injects venom.",
+  "causes": ["Venomous snake"],
+  "remedies": ["Antivenom", "Hospital care"]
+},
+
+"insect_sting_allergy": {
+  "description": "Allergic reaction to insect sting.",
+  "causes": ["Bee/wasp sting"],
+  "remedies": ["Antihistamines", "Epinephrine"]
+},
+
+"altitude_sickness": {
+  "description": "Altitude sickness from low oxygen at high altitudes.",
+  "causes": ["Rapid ascent"],
+  "remedies": ["Descend", "Oxygen"]
+},
+
+"panic_attack": {
+  "description": "Sudden intense fear with physical symptoms.",
+  "causes": ["Stress", "Anxiety disorder"],
+  "remedies": ["Breathing exercises", "Therapy"]
+},
+
+"adhd": {
+  "description": "ADHD affects attention and impulse control.",
+  "causes": ["Genetics", "Brain development"],
+  "remedies": ["Behavior therapy", "Medication"]
+},
+
+"autism": {
+  "description": "Autism is a developmental condition affecting communication.",
+  "causes": ["Genetic factors"],
+  "remedies": ["Therapy", "Support programs"]
+},
+
+"dyslexia": {
+  "description": "Dyslexia affects reading ability.",
+  "causes": ["Neurological factors"],
+  "remedies": ["Special education"]
+},
+
+"stuttering": {
+  "description": "Speech disorder with repetition of sounds.",
+  "causes": ["Developmental factors"],
+  "remedies": ["Speech therapy"]
+}
 "corns": {
 "description": "Corns are thickened skin areas due to
 friction.",
