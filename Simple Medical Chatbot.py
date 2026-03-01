@@ -8,6 +8,263 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"meningitis": {
+  "description": "Meningitis is inflammation of the protective membranes covering the brain and spinal cord.",
+  "causes": ["Bacterial infection", "Viral infection", "Fungal infection"],
+  "remedies": ["Antibiotics if bacterial", "Hospital care", "Vaccination prevention"]
+},
+
+"encephalitis": {
+  "description": "Encephalitis is inflammation of the brain tissue.",
+  "causes": ["Viral infections", "Autoimmune response"],
+  "remedies": ["Antiviral drugs", "Supportive hospital care"]
+},
+
+"multiple_sclerosis": {
+  "description": "Multiple sclerosis is an autoimmune disease affecting the central nervous system.",
+  "causes": ["Immune system attack on nerves", "Genetics"],
+  "remedies": ["Disease-modifying therapy", "Physiotherapy"]
+},
+
+"parkinson_disease": {
+  "description": "Parkinson disease is a progressive nervous system disorder affecting movement.",
+  "causes": ["Loss of dopamine-producing neurons", "Genetics"],
+  "remedies": ["Medications", "Physical therapy"]
+},
+
+"alzheimer_disease": {
+  "description": "Alzheimer disease is a progressive brain disorder causing memory loss.",
+  "causes": ["Age-related changes", "Genetics"],
+  "remedies": ["Medications", "Cognitive therapy"]
+},
+
+"huntington_disease": {
+  "description": "Huntington disease is an inherited disorder causing nerve cell breakdown.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Supportive therapy", "Medications"]
+},
+
+"amyotrophic_lateral_sclerosis": {
+  "description": "ALS is a progressive disease affecting nerve cells controlling muscles.",
+  "causes": ["Genetics", "Unknown factors"],
+  "remedies": ["Supportive care", "Medications"]
+},
+
+"cerebral_palsy": {
+  "description": "Cerebral palsy affects movement and posture due to brain damage.",
+  "causes": ["Birth injury", "Premature birth"],
+  "remedies": ["Physical therapy", "Assistive devices"]
+},
+
+"bell_palsy": {
+  "description": "Bell palsy causes sudden weakness in facial muscles.",
+  "causes": ["Viral infection"],
+  "remedies": ["Steroids", "Eye care"]
+},
+
+"myasthenia_gravis": {
+  "description": "Myasthenia gravis is an autoimmune disorder causing muscle weakness.",
+  "causes": ["Immune system attack on nerve-muscle junction"],
+  "remedies": ["Medications", "Thymus surgery"]
+},
+
+"lyme_disease": {
+  "description": "Lyme disease is a bacterial infection transmitted by ticks.",
+  "causes": ["Tick bite"],
+  "remedies": ["Antibiotics"]
+},
+
+"zika": {
+  "description": "Zika is a viral infection spread by mosquitoes.",
+  "causes": ["Aedes mosquito bite"],
+  "remedies": ["Rest", "Hydration"]
+},
+
+"yellow_fever": {
+  "description": "Yellow fever is a viral hemorrhagic disease spread by mosquitoes.",
+  "causes": ["Mosquito bite"],
+  "remedies": ["Supportive care", "Vaccination"]
+},
+
+"ebola": {
+  "description": "Ebola is a severe viral disease causing hemorrhagic fever.",
+  "causes": ["Contact with infected bodily fluids"],
+  "remedies": ["Supportive hospital care"]
+},
+
+"marburg_virus": {
+  "description": "Marburg virus disease is a severe hemorrhagic fever.",
+  "causes": ["Contact with infected fluids"],
+  "remedies": ["Supportive care"]
+},
+
+"cholera": {
+  "description": "Cholera is a bacterial infection causing severe diarrhea.",
+  "causes": ["Contaminated water"],
+  "remedies": ["ORS", "Antibiotics"]
+},
+
+"plague": {
+  "description": "Plague is a serious bacterial infection spread by fleas.",
+  "causes": ["Flea bites", "Contact with infected animals"],
+  "remedies": ["Antibiotics"]
+},
+
+"leprosy": {
+  "description": "Leprosy is a chronic bacterial infection affecting skin and nerves.",
+  "causes": ["Mycobacterium leprae"],
+  "remedies": ["Long-term antibiotics"]
+},
+
+"polio": {
+  "description": "Polio is a viral disease that can cause paralysis.",
+  "causes": ["Poliovirus"],
+  "remedies": ["Supportive care", "Vaccination prevention"]
+},
+
+"smallpox": {
+  "description": "Smallpox was a contagious viral disease eradicated globally.",
+  "causes": ["Variola virus"],
+  "remedies": ["Vaccination prevention"]
+},
+
+"bronchiolitis": {
+  "description": "Bronchiolitis is inflammation of small airways in children.",
+  "causes": ["Respiratory syncytial virus"],
+  "remedies": ["Oxygen therapy", "Fluids"]
+},
+
+"emphysema": {
+  "description": "Emphysema is a lung condition causing shortness of breath.",
+  "causes": ["Smoking"],
+  "remedies": ["Inhalers", "Quit smoking"]
+},
+
+"pulmonary_fibrosis": {
+  "description": "Pulmonary fibrosis causes lung tissue scarring.",
+  "causes": ["Environmental exposure", "Autoimmune diseases"],
+  "remedies": ["Oxygen therapy", "Medication"]
+},
+
+"pleurisy": {
+  "description": "Pleurisy is inflammation of lung lining causing chest pain.",
+  "causes": ["Infection", "Autoimmune disease"],
+  "remedies": ["Pain relief", "Treat underlying cause"]
+},
+
+"arrhythmia": {
+  "description": "Arrhythmia is irregular heartbeat.",
+  "causes": ["Heart disease", "Electrolyte imbalance"],
+  "remedies": ["Medication", "Pacemaker"]
+},
+
+"angina": {
+  "description": "Angina is chest pain due to reduced blood flow to heart.",
+  "causes": ["Coronary artery disease"],
+  "remedies": ["Medication", "Lifestyle changes"]
+},
+
+"heart_failure": {
+  "description": "Heart failure occurs when heart cannot pump effectively.",
+  "causes": ["High blood pressure", "Heart attack"],
+  "remedies": ["Medication", "Diet control"]
+},
+
+"cardiomyopathy": {
+  "description": "Cardiomyopathy affects heart muscle function.",
+  "causes": ["Genetics", "Alcohol abuse"],
+  "remedies": ["Medication", "Implantable devices"]
+},
+
+"atherosclerosis": {
+  "description": "Atherosclerosis is narrowing of arteries due to plaque buildup.",
+  "causes": ["High cholesterol", "Smoking"],
+  "remedies": ["Healthy diet", "Medication"]
+},
+
+"deep_vein_thrombosis": {
+  "description": "DVT is a blood clot in deep veins.",
+  "causes": ["Prolonged immobility"],
+  "remedies": ["Blood thinners"]
+},
+
+"varicose_veins": {
+  "description": "Varicose veins are enlarged twisted veins.",
+  "causes": ["Weak vein valves"],
+  "remedies": ["Compression stockings"]
+},
+
+"thalassemia": {
+  "description": "Thalassemia is inherited blood disorder affecting hemoglobin.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Blood transfusion"]
+},
+
+"hemophilia": {
+  "description": "Hemophilia is a bleeding disorder due to clotting factor deficiency.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Clotting factor replacement"]
+},
+
+"leukemia": {
+  "description": "Leukemia is cancer of blood-forming tissues.",
+  "causes": ["Genetic mutations", "Radiation exposure"],
+  "remedies": ["Chemotherapy", "Bone marrow transplant"]
+},
+
+"lymphoma": {
+  "description": "Lymphoma is cancer of lymphatic system.",
+  "causes": ["Immune dysfunction"],
+  "remedies": ["Chemotherapy", "Radiation"]
+},
+
+"melanoma": {
+  "description": "Melanoma is a serious skin cancer.",
+  "causes": ["UV exposure"],
+  "remedies": ["Surgery", "Immunotherapy"]
+},
+
+"breast_cancer": {
+  "description": "Breast cancer is cancer that forms in breast cells.",
+  "causes": ["Genetics", "Hormonal factors"],
+  "remedies": ["Surgery", "Chemotherapy"]
+},
+
+"lung_cancer": {
+  "description": "Lung cancer begins in lung tissues.",
+  "causes": ["Smoking", "Air pollution"],
+  "remedies": ["Surgery", "Radiation"]
+},
+
+"prostate_cancer": {
+  "description": "Prostate cancer affects prostate gland.",
+  "causes": ["Age", "Genetics"],
+  "remedies": ["Surgery", "Hormone therapy"]
+},
+
+"ovarian_cancer": {
+  "description": "Ovarian cancer affects ovaries.",
+  "causes": ["Genetics"],
+  "remedies": ["Surgery", "Chemotherapy"]
+},
+
+"colon_cancer": {
+  "description": "Colon cancer begins in large intestine.",
+  "causes": ["Diet", "Genetics"],
+  "remedies": ["Surgery", "Chemotherapy"]
+},
+
+"stomach_cancer": {
+  "description": "Stomach cancer develops in stomach lining.",
+  "causes": ["H. pylori infection"],
+  "remedies": ["Surgery", "Chemotherapy"]
+},
+
+"skin_cancer": {
+  "description": "Skin cancer is abnormal growth of skin cells.",
+  "causes": ["UV exposure"],
+  "remedies": ["Surgery"]
+}
 "motion_sickness": {
   "description": "Motion sickness is nausea and dizziness triggered by movement during travel.",
   "causes": ["Travel by car/boat/air", "Inner ear sensitivity"],
