@@ -8,6 +8,478 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"neurofibromatosis": {
+  "description": "Neurofibromatosis is a genetic disorder causing tumors on nerve tissue.",
+  "causes": ["Inherited genetic mutation"],
+  "remedies": ["Monitoring", "Surgical removal if needed"]
+},
+
+"tuberous_sclerosis": {
+  "description": "Tuberous sclerosis is a genetic disorder causing benign tumors in organs.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"fragile_x_syndrome": {
+  "description": "Fragile X syndrome is a genetic condition causing intellectual disability.",
+  "causes": ["FMR1 gene mutation"],
+  "remedies": ["Supportive therapy"]
+},
+
+"down_syndrome": {
+  "description": "Down syndrome is a genetic disorder caused by extra chromosome 21.",
+  "causes": ["Chromosomal abnormality"],
+  "remedies": ["Supportive care", "Therapies"]
+},
+
+"turner_syndrome": {
+  "description": "Turner syndrome affects females due to missing X chromosome.",
+  "causes": ["Chromosomal abnormality"],
+  "remedies": ["Hormone therapy"]
+},
+
+"klinefelter_syndrome": {
+  "description": "Klinefelter syndrome affects males with extra X chromosome.",
+  "causes": ["Chromosomal abnormality"],
+  "remedies": ["Testosterone therapy"]
+},
+
+"marfan_syndrome": {
+  "description": "Marfan syndrome is a connective tissue disorder.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Monitoring", "Surgery if needed"]
+},
+
+"ehlers_danlos_syndrome": {
+  "description": "Ehlers-Danlos syndrome affects connective tissues causing hypermobility.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Physical therapy"]
+},
+
+"phenylketonuria": {
+  "description": "Phenylketonuria is a metabolic disorder affecting amino acid breakdown.",
+  "causes": ["Inherited enzyme deficiency"],
+  "remedies": ["Special diet"]
+},
+
+"galactosemia": {
+  "description": "Galactosemia is inability to process galactose sugar.",
+  "causes": ["Genetic enzyme deficiency"],
+  "remedies": ["Avoid dairy products"]
+},
+
+"tay_sachs_disease": {
+  "description": "Tay-Sachs is genetic disorder destroying nerve cells.",
+  "causes": ["Inherited mutation"],
+  "remedies": ["Supportive care"]
+},
+
+"gaucher_disease": {
+  "description": "Gaucher disease is inherited disorder affecting fat metabolism.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Enzyme replacement therapy"]
+},
+
+"pompe_disease": {
+  "description": "Pompe disease is genetic disorder affecting muscle function.",
+  "causes": ["Enzyme deficiency"],
+  "remedies": ["Enzyme replacement therapy"]
+},
+
+"cystic_fibrosis": {
+  "description": "Cystic fibrosis affects lungs and digestive system.",
+  "causes": ["Inherited gene mutation"],
+  "remedies": ["Respiratory therapy", "Medication"]
+},
+
+"primary_ciliary_dyskinesia": {
+  "description": "Primary ciliary dyskinesia affects respiratory tract clearance.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Airway clearance therapy"]
+},
+
+"alpha_1_antitrypsin_deficiency": {
+  "description": "Genetic disorder affecting lungs and liver.",
+  "causes": ["Inherited mutation"],
+  "remedies": ["Augmentation therapy"]
+},
+
+"goodpasture_syndrome": {
+  "description": "Autoimmune disorder affecting lungs and kidneys.",
+  "causes": ["Immune system attack"],
+  "remedies": ["Immunosuppressants"]
+},
+
+"sjogren_syndrome": {
+  "description": "Autoimmune disease causing dry eyes and mouth.",
+  "causes": ["Immune dysfunction"],
+  "remedies": ["Artificial tears", "Medication"]
+},
+
+"hashimoto_thyroiditis": {
+  "description": "Autoimmune disease causing hypothyroidism.",
+  "causes": ["Immune system attack on thyroid"],
+  "remedies": ["Thyroid hormone replacement"]
+},
+
+"graves_disease": {
+  "description": "Autoimmune disease causing hyperthyroidism.",
+  "causes": ["Immune system stimulation of thyroid"],
+  "remedies": ["Medication", "Radioactive iodine"]
+},
+
+"idiopathic_thrombocytopenic_purpura": {
+  "description": "ITP is immune disorder lowering platelet count.",
+  "causes": ["Autoimmune destruction of platelets"],
+  "remedies": ["Steroids", "Immunotherapy"]
+},
+
+"aplastic_anemia": {
+  "description": "Aplastic anemia is bone marrow failure.",
+  "causes": ["Autoimmune factors", "Radiation"],
+  "remedies": ["Transfusions", "Bone marrow transplant"]
+},
+
+"polycythemia_vera": {
+  "description": "Polycythemia vera causes excess red blood cell production.",
+  "causes": ["Bone marrow disorder"],
+  "remedies": ["Phlebotomy", "Medication"]
+},
+
+"essential_thrombocythemia": {
+  "description": "Essential thrombocythemia increases platelet production.",
+  "causes": ["Bone marrow mutation"],
+  "remedies": ["Medication"]
+},
+
+"myelofibrosis": {
+  "description": "Myelofibrosis is bone marrow scarring disorder.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Medication", "Transplant"]
+},
+
+"amyloidosis": {
+  "description": "Amyloidosis is buildup of abnormal protein in organs.",
+  "causes": ["Protein misfolding"],
+  "remedies": ["Chemotherapy", "Supportive care"]
+},
+
+"churg_strauss_syndrome": {
+  "description": "Autoimmune disorder causing blood vessel inflammation.",
+  "causes": ["Immune dysfunction"],
+  "remedies": ["Steroids"]
+},
+
+"wegener_granulomatosis": {
+  "description": "Autoimmune vasculitis affecting respiratory tract.",
+  "causes": ["Immune system attack"],
+  "remedies": ["Immunosuppressants"]
+},
+
+"takayasu_arteritis": {
+  "description": "Inflammation of large arteries.",
+  "causes": ["Autoimmune disorder"],
+  "remedies": ["Steroids"]
+},
+
+"bechets_disease": {
+  "description": "Behcet disease causes blood vessel inflammation.",
+  "causes": ["Immune system dysfunction"],
+  "remedies": ["Immunosuppressants"]
+},
+
+"dermatomyositis": {
+  "description": "Dermatomyositis causes muscle weakness and skin rash.",
+  "causes": ["Autoimmune disorder"],
+  "remedies": ["Steroids", "Immunotherapy"]
+},
+
+"polymyositis": {
+  "description": "Polymyositis is inflammatory muscle disease.",
+  "causes": ["Autoimmune response"],
+  "remedies": ["Steroids"]
+},
+
+"myocarditis": {
+  "description": "Myocarditis is inflammation of heart muscle.",
+  "causes": ["Viral infection"],
+  "remedies": ["Medication", "Rest"]
+},
+
+"pericarditis": {
+  "description": "Pericarditis is inflammation of heart lining.",
+  "causes": ["Viral infection"],
+  "remedies": ["Anti-inflammatory drugs"]
+},
+
+"endocarditis": {
+  "description": "Endocarditis is infection of heart valves.",
+  "causes": ["Bacterial infection"],
+  "remedies": ["IV antibiotics"]
+},
+
+"pulmonary_embolism": {
+  "description": "Pulmonary embolism is blockage in lung artery.",
+  "causes": ["Blood clot"],
+  "remedies": ["Blood thinners"]
+},
+
+"coarctation_of_aorta": {
+  "description": "Congenital narrowing of the aorta.",
+  "causes": ["Birth defect"],
+  "remedies": ["Surgery"]
+},
+
+"tetralogy_of_fallot": {
+  "description": "Congenital heart defect with four abnormalities.",
+  "causes": ["Developmental defect"],
+  "remedies": ["Surgery"]
+},
+
+"ventricular_septal_defect": {
+  "description": "Hole in heart's ventricular wall.",
+  "causes": ["Congenital defect"],
+  "remedies": ["Surgery if severe"]
+},
+"actinomycosis": {
+  "description": "Actinomycosis is a rare bacterial infection causing abscess formation.",
+  "causes": ["Actinomyces bacteria"],
+  "remedies": ["Long-term antibiotics"]
+},
+
+"brucellosis": {
+  "description": "Brucellosis is a bacterial infection transmitted from animals.",
+  "causes": ["Unpasteurized dairy", "Animal contact"],
+  "remedies": ["Antibiotics"]
+},
+
+"campylobacteriosis": {
+  "description": "Campylobacteriosis is intestinal infection causing diarrhea.",
+  "causes": ["Contaminated poultry"],
+  "remedies": ["Hydration", "Antibiotics if severe"]
+},
+
+"cryptosporidiosis": {
+  "description": "Cryptosporidiosis is parasitic infection causing diarrhea.",
+  "causes": ["Contaminated water"],
+  "remedies": ["Hydration"]
+},
+
+"giardiasis": {
+  "description": "Giardiasis is intestinal infection by Giardia parasite.",
+  "causes": ["Contaminated water"],
+  "remedies": ["Antiparasitic medication"]
+},
+
+"trichomoniasis": {
+  "description": "Trichomoniasis is sexually transmitted parasitic infection.",
+  "causes": ["Trichomonas vaginalis"],
+  "remedies": ["Antibiotics"]
+},
+
+"toxoplasmosis": {
+  "description": "Toxoplasmosis is parasitic infection from contaminated food or cats.",
+  "causes": ["Toxoplasma parasite"],
+  "remedies": ["Antiparasitic drugs"]
+},
+
+"ascariasis": {
+  "description": "Ascariasis is roundworm infection of intestines.",
+  "causes": ["Poor sanitation"],
+  "remedies": ["Anthelmintic medication"]
+},
+
+"hookworm_infection": {
+  "description": "Hookworm infection causes anemia and weakness.",
+  "causes": ["Contact with contaminated soil"],
+  "remedies": ["Anthelmintic drugs"]
+},
+
+"tapeworm_infection": {
+  "description": "Tapeworm infection is intestinal parasitic disease.",
+  "causes": ["Undercooked meat"],
+  "remedies": ["Antiparasitic medication"]
+},
+
+"strongyloidiasis": {
+  "description": "Strongyloidiasis is parasitic infection affecting intestines.",
+  "causes": ["Soil exposure"],
+  "remedies": ["Anthelmintic medication"]
+},
+
+"filariasis": {
+  "description": "Filariasis is parasitic disease causing lymphatic swelling.",
+  "causes": ["Mosquito bites"],
+  "remedies": ["Antiparasitic drugs"]
+},
+
+"onchocerciasis": {
+  "description": "Onchocerciasis causes skin and eye disease.",
+  "causes": ["Blackfly bites"],
+  "remedies": ["Ivermectin"]
+},
+
+"leishmaniasis": {
+  "description": "Leishmaniasis is parasitic disease affecting skin or organs.",
+  "causes": ["Sandfly bites"],
+  "remedies": ["Antiparasitic treatment"]
+},
+
+"chagas_disease": {
+  "description": "Chagas disease affects heart and digestive system.",
+  "causes": ["Kissing bug bite"],
+  "remedies": ["Antiparasitic drugs"]
+},
+
+"babesiosis": {
+  "description": "Babesiosis is tick-borne infection affecting red blood cells.",
+  "causes": ["Tick bite"],
+  "remedies": ["Antiparasitic medication"]
+},
+
+"histoplasmosis": {
+  "description": "Histoplasmosis is fungal lung infection.",
+  "causes": ["Bird or bat droppings"],
+  "remedies": ["Antifungal medication"]
+},
+
+"candidiasis": {
+  "description": "Candidiasis is fungal infection caused by Candida.",
+  "causes": ["Immune suppression"],
+  "remedies": ["Antifungal drugs"]
+},
+
+"aspergillosis": {
+  "description": "Aspergillosis is fungal infection affecting lungs.",
+  "causes": ["Inhalation of spores"],
+  "remedies": ["Antifungal therapy"]
+},
+
+"mucormycosis": {
+  "description": "Mucormycosis is serious fungal infection.",
+  "causes": ["Fungal spores in immunocompromised"],
+  "remedies": ["Antifungal medication", "Surgery"]
+},
+
+"rhinovirus_infection": {
+  "description": "Rhinovirus infection causes common cold symptoms.",
+  "causes": ["Viral transmission"],
+  "remedies": ["Rest", "Hydration"]
+},
+
+"adenovirus_infection": {
+  "description": "Adenovirus infection causes respiratory illness.",
+  "causes": ["Viral exposure"],
+  "remedies": ["Supportive care"]
+},
+
+"norovirus": {
+  "description": "Norovirus causes acute gastroenteritis.",
+  "causes": ["Contaminated food"],
+  "remedies": ["Hydration"]
+},
+
+"rotavirus": {
+  "description": "Rotavirus causes severe diarrhea in children.",
+  "causes": ["Viral infection"],
+  "remedies": ["ORS", "Vaccination prevention"]
+},
+
+"respiratory_syncytial_virus": {
+  "description": "RSV causes respiratory infections in infants.",
+  "causes": ["Viral transmission"],
+  "remedies": ["Supportive care"]
+},
+
+"avian_influenza": {
+  "description": "Avian influenza is bird flu infection in humans.",
+  "causes": ["Contact with infected birds"],
+  "remedies": ["Antiviral medication"]
+},
+
+"swine_flu": {
+  "description": "Swine flu is influenza A H1N1 infection.",
+  "causes": ["Viral infection"],
+  "remedies": ["Antiviral drugs"]
+},
+
+"hand_dermatitis": {
+  "description": "Hand dermatitis causes itchy inflamed skin.",
+  "causes": ["Irritants", "Allergens"],
+  "remedies": ["Moisturizers", "Topical steroids"]
+},
+
+"seborrheic_dermatitis": {
+  "description": "Seborrheic dermatitis causes flaky scalp and skin.",
+  "causes": ["Fungal overgrowth"],
+  "remedies": ["Medicated shampoo"]
+},
+
+"dandruff": {
+  "description": "Dandruff causes flaky scalp.",
+  "causes": ["Seborrheic dermatitis"],
+  "remedies": ["Anti-dandruff shampoo"]
+},
+
+"hidradenitis_suppurativa": {
+  "description": "Hidradenitis causes painful skin lumps.",
+  "causes": ["Blocked hair follicles"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"rosacea": {
+  "description": "Rosacea causes facial redness and bumps.",
+  "causes": ["Unknown triggers"],
+  "remedies": ["Topical medication"]
+},
+
+"keratosis_pilaris": {
+  "description": "Keratosis pilaris causes small rough bumps on skin.",
+  "causes": ["Keratin buildup"],
+  "remedies": ["Moisturizers"]
+},
+
+"lichen_planus": {
+  "description": "Lichen planus is inflammatory skin condition.",
+  "causes": ["Autoimmune factors"],
+  "remedies": ["Steroid creams"]
+},
+
+"lichen_sclerosus": {
+  "description": "Lichen sclerosus causes white skin patches.",
+  "causes": ["Autoimmune disorder"],
+  "remedies": ["Topical steroids"]
+},
+
+"pityriasis_rosea": {
+  "description": "Pityriasis rosea is temporary skin rash.",
+  "causes": ["Possible viral trigger"],
+  "remedies": ["Symptomatic relief"]
+},
+
+"erythema_nodosum": {
+  "description": "Erythema nodosum causes red painful nodules.",
+  "causes": ["Infection", "Autoimmune disorders"],
+  "remedies": ["Treat underlying cause"]
+},
+
+"alopecia_areata": {
+  "description": "Alopecia areata is autoimmune hair loss.",
+  "causes": ["Immune attack on hair follicles"],
+  "remedies": ["Steroid injections"]
+},
+
+"contact_dermatitis": {
+  "description": "Contact dermatitis is skin irritation from substances.",
+  "causes": ["Allergens", "Irritants"],
+  "remedies": ["Avoid trigger", "Topical steroids"]
+}
+
+"atrial_septal_defect": {
+  "description": "Hole in heart's atrial wall.",
+  "causes": ["Congenital defect"],
+  "remedies": ["Surgical repair"]
+}
 "osteomyelitis": {
   "description": "Osteomyelitis is an infection of the bone.",
   "causes": ["Bacterial infection", "Open fractures"],
