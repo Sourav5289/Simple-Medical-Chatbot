@@ -8,6 +8,269 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"osteomyelitis": {
+  "description": "Osteomyelitis is an infection of the bone.",
+  "causes": ["Bacterial infection", "Open fractures"],
+  "remedies": ["Antibiotics", "Surgical drainage"]
+},
+
+"sepsis": {
+  "description": "Sepsis is a life-threatening response to infection.",
+  "causes": ["Severe bacterial infection"],
+  "remedies": ["IV antibiotics", "Emergency hospital care"]
+},
+
+"septic_arthritis": {
+  "description": "Septic arthritis is infection in a joint.",
+  "causes": ["Bacterial infection"],
+  "remedies": ["Antibiotics", "Joint drainage"]
+},
+
+"temporal_arteritis": {
+  "description": "Temporal arteritis is inflammation of arteries in the head.",
+  "causes": ["Autoimmune response"],
+  "remedies": ["Corticosteroids"]
+},
+
+"vasculitis": {
+  "description": "Vasculitis is inflammation of blood vessels.",
+  "causes": ["Autoimmune disorders"],
+  "remedies": ["Immunosuppressants"]
+},
+
+"wilson_disease": {
+  "description": "Wilson disease is genetic disorder causing copper buildup.",
+  "causes": ["Inherited mutation"],
+  "remedies": ["Chelation therapy"]
+},
+
+"hemochromatosis": {
+  "description": "Hemochromatosis causes excess iron accumulation.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Blood removal therapy"]
+},
+
+"cushing_syndrome": {
+  "description": "Cushing syndrome is excess cortisol production.",
+  "causes": ["Steroid overuse", "Adrenal tumor"],
+  "remedies": ["Medication", "Surgery"]
+},
+
+"addison_disease": {
+  "description": "Addison disease is adrenal hormone deficiency.",
+  "causes": ["Autoimmune destruction"],
+  "remedies": ["Hormone replacement therapy"]
+},
+
+"pheochromocytoma": {
+  "description": "Pheochromocytoma is rare adrenal gland tumor.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Surgical removal"]
+},
+
+"acromegaly": {
+  "description": "Acromegaly is excessive growth hormone in adults.",
+  "causes": ["Pituitary tumor"],
+  "remedies": ["Surgery", "Medication"]
+},
+
+"gigantism": {
+  "description": "Gigantism is excessive growth hormone in children.",
+  "causes": ["Pituitary tumor"],
+  "remedies": ["Surgery"]
+},
+
+"pituitary_adenoma": {
+  "description": "Pituitary adenoma is benign tumor of pituitary gland.",
+  "causes": ["Abnormal cell growth"],
+  "remedies": ["Surgery", "Medication"]
+},
+
+"retinal_detachment": {
+  "description": "Retinal detachment is separation of retina from eye.",
+  "causes": ["Eye injury", "Aging"],
+  "remedies": ["Surgical repair"]
+},
+
+"macular_degeneration": {
+  "description": "Macular degeneration causes central vision loss.",
+  "causes": ["Aging"],
+  "remedies": ["Eye injections", "Lifestyle changes"]
+},
+
+"keratitis": {
+  "description": "Keratitis is inflammation of the cornea.",
+  "causes": ["Infection", "Contact lens misuse"],
+  "remedies": ["Antibiotic or antifungal drops"]
+},
+
+"uveitis": {
+  "description": "Uveitis is inflammation of middle eye layer.",
+  "causes": ["Autoimmune disease", "Infection"],
+  "remedies": ["Steroid eye drops"]
+},
+
+"retinopathy": {
+  "description": "Retinopathy is damage to retina blood vessels.",
+  "causes": ["Diabetes", "High blood pressure"],
+  "remedies": ["Laser therapy", "Blood sugar control"]
+},
+
+"hyperopia": {
+  "description": "Hyperopia is farsightedness vision problem.",
+  "causes": ["Eye shape abnormality"],
+  "remedies": ["Corrective lenses"]
+},
+
+"myopia": {
+  "description": "Myopia is nearsightedness vision problem.",
+  "causes": ["Eye elongation"],
+  "remedies": ["Glasses", "Contact lenses"]
+},
+
+"astigmatism": {
+  "description": "Astigmatism causes blurred vision due to irregular cornea.",
+  "causes": ["Corneal irregularity"],
+  "remedies": ["Corrective lenses"]
+},
+
+"amblyopia": {
+  "description": "Amblyopia is reduced vision in one eye.",
+  "causes": ["Childhood eye misalignment"],
+  "remedies": ["Eye patch therapy"]
+},
+
+"strabismus": {
+  "description": "Strabismus is misalignment of eyes.",
+  "causes": ["Muscle imbalance"],
+  "remedies": ["Glasses", "Surgery"]
+},
+
+"otitis_externa": {
+  "description": "Otitis externa is outer ear infection.",
+  "causes": ["Water exposure"],
+  "remedies": ["Antibiotic ear drops"]
+},
+
+"meniere_disease": {
+  "description": "Meniere disease affects inner ear causing vertigo.",
+  "causes": ["Fluid buildup"],
+  "remedies": ["Low salt diet", "Medication"]
+},
+
+"tinnitus": {
+  "description": "Tinnitus is ringing sound in ears.",
+  "causes": ["Noise exposure"],
+  "remedies": ["Sound therapy"]
+},
+
+"labyrinthitis": {
+  "description": "Labyrinthitis is inner ear inflammation.",
+  "causes": ["Viral infection"],
+  "remedies": ["Medication", "Rest"]
+},
+
+"adenoiditis": {
+  "description": "Adenoiditis is inflammation of adenoids.",
+  "causes": ["Bacterial infection"],
+  "remedies": ["Antibiotics"]
+},
+
+"nasal_polyps": {
+  "description": "Nasal polyps are soft growths in nasal passages.",
+  "causes": ["Chronic inflammation"],
+  "remedies": ["Steroid sprays", "Surgery"]
+},
+
+"epistaxis": {
+  "description": "Epistaxis is medical term for nosebleed.",
+  "causes": ["Dry air", "Injury"],
+  "remedies": ["Pinch nose", "Medical care if severe"]
+},
+
+"sleepwalking": {
+  "description": "Sleepwalking is performing activities while asleep.",
+  "causes": ["Sleep disorders"],
+  "remedies": ["Safety measures", "Medical advice"]
+},
+
+"night_terrors": {
+  "description": "Night terrors are episodes of screaming during sleep.",
+  "causes": ["Stress", "Sleep deprivation"],
+  "remedies": ["Stress management"]
+},
+
+"bruxism": {
+  "description": "Bruxism is teeth grinding during sleep.",
+  "causes": ["Stress"],
+  "remedies": ["Mouth guard"]
+},
+
+"obsessive_compulsive_disorder": {
+  "description": "OCD is mental health disorder with repetitive thoughts.",
+  "causes": ["Brain chemistry imbalance"],
+  "remedies": ["Therapy", "Medication"]
+},
+
+"bipolar_disorder": {
+  "description": "Bipolar disorder causes mood swings.",
+  "causes": ["Genetic factors"],
+  "remedies": ["Mood stabilizers", "Therapy"]
+},
+
+"schizophrenia": {
+  "description": "Schizophrenia is serious mental disorder affecting thinking.",
+  "causes": ["Genetics", "Brain chemistry"],
+  "remedies": ["Antipsychotic medication"]
+},
+
+"post_traumatic_stress_disorder": {
+  "description": "PTSD develops after traumatic event.",
+  "causes": ["Severe trauma"],
+  "remedies": ["Therapy", "Medication"]
+},
+
+"anorexia_nervosa": {
+  "description": "Anorexia is eating disorder causing weight loss.",
+  "causes": ["Psychological factors"],
+  "remedies": ["Therapy", "Nutritional support"]
+},
+
+"bulimia_nervosa": {
+  "description": "Bulimia is eating disorder with binge and purge cycles.",
+  "causes": ["Psychological stress"],
+  "remedies": ["Therapy"]
+},
+
+"alcohol_use_disorder": {
+  "description": "Alcohol use disorder is inability to control alcohol use.",
+  "causes": ["Addiction"],
+  "remedies": ["Rehabilitation", "Counseling"]
+},
+
+"drug_addiction": {
+  "description": "Drug addiction is compulsive substance use.",
+  "causes": ["Substance dependence"],
+  "remedies": ["Rehabilitation", "Therapy"]
+},
+
+"g6pd_deficiency": {
+  "description": "G6PD deficiency is genetic disorder affecting red blood cells.",
+  "causes": ["Inherited mutation"],
+  "remedies": ["Avoid trigger drugs"]
+},
+
+"sickle_cell_disease": {
+  "description": "Sickle cell disease is inherited blood disorder.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Pain management", "Transfusions"]
+},
+
+"thalidomide_embryopathy": {
+  "description": "Birth defects caused by thalidomide exposure.",
+  "causes": ["Drug exposure during pregnancy"],
+  "remedies": ["Supportive care"]
+}
 "trigeminal_neuralgia": {
   "description": "Trigeminal neuralgia is a chronic pain condition affecting the facial nerve.",
   "causes": ["Nerve compression", "Multiple sclerosis"],
