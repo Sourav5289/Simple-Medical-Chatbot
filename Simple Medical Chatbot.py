@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"xeroderma_pigmentosum": {
+  "description": "Xeroderma pigmentosum is a rare genetic disorder that makes the skin extremely sensitive to ultraviolet (UV) light.",
+  "causes": ["Inherited DNA repair defect", "Genetic mutation"],
+  "remedies": ["Strict sun protection", "Regular skin examinations", "Protective clothing and sunscreen"]
+}
 "yaws": {
   "description": "Yaws is a chronic bacterial infection that affects the skin, bones, and joints, mainly in tropical regions.",
   "causes": ["Treponema pallidum pertenue bacteria", "Direct skin contact with an infected person"],
