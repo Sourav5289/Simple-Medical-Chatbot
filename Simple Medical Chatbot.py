@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"yaws": {
+  "description": "Yaws is a chronic bacterial infection that affects the skin, bones, and joints, mainly in tropical regions.",
+  "causes": ["Treponema pallidum pertenue bacteria", "Direct skin contact with an infected person"],
+  "remedies": ["Single-dose antibiotic treatment", "Maintain personal hygiene", "Early medical care"]
+}
 "zoonotic_infection": {
   "description": "Zoonotic infection is a disease transmitted from animals to humans.",
   "causes": ["Contact with infected animals", "Animal bites", "Contaminated animal products"],
