@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zoonotic_infection": {
+  "description": "Zoonotic infection is a disease transmitted from animals to humans.",
+  "causes": ["Contact with infected animals", "Animal bites", "Contaminated animal products"],
+  "remedies": ["Proper hygiene", "Vaccination when available", "Antibiotics or antivirals depending on cause"]
+}
 "xerostomia": {
   "description": "Xerostomia is a condition characterized by dry mouth due to reduced saliva production.",
   "causes": ["Dehydration", "Medication side effects", "Salivary gland disorders"],
