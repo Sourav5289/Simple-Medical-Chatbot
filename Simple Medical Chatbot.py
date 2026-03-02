@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"xerostomia": {
+  "description": "Xerostomia is a condition characterized by dry mouth due to reduced saliva production.",
+  "causes": ["Dehydration", "Medication side effects", "Salivary gland disorders"],
+  "remedies": ["Stay hydrated", "Sugar-free lozenges", "Saliva substitutes", "Treat underlying cause"]
+}
 "borderline_personality_disorder": {
   "description": "Borderline personality disorder is a mental health condition affecting mood and relationships.",
   "causes": ["Genetic factors", "Childhood trauma"],
