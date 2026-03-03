@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"yellow_nail_syndrome": {
+  "description": "Yellow nail syndrome is a rare condition characterized by yellow, thickened nails and respiratory or lymphatic problems.",
+  "causes": ["Lymphatic dysfunction", "Chronic respiratory disease", "Unknown factors"],
+  "remedies": ["Treat underlying respiratory issues", "Vitamin E supplementation", "Symptomatic management"]
+}
 "xeroderma_pigmentosum": {
   "description": "Xeroderma pigmentosum is a rare genetic disorder that makes the skin extremely sensitive to ultraviolet (UV) light.",
   "causes": ["Inherited DNA repair defect", "Genetic mutation"],
