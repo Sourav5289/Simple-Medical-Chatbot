@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zollinger_ellison_syndrome": {
+  "description": "Zollinger-Ellison syndrome is a rare condition in which tumors cause the stomach to produce excessive acid.",
+  "causes": ["Gastrin-secreting tumors (gastrinomas)", "Genetic factors such as MEN1 syndrome"],
+  "remedies": ["Proton pump inhibitors", "Surgical removal of tumors", "Regular monitoring"]
+},
 "yellow_nail_syndrome": {
   "description": "Yellow nail syndrome is a rare condition characterized by yellow, thickened nails and respiratory or lymphatic problems.",
   "causes": ["Lymphatic dysfunction", "Chronic respiratory disease", "Unknown factors"],
