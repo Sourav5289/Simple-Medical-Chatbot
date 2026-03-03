@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"von_willebrand_disease": {
+  "description": "Von Willebrand disease is a genetic bleeding disorder caused by a deficiency or dysfunction of von Willebrand factor.",
+  "causes": ["Inherited genetic mutation affecting clotting protein"],
+  "remedies": ["Desmopressin (DDAVP)", "Clotting factor replacement therapy", "Avoid blood-thinning medications"]
+},
 "zollinger_ellison_syndrome": {
   "description": "Zollinger-Ellison syndrome is a rare condition in which tumors cause the stomach to produce excessive acid.",
   "causes": ["Gastrin-secreting tumors (gastrinomas)", "Genetic factors such as MEN1 syndrome"],
