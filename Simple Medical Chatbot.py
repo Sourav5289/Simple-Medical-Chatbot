@@ -13,6 +13,11 @@ medical_db = {
   "causes": ["Gastrin-secreting tumors (gastrinomas)", "Genetic factors such as MEN1 syndrome"],
   "remedies": ["Proton pump inhibitors", "Surgical removal of tumors", "Regular monitoring"]
 },
+"whipple_disease": {
+  "description": "Whipple disease is a rare bacterial infection that affects the small intestine and can impact other organs.",
+  "causes": ["Tropheryma whipplei bacteria"],
+  "remedies": ["Long-term antibiotic therapy", "Regular medical monitoring"]
+},
 "yellow_nail_syndrome": {
   "description": "Yellow nail syndrome is a rare condition characterized by yellow, thickened nails and respiratory or lymphatic problems.",
   "causes": ["Lymphatic dysfunction", "Chronic respiratory disease", "Unknown factors"],
