@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"west_nile_fever": {
+  "description": "West Nile fever is a viral infection transmitted primarily through mosquito bites.",
+  "causes": ["West Nile virus", "Bite from infected mosquito"],
+  "remedies": ["Supportive care", "Rest and fluids", "Hospital care in severe cases"]
+},
 "wilms_tumor": {
   "description": "Wilms tumor is a rare kidney cancer that primarily affects young children.",
   "causes": ["Genetic mutations", "Congenital abnormalities"],
