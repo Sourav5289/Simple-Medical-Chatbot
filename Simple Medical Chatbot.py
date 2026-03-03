@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"wolff_parkinson_white_syndrome": {
+  "description": "Wolff-Parkinson-White syndrome is a heart condition characterized by an extra electrical pathway that causes rapid heartbeats.",
+  "causes": ["Congenital extra electrical pathway in the heart"],
+  "remedies": ["Medications to control heart rhythm", "Catheter ablation procedure", "Regular cardiac monitoring"]
+},
 "von_willebrand_disease": {
   "description": "Von Willebrand disease is a genetic bleeding disorder caused by a deficiency or dysfunction of von Willebrand factor.",
   "causes": ["Inherited genetic mutation affecting clotting protein"],
