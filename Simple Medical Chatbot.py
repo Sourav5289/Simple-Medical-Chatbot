@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"wilms_tumor": {
+  "description": "Wilms tumor is a rare kidney cancer that primarily affects young children.",
+  "causes": ["Genetic mutations", "Congenital abnormalities"],
+  "remedies": ["Surgical removal of tumor", "Chemotherapy", "Radiation therapy if required"]
+},
 "wernicke_encephalopathy": {
   "description": "Wernicke encephalopathy is a neurological disorder caused by severe thiamine (vitamin B1) deficiency.",
   "causes": ["Chronic alcohol misuse", "Malnutrition", "Prolonged vomiting"],
