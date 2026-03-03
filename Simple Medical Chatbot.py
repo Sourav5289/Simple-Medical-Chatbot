@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"wernicke_encephalopathy": {
+  "description": "Wernicke encephalopathy is a neurological disorder caused by severe thiamine (vitamin B1) deficiency.",
+  "causes": ["Chronic alcohol misuse", "Malnutrition", "Prolonged vomiting"],
+  "remedies": ["Immediate thiamine supplementation", "Nutritional support", "Treat underlying cause"]
+},
 "wolff_parkinson_white_syndrome": {
   "description": "Wolff-Parkinson-White syndrome is a heart condition characterized by an extra electrical pathway that causes rapid heartbeats.",
   "causes": ["Congenital extra electrical pathway in the heart"],
