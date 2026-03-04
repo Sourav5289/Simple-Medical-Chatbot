@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"waterborne_disease": {
+  "description": "Waterborne diseases are illnesses caused by microorganisms in contaminated water.",
+  "causes": ["Contaminated drinking water", "Poor sanitation", "Pathogens like bacteria, viruses, or parasites"],
+  "remedies": ["Drink clean and treated water", "Oral rehydration therapy", "Antibiotics or antiparasitic medication depending on infection"]
+},
 "west_nile_fever": {
   "description": "West Nile fever is a viral infection transmitted primarily through mosquito bites.",
   "causes": ["West Nile virus", "Bite from infected mosquito"],
