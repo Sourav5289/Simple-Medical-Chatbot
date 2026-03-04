@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"vitiligo": {
+  "description": "Vitiligo is a skin condition where patches of skin lose their pigment due to destruction of melanocytes.",
+  "causes": ["Autoimmune response", "Genetic factors", "Environmental triggers"],
+  "remedies": ["Topical corticosteroids", "Phototherapy", "Skin camouflage or depigmentation therapy"]
+},
 "waterborne_disease": {
   "description": "Waterborne diseases are illnesses caused by microorganisms in contaminated water.",
   "causes": ["Contaminated drinking water", "Poor sanitation", "Pathogens like bacteria, viruses, or parasites"],
