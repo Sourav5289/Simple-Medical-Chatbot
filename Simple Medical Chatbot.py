@@ -13,6 +13,11 @@ medical_db = {
   "causes": ["Autoimmune disorders", "Infections", "Medication reactions"],
   "remedies": ["Antihistamines", "Anti-inflammatory medications", "Treat underlying condition"]
 },
+"uremia": {
+  "description": "Uremia is a serious condition that occurs when waste products build up in the blood due to severe kidney dysfunction.",
+  "causes": ["Chronic kidney disease", "Acute kidney failure", "Severe dehydration"],
+  "remedies": ["Dialysis", "Kidney transplant", "Treatment of underlying kidney disease"]
+},
 "uveitis": {
   "description": "Uveitis is inflammation of the uvea, the middle layer of the eye, which can cause redness, pain, and blurred vision.",
   "causes": ["Autoimmune diseases", "Eye infections", "Eye injury"],
