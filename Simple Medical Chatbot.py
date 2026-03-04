@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"uveal_melanoma": {
+  "description": "Uveal melanoma is a rare type of cancer that develops in the eye's uveal tract.",
+  "causes": ["Genetic mutations", "Light eye color", "Excess UV exposure"],
+  "remedies": ["Radiation therapy", "Surgical removal", "Regular ophthalmologic monitoring"]
+},
 "vasovagal_syncope": {
   "description": "Vasovagal syncope is a common cause of fainting triggered by a sudden drop in heart rate and blood pressure.",
   "causes": ["Emotional stress", "Standing for long periods", "Pain or dehydration"],
