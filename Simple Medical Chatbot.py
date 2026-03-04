@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"vasovagal_syncope": {
+  "description": "Vasovagal syncope is a common cause of fainting triggered by a sudden drop in heart rate and blood pressure.",
+  "causes": ["Emotional stress", "Standing for long periods", "Pain or dehydration"],
+  "remedies": ["Lie down and elevate legs", "Stay hydrated", "Avoid known triggers", "Medical evaluation if recurrent"]
+},
 "vitiligo": {
   "description": "Vitiligo is a skin condition where patches of skin lose their pigment due to destruction of melanocytes.",
   "causes": ["Autoimmune response", "Genetic factors", "Environmental triggers"],
