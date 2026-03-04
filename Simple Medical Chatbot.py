@@ -13,6 +13,11 @@ medical_db = {
   "causes": ["Autoimmune disorders", "Infections", "Medication reactions"],
   "remedies": ["Antihistamines", "Anti-inflammatory medications", "Treat underlying condition"]
 },
+"urticaria_pigmentosa": {
+  "description": "Urticaria pigmentosa is a skin condition caused by an abnormal buildup of mast cells in the skin, leading to brownish spots that may itch or swell.",
+  "causes": ["Mast cell accumulation in skin", "Genetic or unknown factors"],
+  "remedies": ["Antihistamines", "Avoid triggers such as heat or friction", "Medical monitoring"]
+},
 "uremia": {
   "description": "Uremia is a serious condition that occurs when waste products build up in the blood due to severe kidney dysfunction.",
   "causes": ["Chronic kidney disease", "Acute kidney failure", "Severe dehydration"],
