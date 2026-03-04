@@ -8,6 +8,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"urticarial_vasculitis": {
+  "description": "Urticarial vasculitis is a condition where blood vessels become inflamed and cause hives-like skin lesions that may last longer than typical urticaria.",
+  "causes": ["Autoimmune disorders", "Infections", "Medication reactions"],
+  "remedies": ["Antihistamines", "Anti-inflammatory medications", "Treat underlying condition"]
+},
 "uveal_melanoma": {
   "description": "Uveal melanoma is a rare type of cancer that develops in the eye's uveal tract.",
   "causes": ["Genetic mutations", "Light eye color", "Excess UV exposure"],
