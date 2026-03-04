@@ -13,6 +13,11 @@ medical_db = {
   "causes": ["Autoimmune disorders", "Infections", "Medication reactions"],
   "remedies": ["Antihistamines", "Anti-inflammatory medications", "Treat underlying condition"]
 },
+"uveitis": {
+  "description": "Uveitis is inflammation of the uvea, the middle layer of the eye, which can cause redness, pain, and blurred vision.",
+  "causes": ["Autoimmune diseases", "Eye infections", "Eye injury"],
+  "remedies": ["Corticosteroid eye drops", "Immunosuppressive medications", "Treat underlying infection"]
+},
 "uveal_melanoma": {
   "description": "Uveal melanoma is a rare type of cancer that develops in the eye's uveal tract.",
   "causes": ["Genetic mutations", "Light eye color", "Excess UV exposure"],
