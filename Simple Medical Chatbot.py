@@ -7,6 +7,179 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+    "waldenstrom_macroglobulinemia": {
+  "description": "Waldenstrom macroglobulinemia is a rare type of blood cancer affecting white blood cells.",
+  "causes": ["Genetic mutations in bone marrow cells"],
+  "remedies": ["Chemotherapy", "Targeted therapy", "Plasmapheresis"]
+},
+
+"wandering_spleen": {
+  "description": "Wandering spleen is a rare condition where the spleen moves from its normal position.",
+  "causes": ["Weak or absent spleen ligaments"],
+  "remedies": ["Surgical fixation", "Splenectomy if severe"]
+},
+
+"weaver_syndrome": {
+  "description": "Weaver syndrome is a rare genetic disorder characterized by rapid growth and developmental delay.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Supportive therapy", "Developmental support"]
+},
+
+"wegener_granulomatosis": {
+  "description": "Wegener granulomatosis is an autoimmune disease causing inflammation of blood vessels.",
+  "causes": ["Autoimmune reaction"],
+  "remedies": ["Immunosuppressive medications"]
+},
+
+"weill_marchesani_syndrome": {
+  "description": "Weill-Marchesani syndrome is a genetic disorder affecting connective tissue and eye structure.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Eye treatment", "Supportive care"]
+},
+
+"werner_syndrome": {
+  "description": "Werner syndrome is a genetic disorder causing premature aging.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Symptomatic treatment"]
+},
+
+"west_syndrome": {
+  "description": "West syndrome is a severe form of epilepsy in infants.",
+  "causes": ["Brain abnormalities", "Genetic factors"],
+  "remedies": ["Antiepileptic medication", "Hormone therapy"]
+},
+
+"white_coat_hypertension": {
+  "description": "White coat hypertension is high blood pressure observed in clinical settings due to anxiety.",
+  "causes": ["Stress during medical visits"],
+  "remedies": ["Lifestyle management", "Regular monitoring"]
+},
+
+"whipple_procedure_complication": {
+  "description": "Complications occurring after pancreatic surgery known as the Whipple procedure.",
+  "causes": ["Surgical complications"],
+  "remedies": ["Medical management", "Post-surgical care"]
+},
+
+"wiskott_aldrich_syndrome": {
+  "description": "Wiskott-Aldrich syndrome is a rare immune deficiency disorder.",
+  "causes": ["Genetic mutation affecting immune system"],
+  "remedies": ["Bone marrow transplant", "Supportive care"]
+},
+
+"wolman_disease": {
+  "description": "Wolman disease is a rare genetic disorder affecting fat metabolism.",
+  "causes": ["Enzyme deficiency"],
+  "remedies": ["Enzyme replacement therapy"]
+},
+
+"xerophthalmia": {
+  "description": "Xerophthalmia is severe dryness of the eye due to vitamin A deficiency.",
+  "causes": ["Vitamin A deficiency"],
+  "remedies": ["Vitamin A supplementation"]
+},
+
+"xanthoma": {
+  "description": "Xanthoma is a condition where fatty deposits accumulate under the skin.",
+  "causes": ["High cholesterol levels"],
+  "remedies": ["Cholesterol-lowering medications"]
+},
+
+"xanthopsia": {
+  "description": "Xanthopsia is a visual disorder where objects appear yellow.",
+  "causes": ["Medication side effects", "Jaundice"],
+  "remedies": ["Treat underlying cause"]
+},
+
+"x_linked_agammaglobulinemia": {
+  "description": "X-linked agammaglobulinemia is a genetic immune disorder causing low antibody levels.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Immunoglobulin therapy"]
+},
+
+"x_linked_hypophosphatemia": {
+  "description": "X-linked hypophosphatemia causes weak bones due to low phosphate levels.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Phosphate supplements", "Vitamin D therapy"]
+},
+
+"x_linked_sideroblastic_anemia": {
+  "description": "X-linked sideroblastic anemia is a blood disorder affecting red blood cell formation.",
+  "causes": ["Genetic mutation"],
+  "remedies": ["Vitamin B6 therapy"]
+},
+
+"yaws_late_stage": {
+  "description": "Late stage yaws causes bone and skin deformities.",
+  "causes": ["Untreated bacterial infection"],
+  "remedies": ["Antibiotic treatment"]
+},
+
+"yellow_fever_severe": {
+  "description": "Severe yellow fever causes liver damage and bleeding.",
+  "causes": ["Yellow fever virus infection"],
+  "remedies": ["Supportive care", "Vaccination prevention"]
+},
+
+"yersiniosis": {
+  "description": "Yersiniosis is a bacterial infection affecting the intestines.",
+  "causes": ["Contaminated food or water"],
+  "remedies": ["Antibiotics in severe cases"]
+},
+
+"yolk_sac_tumor": {
+  "description": "Yolk sac tumor is a rare cancer usually affecting the ovaries or testes.",
+  "causes": ["Abnormal germ cells"],
+  "remedies": ["Chemotherapy", "Surgery"]
+},
+
+"young_syndrome": {
+  "description": "Young syndrome causes respiratory infections and infertility in males.",
+  "causes": ["Unknown factors"],
+  "remedies": ["Respiratory treatment"]
+},
+
+"zika_congenital_syndrome": {
+  "description": "Congenital syndrome caused by Zika virus infection during pregnancy.",
+  "causes": ["Zika virus"],
+  "remedies": ["Supportive care"]
+},
+
+"zoster": {
+  "description": "Zoster, also known as shingles, causes painful skin rash.",
+  "causes": ["Varicella-zoster virus reactivation"],
+  "remedies": ["Antiviral medication"]
+},
+
+"zygomycosis": {
+  "description": "Zygomycosis is a rare fungal infection affecting sinuses or lungs.",
+  "causes": ["Fungal spores"],
+  "remedies": ["Antifungal medication", "Surgery"]
+},
+
+"zollinger_syndrome_variant": {
+  "description": "A variant of Zollinger syndrome causing excessive stomach acid production.",
+  "causes": ["Gastrin-secreting tumors"],
+  "remedies": ["Proton pump inhibitors"]
+},
+
+"zoster_opthalmicus": {
+  "description": "Zoster ophthalmicus is shingles affecting the eye region.",
+  "causes": ["Varicella-zoster virus"],
+  "remedies": ["Antiviral therapy"]
+},
+
+"zoster_neuralgia": {
+  "description": "Postherpetic neuralgia is nerve pain after shingles infection.",
+  "causes": ["Nerve damage from shingles"],
+  "remedies": ["Pain medications"]
+},
+
+"zygote_implantation_disorder": {
+  "description": "A rare reproductive condition affecting embryo implantation.",
+  "causes": ["Hormonal imbalance", "Uterine abnormalities"],
+  "remedies": ["Fertility treatments"]
+},
     "urticarial_vasculitis": {
         "description": "Urticarial vasculitis is a condition where blood vessels become inflamed and cause hives-like skin lesions.",
         "causes": ["Autoimmune disorders", "Infections", "Medication reactions"],
