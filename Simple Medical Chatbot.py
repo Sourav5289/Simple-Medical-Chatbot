@@ -12,6 +12,15 @@ medical_db = {
   "causes": ["Genetic mutations in bone marrow cells"],
   "remedies": ["Chemotherapy", "Targeted therapy", "Plasmapheresis"]
 },
+"zenker_diverticulum": {
+  "description": "Zenker diverticulum is a condition in which a pouch (diverticulum) forms in the upper part of the esophagus due to weakness in the muscle wall. Food can collect in the pouch, leading to swallowing difficulties and regurgitation.",
+  "symptoms": ["Difficulty swallowing (dysphagia)", "Regurgitation of undigested food", "Bad breath (halitosis)", "Coughing while eating", "Sensation of lump in the throat"],
+  "causes": ["Weakness in the upper esophageal muscle wall", "Increased pressure during swallowing", "Aging-related muscle changes"],
+  "risk_factors": ["Older age", "Esophageal motility disorders", "Chronic swallowing problems"],
+  "diagnosis": ["Barium swallow X-ray", "Endoscopy", "Esophageal manometry"],
+  "remedies": ["Diet modification and eating slowly", "Endoscopic diverticulotomy", "Surgical removal of the pouch"],
+  "prevention": ["Early treatment of swallowing disorders", "Regular medical checkups for persistent swallowing difficulty"]
+},
 
 "wandering_spleen": {
   "description": "Wandering spleen is a rare condition where the spleen moves from its normal position.",
