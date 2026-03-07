@@ -12,6 +12,15 @@ medical_db = {
   "causes": ["Genetic mutations in bone marrow cells"],
   "remedies": ["Chemotherapy", "Targeted therapy", "Plasmapheresis"]
 },
+"zika_virus_disease": {
+  "description": "Zika virus disease is a mosquito-borne viral infection that can cause mild symptoms in most people but may lead to serious birth defects if a pregnant woman becomes infected.",
+  "symptoms": ["Fever", "Skin rash", "Joint pain", "Red eyes (conjunctivitis)", "Headache", "Muscle pain"],
+  "causes": ["Zika virus infection", "Bite from infected Aedes mosquitoes", "Transmission from mother to fetus", "Rarely through blood transfusion or sexual contact"],
+  "risk_factors": ["Living in or traveling to tropical regions", "Exposure to mosquito bites", "Pregnancy during infection"],
+  "diagnosis": ["Blood test", "Urine test", "PCR testing for viral RNA"],
+  "remedies": ["Rest", "Drink plenty of fluids", "Pain relievers such as acetaminophen", "Medical monitoring especially during pregnancy"],
+  "prevention": ["Use mosquito repellents", "Wear protective clothing", "Remove standing water around homes", "Practice safe sex when traveling to affected areas"]
+},
 "zenker_diverticulum": {
   "description": "Zenker diverticulum is a condition in which a pouch (diverticulum) forms in the upper part of the esophagus due to weakness in the muscle wall. Food can collect in the pouch, leading to swallowing difficulties and regurgitation.",
   "symptoms": ["Difficulty swallowing (dysphagia)", "Regurgitation of undigested food", "Bad breath (halitosis)", "Coughing while eating", "Sensation of lump in the throat"],
