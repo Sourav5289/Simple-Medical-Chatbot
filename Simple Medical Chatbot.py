@@ -12,6 +12,44 @@ medical_db = {
   "causes": ["Genetic mutations in bone marrow cells"],
   "remedies": ["Chemotherapy", "Targeted therapy", "Plasmapheresis"]
 },
+"zinc_deficiency": {
+  "description": "Zinc deficiency is a nutritional condition where the body lacks sufficient zinc, an essential mineral required for immune function, wound healing, and cell growth.",
+  "symptoms": [
+    "Frequent infections",
+    "Slow wound healing",
+    "Hair loss",
+    "Loss of appetite",
+    "Reduced sense of taste or smell",
+    "Skin rashes"
+  ],
+  "causes": [
+    "Poor dietary intake of zinc",
+    "Malabsorption disorders",
+    "Chronic illnesses",
+    "Vegetarian or restrictive diets without proper supplementation"
+  ],
+  "risk_factors": [
+    "Malnutrition",
+    "Digestive disorders such as Crohn’s disease",
+    "Pregnancy",
+    "Chronic alcohol use"
+  ],
+  "diagnosis": [
+    "Blood zinc level test",
+    "Dietary assessment",
+    "Clinical symptom evaluation"
+  ],
+  "remedies": [
+    "Zinc supplements",
+    "Increase intake of zinc-rich foods such as meat, nuts, seeds, and whole grains",
+    "Treat underlying digestive disorders"
+  ],
+  "prevention": [
+    "Maintain a balanced diet",
+    "Regular nutritional monitoring in high-risk individuals",
+    "Proper supplementation when needed"
+  ]
+},
 "zika_virus_disease": {
   "description": "Zika virus disease is a mosquito-borne viral infection that can cause mild symptoms in most people but may lead to serious birth defects if a pregnant woman becomes infected.",
   "symptoms": ["Fever", "Skin rash", "Joint pain", "Red eyes (conjunctivitis)", "Headache", "Muscle pain"],
