@@ -7,6 +7,42 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zinc_toxicity": {
+  "description": "Zinc toxicity occurs when there is an excessive amount of zinc in the body, usually due to overuse of supplements or exposure to industrial sources.",
+  "symptoms": [
+    "Nausea",
+    "Vomiting",
+    "Stomach cramps",
+    "Headache",
+    "Loss of appetite",
+    "Diarrhea"
+  ],
+  "causes": [
+    "Excessive zinc supplement intake",
+    "Exposure to zinc fumes in industrial environments",
+    "Accidental ingestion of zinc-containing products"
+  ],
+  "risk_factors": [
+    "High-dose zinc supplementation",
+    "Occupational exposure to metal fumes",
+    "Improper use of nutritional supplements"
+  ],
+  "diagnosis": [
+    "Blood zinc level test",
+    "Clinical symptom evaluation",
+    "Medical history review"
+  ],
+  "remedies": [
+    "Stop zinc supplements",
+    "Hydration and supportive treatment",
+    "Medical monitoring for severe cases"
+  ],
+  "prevention": [
+    "Follow recommended dietary allowances for zinc",
+    "Avoid unnecessary high-dose supplements",
+    "Use protective equipment in industrial workplaces"
+  ]
+},
     "waldenstrom_macroglobulinemia": {
   "description": "Waldenstrom macroglobulinemia is a rare type of blood cancer affecting white blood cells.",
   "causes": ["Genetic mutations in bone marrow cells"],
