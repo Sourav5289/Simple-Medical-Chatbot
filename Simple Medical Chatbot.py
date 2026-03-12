@@ -7,6 +7,39 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zoster_myelitis": {
+  "description": "Zoster myelitis is a rare neurological complication of shingles where the varicella-zoster virus causes inflammation of the spinal cord.",
+  "symptoms": [
+    "Back pain",
+    "Weakness in limbs",
+    "Numbness or tingling",
+    "Difficulty walking",
+    "Bladder or bowel dysfunction"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Spread of the virus to the spinal cord"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Weakened immune system",
+    "History of chickenpox or shingles"
+  ],
+  "diagnosis": [
+    "MRI scan of the spinal cord",
+    "Lumbar puncture (spinal fluid test)",
+    "PCR test for varicella-zoster virus"
+  ],
+  "remedies": [
+    "Antiviral medications such as acyclovir",
+    "Corticosteroids to reduce inflammation",
+    "Physical therapy for recovery"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early antiviral treatment for shingles"
+  ]
+},
 "zinc_responsive_dermatosis": {
   "description": "Zinc responsive dermatosis is a skin disorder in which skin lesions improve after zinc supplementation, often associated with zinc deficiency or impaired zinc absorption.",
   "symptoms": [
