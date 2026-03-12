@@ -7,6 +7,40 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zoster_ophthalmicus": {
+  "description": "Zoster ophthalmicus is a form of shingles that affects the eye and surrounding areas due to reactivation of the varicella-zoster virus in the ophthalmic branch of the trigeminal nerve.",
+  "symptoms": [
+    "Pain or burning sensation around the eye",
+    "Red rash or blisters on the forehead or eyelid",
+    "Eye redness",
+    "Blurred vision",
+    "Sensitivity to light",
+    "Headache"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Previous infection with chickenpox"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Weakened immune system",
+    "Stress or illness"
+  ],
+  "diagnosis": [
+    "Physical examination of rash and eye symptoms",
+    "PCR test for varicella-zoster virus",
+    "Eye examination by ophthalmologist"
+  ],
+  "remedies": [
+    "Antiviral medications such as acyclovir or valacyclovir",
+    "Pain management",
+    "Steroid eye drops in some cases"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early antiviral treatment if shingles symptoms appear"
+  ]
+},
 "zollinger_ellison_variant": {
   "description": "Zollinger-Ellison variant is a rare digestive condition similar to Zollinger-Ellison syndrome where excess gastrin hormone leads to extremely high stomach acid and recurrent ulcers.",
   "symptoms": [
