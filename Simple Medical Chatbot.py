@@ -7,6 +7,42 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zieve_syndrome": {
+  "description": "Zieve syndrome is a rare condition associated with chronic alcohol use that involves a combination of hemolytic anemia, jaundice, and high levels of fats in the blood.",
+  "symptoms": [
+    "Jaundice (yellowing of skin and eyes)",
+    "Fatigue",
+    "Abdominal pain",
+    "Nausea and vomiting",
+    "Weakness",
+    "Dark urine"
+  ],
+  "causes": [
+    "Chronic alcohol consumption",
+    "Liver dysfunction leading to abnormal fat metabolism",
+    "Destruction of red blood cells (hemolysis)"
+  ],
+  "risk_factors": [
+    "Long-term heavy alcohol use",
+    "Liver disease",
+    "Poor nutrition"
+  ],
+  "diagnosis": [
+    "Blood tests showing anemia and high lipid levels",
+    "Liver function tests",
+    "Medical history of alcohol use"
+  ],
+  "remedies": [
+    "Complete abstinence from alcohol",
+    "Nutritional support",
+    "Treatment of anemia and liver complications"
+  ],
+  "prevention": [
+    "Avoid excessive alcohol consumption",
+    "Maintain a balanced diet",
+    "Regular medical monitoring for liver health"
+  ]
+},
 "zoster_ophthalmicus": {
   "description": "Zoster ophthalmicus is a form of shingles that affects the eye and surrounding areas due to reactivation of the varicella-zoster virus in the ophthalmic branch of the trigeminal nerve.",
   "symptoms": [
