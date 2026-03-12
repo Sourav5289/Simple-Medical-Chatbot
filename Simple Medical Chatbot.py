@@ -7,6 +7,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zoster_meningitis": {
+  "description": "Zoster meningitis is an inflammation of the protective membranes of the brain and spinal cord caused by the reactivation of the varicella-zoster virus.",
+  "symptoms": [
+    "Severe headache",
+    "Neck stiffness",
+    "Fever",
+    "Sensitivity to light",
+    "Nausea and vomiting",
+    "Confusion or difficulty concentrating"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus (the virus that causes chickenpox)",
+    "Spread of the virus to the central nervous system"
+  ],
+  "risk_factors": [
+    "Weakened immune system",
+    "Older age",
+    "History of chickenpox or shingles"
+  ],
+  "diagnosis": [
+    "Lumbar puncture (spinal fluid test)",
+    "PCR test for varicella-zoster virus",
+    "Brain imaging such as MRI"
+  ],
+  "remedies": [
+    "Antiviral medications such as acyclovir",
+    "Pain management",
+    "Hospital monitoring for severe cases"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Maintaining strong immune health",
+    "Early treatment of shingles infections"
+  ]
+},
 "zoster_sine_herpete": {
   "description": "Zoster sine herpete is a form of shingles where nerve pain occurs without the typical skin rash.",
   "symptoms": [
