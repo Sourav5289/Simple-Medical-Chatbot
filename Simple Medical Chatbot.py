@@ -7,6 +7,40 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zollinger_ellison_variant": {
+  "description": "Zollinger-Ellison variant is a rare digestive condition similar to Zollinger-Ellison syndrome where excess gastrin hormone leads to extremely high stomach acid and recurrent ulcers.",
+  "symptoms": [
+    "Burning stomach pain",
+    "Frequent or severe ulcers",
+    "Chronic diarrhea",
+    "Acid reflux",
+    "Nausea and vomiting"
+  ],
+  "causes": [
+    "Gastrin-secreting tumors in pancreas or duodenum",
+    "Genetic conditions such as MEN1"
+  ],
+  "risk_factors": [
+    "Family history of endocrine tumors",
+    "Genetic mutation linked to MEN1",
+    "Middle-aged adults"
+  ],
+  "diagnosis": [
+    "Blood gastrin level test",
+    "Endoscopy",
+    "CT scan or MRI",
+    "Secretin stimulation test"
+  ],
+  "remedies": [
+    "Proton pump inhibitors",
+    "Surgical removal of gastrinomas",
+    "Targeted therapy or chemotherapy in advanced cases"
+  ],
+  "prevention": [
+    "Genetic screening for MEN1",
+    "Regular monitoring in high-risk individuals"
+  ]
+},
 "zoster_meningitis": {
   "description": "Zoster meningitis is an inflammation of the protective membranes of the brain and spinal cord caused by the reactivation of the varicella-zoster virus.",
   "symptoms": [
