@@ -7,6 +7,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
     },
+"zinc_responsive_dermatosis": {
+  "description": "Zinc responsive dermatosis is a skin disorder in which skin lesions improve after zinc supplementation, often associated with zinc deficiency or impaired zinc absorption.",
+  "symptoms": [
+    "Red or crusty skin lesions",
+    "Hair loss",
+    "Scaling around mouth, eyes, or paws (in some cases in animals or rare human forms)",
+    "Skin inflammation",
+    "Delayed wound healing"
+  ],
+  "causes": [
+    "Zinc deficiency",
+    "Impaired absorption of zinc",
+    "Genetic metabolic disorders affecting zinc utilization"
+  ],
+  "risk_factors": [
+    "Poor nutrition",
+    "Malabsorption disorders",
+    "Certain genetic conditions"
+  ],
+  "diagnosis": [
+    "Blood zinc level test",
+    "Clinical examination of skin lesions",
+    "Response to zinc supplementation"
+  ],
+  "remedies": [
+    "Zinc supplementation",
+    "Balanced diet with zinc-rich foods",
+    "Treatment of underlying absorption disorders"
+  ],
+  "prevention": [
+    "Maintain adequate dietary zinc intake",
+    "Monitor nutritional status",
+    "Early treatment of skin symptoms"
+  ]
+},
 "zieve_syndrome": {
   "description": "Zieve syndrome is a rare condition associated with chronic alcohol use that involves a combination of hemolytic anemia, jaundice, and high levels of fats in the blood.",
   "symptoms": [
