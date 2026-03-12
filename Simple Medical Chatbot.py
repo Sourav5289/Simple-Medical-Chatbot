@@ -16,6 +16,41 @@ medical_db = {
     "Headache",
     "Fatigue"
   ],
+"zollinger_ellison_syndrome": {
+  "description": "Zollinger-Ellison syndrome is a rare digestive disorder in which tumors called gastrinomas form in the pancreas or duodenum and produce excessive amounts of the hormone gastrin, leading to very high stomach acid levels.",
+  "symptoms": [
+    "Severe stomach pain",
+    "Frequent peptic ulcers",
+    "Diarrhea",
+    "Acid reflux",
+    "Nausea and vomiting",
+    "Unexplained weight loss"
+  ],
+  "causes": [
+    "Gastrin-secreting tumors (gastrinomas)",
+    "Genetic condition such as Multiple Endocrine Neoplasia type 1 (MEN1)"
+  ],
+  "risk_factors": [
+    "Family history of MEN1 syndrome",
+    "Presence of endocrine tumors",
+    "Middle adulthood"
+  ],
+  "diagnosis": [
+    "Blood test for gastrin levels",
+    "Endoscopy",
+    "CT scan or MRI imaging",
+    "Secretin stimulation test"
+  ],
+  "remedies": [
+    "Proton pump inhibitors to reduce stomach acid",
+    "Surgical removal of tumors",
+    "Targeted therapy or chemotherapy in advanced cases"
+  ],
+  "prevention": [
+    "Genetic counseling for MEN1 families",
+    "Regular medical monitoring for high-risk individuals"
+  ]
+},
   "causes": [
     "Reactivation of the varicella-zoster virus",
     "Weak immune system",
