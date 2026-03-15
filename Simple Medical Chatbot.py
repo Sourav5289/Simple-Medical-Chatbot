@@ -1,6 +1,5 @@
 import random
 
-# Medical knowledge base
 medical_db = {
     "headache": {
         "description": "A headache is pain in the head or face.",
