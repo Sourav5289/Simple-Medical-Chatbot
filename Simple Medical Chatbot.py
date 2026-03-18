@@ -5,7 +5,7 @@ medical_db = {
         "description": "A headache is pain in the head or face.",
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
-    },
+   },
 "zoster_myelitis": {
   "description": "Zoster myelitis is a rare neurological complication of shingles where the varicella-zoster virus causes inflammation of the spinal cord.",
   "symptoms": [
