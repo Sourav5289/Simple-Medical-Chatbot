@@ -13,7 +13,7 @@ medical_db = {
     "Weakness in limbs",
     "Numbness or tingling",
     "Difficulty walking",
-    "Bladder or bowel dysfunction"
+    
   ],
   "causes": [
     "Reactivation of varicella-zoster virus",
