@@ -26,8 +26,7 @@ medical_db = {
   ],
   "diagnosis": [
     "MRI scan of the spinal cord",
-    "Lumbar puncture (spinal fluid test)",
-    "PCR test for varicella-zoster virus"
+    "Lumbar puncture (spinal fluid test)
   ],
   "remedies": [
     "Antiviral medications such as acyclovir",
