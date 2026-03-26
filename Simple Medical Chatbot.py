@@ -6,6 +6,42 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zenker_carcinoma": {
+  "description": "Zenker carcinoma is a rare condition where cancer develops within a Zenker diverticulum in the upper esophagus.",
+  "symptoms": [
+    "Difficulty swallowing (dysphagia)",
+    "Unexplained weight loss",
+    "Regurgitation of food",
+    "Persistent cough",
+    "Bad breath",
+    "Hoarseness"
+  ],
+  "causes": [
+    "Chronic irritation within Zenker diverticulum",
+    "Long-standing food retention in esophageal pouch",
+    "Cellular changes due to inflammation"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Untreated Zenker diverticulum",
+    "Chronic esophageal irritation"
+  ],
+  "diagnosis": [
+    "Endoscopy with biopsy",
+    "Barium swallow study",
+    "CT scan for staging"
+  ],
+  "remedies": [
+    "Surgical removal of tumor and diverticulum",
+    "Radiation therapy",
+    "Chemotherapy depending on stage"
+  ],
+  "prevention": [
+    "Early treatment of Zenker diverticulum",
+    "Regular monitoring of chronic swallowing issues",
+    "Avoid prolonged esophageal irritation"
+  ]
+},
 "zoster_myelitis": {
   "description": "Zoster myelitis is a rare neurological complication of shingles where the varicella-zoster virus causes inflammation of the spinal cord.",
   "symptoms": [
