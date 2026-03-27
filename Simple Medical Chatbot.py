@@ -6,6 +6,40 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zygomycosis_rhino_orbital": {
+  "description": "Rhino-orbital zygomycosis is a severe fungal infection affecting the nasal passages, sinuses, and eye orbit, often seen in immunocompromised individuals.",
+  "symptoms": [
+    "Facial pain or swelling",
+    "Nasal congestion or black discharge",
+    "Eye swelling or vision problems",
+    "Fever",
+    "Headache"
+  ],
+  "causes": [
+    "Inhalation of fungal spores (Mucor species)",
+    "Spread of infection from sinuses to orbit"
+  ],
+  "risk_factors": [
+    "Uncontrolled diabetes",
+    "Weakened immune system",
+    "Use of immunosuppressive drugs"
+  ],
+  "diagnosis": [
+    "CT scan or MRI of sinuses and orbit",
+    "Biopsy and fungal culture",
+    "Clinical examination"
+  ],
+  "remedies": [
+    "Urgent antifungal therapy (e.g., amphotericin B)",
+    "Surgical removal of infected tissue",
+    "Control of underlying conditions like diabetes"
+  ],
+  "prevention": [
+    "Manage blood sugar levels",
+    "Avoid exposure to contaminated environments",
+    "Early treatment of sinus infections"
+  ]
+},
 "zenker_carcinoma": {
   "description": "Zenker carcinoma is a rare condition where cancer develops within a Zenker diverticulum in the upper esophagus.",
   "symptoms": [
