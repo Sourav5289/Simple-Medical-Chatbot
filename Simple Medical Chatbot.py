@@ -6,6 +6,43 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zollinger_ellison_complex": {
+  "description": "Zollinger-Ellison complex is a severe form of acid hypersecretion syndrome caused by multiple gastrin-secreting tumors, leading to recurrent and difficult-to-treat peptic ulcers.",
+  "symptoms": [
+    "Severe abdominal pain",
+    "Frequent or recurrent ulcers",
+    "Chronic diarrhea",
+    "Gastroesophageal reflux",
+    "Nausea and vomiting",
+    "Unintentional weight loss"
+  ],
+  "causes": [
+    "Multiple gastrinomas in pancreas or duodenum",
+    "Association with Multiple Endocrine Neoplasia type 1 (MEN1)",
+    "Excessive gastrin hormone production"
+  ],
+  "risk_factors": [
+    "Family history of MEN1",
+    "Existing endocrine tumors",
+    "Middle-aged adults"
+  ],
+  "diagnosis": [
+    "Elevated fasting gastrin levels",
+    "Secretin stimulation test",
+    "Endoscopy to detect ulcers",
+    "CT scan or MRI for tumor localization"
+  ],
+  "remedies": [
+    "High-dose proton pump inhibitors",
+    "Surgical removal of tumors when possible",
+    "Targeted therapy or chemotherapy in advanced cases"
+  ],
+  "prevention": [
+    "Genetic counseling for MEN1",
+    "Regular screening for high-risk individuals",
+    "Early detection and treatment of gastrinomas"
+  ]
+},
 "zinc_deficiency_dermatitis": {
   "description": "Zinc deficiency dermatitis is a skin condition caused by inadequate zinc levels, leading to inflammation and impaired skin healing.",
   "symptoms": [
