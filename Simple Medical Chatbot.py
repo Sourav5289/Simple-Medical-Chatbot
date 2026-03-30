@@ -6,6 +6,42 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_deficiency_dermatitis": {
+  "description": "Zinc deficiency dermatitis is a skin condition caused by inadequate zinc levels, leading to inflammation and impaired skin healing.",
+  "symptoms": [
+    "Red, inflamed skin patches",
+    "Dry or scaly skin",
+    "Cracks around mouth and eyes",
+    "Hair thinning or loss",
+    "Delayed wound healing"
+  ],
+  "causes": [
+    "Low dietary zinc intake",
+    "Malabsorption disorders",
+    "Chronic illnesses affecting nutrient absorption"
+  ],
+  "risk_factors": [
+    "Malnutrition",
+    "Digestive disorders",
+    "Infants and elderly individuals",
+    "Strict vegetarian or restrictive diets"
+  ],
+  "diagnosis": [
+    "Blood zinc level test",
+    "Clinical examination of skin",
+    "Dietary assessment"
+  ],
+  "remedies": [
+    "Zinc supplementation",
+    "Diet rich in zinc (meat, nuts, seeds)",
+    "Treat underlying digestive issues"
+  ],
+  "prevention": [
+    "Maintain balanced nutrition",
+    "Monitor zinc intake in high-risk groups",
+    "Early treatment of symptoms"
+  ]
+},
 "zygomycosis_rhino_orbital": {
   "description": "Rhino-orbital zygomycosis is a severe fungal infection affecting the nasal passages, sinuses, and eye orbit, often seen in immunocompromised individuals.",
   "symptoms": [
