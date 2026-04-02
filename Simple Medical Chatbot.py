@@ -6,6 +6,42 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zygomycosis_pulmonary": {
+  "description": "Pulmonary zygomycosis is a serious fungal infection of the lungs caused by organisms in the Mucorales group, often affecting immunocompromised individuals.",
+  "symptoms": [
+    "Fever",
+    "Cough",
+    "Chest pain",
+    "Shortness of breath",
+    "Coughing up blood (hemoptysis)"
+  ],
+  "causes": [
+    "Inhalation of fungal spores",
+    "Weakened immune system",
+    "Spread from sinus infection"
+  ],
+  "risk_factors": [
+    "Uncontrolled diabetes",
+    "Cancer or chemotherapy",
+    "Organ transplant recipients",
+    "Use of corticosteroids"
+  ],
+  "diagnosis": [
+    "Chest CT scan",
+    "Bronchoscopy with biopsy",
+    "Fungal culture and microscopy"
+  ],
+  "remedies": [
+    "Intravenous antifungal therapy (e.g., amphotericin B)",
+    "Surgical removal of infected lung tissue if necessary",
+    "Management of underlying conditions"
+  ],
+  "prevention": [
+    "Control blood sugar levels",
+    "Avoid exposure to contaminated environments",
+    "Proper management of immune-compromising conditions"
+  ]
+},
 
 "zinc_deficiency_dermatitis": {
   "description": "Zinc deficiency dermatitis is a skin condition caused by inadequate zinc levels, leading to inflammation and impaired skin healing.",
