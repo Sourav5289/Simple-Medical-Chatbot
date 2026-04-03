@@ -6,6 +6,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_otitis": {
+  "description": "Zoster otitis, also known as Ramsay Hunt syndrome, is a condition where the varicella-zoster virus affects the facial nerve near the ear, causing ear pain and facial paralysis.",
+  "symptoms": [
+    "Severe ear pain",
+    "Facial weakness or paralysis",
+    "Rash or blisters around the ear",
+    "Hearing loss",
+    "Dizziness or vertigo",
+    "Loss of taste"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Infection of the facial nerve near the ear"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Weakened immune system",
+    "History of chickenpox"
+  ],
+  "diagnosis": [
+    "Clinical examination",
+    "PCR test for varicella-zoster virus",
+    "Hearing tests"
+  ],
+  "remedies": [
+    "Antiviral medications (e.g., acyclovir)",
+    "Corticosteroids",
+    "Pain management",
+    "Physical therapy for facial muscles"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early treatment of shingles symptoms"
+  ]
+},
 "zygomycosis_pulmonary": {
   "description": "Pulmonary zygomycosis is a serious fungal infection of the lungs caused by organisms in the Mucorales group, often affecting immunocompromised individuals.",
   "symptoms": [
