@@ -6,6 +6,40 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_encephalitis": {
+  "description": "Zoster encephalitis is a rare but serious complication of varicella-zoster virus reactivation, leading to inflammation of the brain.",
+  "symptoms": [
+    "Confusion or altered mental state",
+    "Severe headache",
+    "Fever",
+    "Seizures",
+    "Weakness or neurological deficits",
+    "Difficulty speaking"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Spread of the virus to brain tissue"
+  ],
+  "risk_factors": [
+    "Weakened immune system",
+    "Older age",
+    "History of shingles"
+  ],
+  "diagnosis": [
+    "MRI or CT scan of the brain",
+    "Lumbar puncture (CSF analysis)",
+    "PCR testing for varicella-zoster virus"
+  ],
+  "remedies": [
+    "Intravenous antiviral therapy (e.g., acyclovir)",
+    "Supportive hospital care",
+    "Management of seizures and complications"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early treatment of shingles infections"
+  ]
+},
 "zoster_otitis": {
   "description": "Zoster otitis, also known as Ramsay Hunt syndrome, is a condition where the varicella-zoster virus affects the facial nerve near the ear, causing ear pain and facial paralysis.",
   "symptoms": [
