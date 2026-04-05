@@ -6,6 +6,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zollinger_like_syndrome": {
+  "description": "Zollinger-like syndrome is a condition resembling Zollinger-Ellison syndrome, characterized by excessive gastric acid production without identifiable gastrin-secreting tumors.",
+  "symptoms": [
+    "Persistent abdominal pain",
+    "Frequent peptic ulcers",
+    "Chronic diarrhea",
+    "Acid reflux",
+    "Nausea"
+  ],
+  "causes": [
+    "Unknown mechanisms leading to increased acid secretion",
+    "Possible hormonal imbalances",
+    "Gastric hyperactivity"
+  ],
+  "risk_factors": [
+    "History of chronic gastric disorders",
+    "Long-term acid-related conditions",
+    "Genetic predisposition"
+  ],
+  "diagnosis": [
+    "Endoscopy",
+    "Gastrin level tests",
+    "Imaging to rule out tumors"
+  ],
+  "remedies": [
+    "Proton pump inhibitors",
+    "Dietary modifications",
+    "Regular medical monitoring"
+  ],
+  "prevention": [
+    "Manage gastric health",
+    "Avoid excessive use of irritant foods",
+    "Routine check-ups for chronic symptoms"
+  ]
+},
 "zoster_encephalitis": {
   "description": "Zoster encephalitis is a rare but serious complication of varicella-zoster virus reactivation, leading to inflammation of the brain.",
   "symptoms": [
