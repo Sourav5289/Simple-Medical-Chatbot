@@ -6,6 +6,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zenker_diverticulitis": {
+  "description": "Zenker diverticulitis is an inflammation or infection of a Zenker diverticulum in the upper esophagus, often due to retained food and bacterial growth.",
+  "symptoms": [
+    "Pain while swallowing",
+    "Fever",
+    "Bad breath",
+    "Regurgitation of food",
+    "Neck discomfort or swelling"
+  ],
+  "causes": [
+    "Food retention in Zenker diverticulum",
+    "Bacterial infection",
+    "Poor esophageal motility"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Existing Zenker diverticulum",
+    "Chronic swallowing difficulties"
+  ],
+  "diagnosis": [
+    "Barium swallow study",
+    "Endoscopy",
+    "Clinical examination"
+  ],
+  "remedies": [
+    "Antibiotics for infection",
+    "Diet modification",
+    "Surgical or endoscopic treatment"
+  ],
+  "prevention": [
+    "Early management of Zenker diverticulum",
+    "Proper chewing and eating habits",
+    "Regular follow-up for swallowing issues"
+  ]
+},
 "zollinger_like_syndrome": {
   "description": "Zollinger-like syndrome is a condition resembling Zollinger-Ellison syndrome, characterized by excessive gastric acid production without identifiable gastrin-secreting tumors.",
   "symptoms": [
