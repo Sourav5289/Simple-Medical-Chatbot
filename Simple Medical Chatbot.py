@@ -6,6 +6,40 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zika_neurological_syndrome": {
+  "description": "Zika neurological syndrome refers to neurological complications associated with Zika virus infection, including conditions like Guillain-Barré syndrome and nerve inflammation.",
+  "symptoms": [
+    "Muscle weakness",
+    "Numbness or tingling",
+    "Difficulty walking",
+    "Facial paralysis",
+    "Fatigue"
+  ],
+  "causes": [
+    "Zika virus infection",
+    "Immune-mediated nerve damage triggered by the virus"
+  ],
+  "risk_factors": [
+    "Recent Zika virus infection",
+    "Living in endemic areas",
+    "Weakened immune response"
+  ],
+  "diagnosis": [
+    "Neurological examination",
+    "PCR or serological tests for Zika virus",
+    "Nerve conduction studies"
+  ],
+  "remedies": [
+    "Supportive care",
+    "Physical therapy",
+    "Immunotherapy in severe cases"
+  ],
+  "prevention": [
+    "Avoid mosquito bites",
+    "Use protective clothing and repellents",
+    "Control mosquito breeding sites"
+  ]
+},
 "zenker_diverticulitis": {
   "description": "Zenker diverticulitis is an inflammation or infection of a Zenker diverticulum in the upper esophagus, often due to retained food and bacterial growth.",
   "symptoms": [
