@@ -6,6 +6,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_induced_copper_deficiency": {
+  "description": "Zinc-induced copper deficiency is a condition where excessive zinc intake interferes with copper absorption, leading to low copper levels and related health issues.",
+  "symptoms": [
+    "Fatigue",
+    "Anemia",
+    "Neurological problems such as numbness or weakness",
+    "Pale skin",
+    "Impaired immune function"
+  ],
+  "causes": [
+    "Excessive zinc supplementation",
+    "Long-term use of zinc-containing medications",
+    "Imbalance in dietary mineral intake"
+  ],
+  "risk_factors": [
+    "High-dose zinc supplements",
+    "Chronic use of denture creams containing zinc",
+    "Poor nutritional balance"
+  ],
+  "diagnosis": [
+    "Blood tests showing low copper and high zinc levels",
+    "Complete blood count",
+    "Neurological evaluation"
+  ],
+  "remedies": [
+    "Reduce or stop excess zinc intake",
+    "Copper supplementation",
+    "Dietary adjustment to restore mineral balance"
+  ],
+  "prevention": [
+    "Avoid unnecessary high-dose zinc supplements",
+    "Maintain balanced micronutrient intake",
+    "Regular monitoring when on long-term supplements"
+  ]
+},
 "zika_neurological_syndrome": {
   "description": "Zika neurological syndrome refers to neurological complications associated with Zika virus infection, including conditions like Guillain-Barré syndrome and nerve inflammation.",
   "symptoms": [
