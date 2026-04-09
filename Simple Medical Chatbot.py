@@ -6,6 +6,39 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"yolk_sac_tumor": {
+  "description": "Yolk sac tumor is a rare and aggressive type of germ cell tumor that typically occurs in the ovaries or testes, most commonly in children and young adults.",
+  "symptoms": [
+    "Abdominal or pelvic pain",
+    "Swelling or mass in abdomen",
+    "Unexplained weight loss",
+    "Fatigue",
+    "Testicular swelling (in males)"
+  ],
+  "causes": [
+    "Abnormal development of germ cells",
+    "Genetic mutations affecting cell growth"
+  ],
+  "risk_factors": [
+    "Young age (children and adolescents)",
+    "History of germ cell tumors",
+    "Certain genetic conditions"
+  ],
+  "diagnosis": [
+    "Blood test for alpha-fetoprotein (AFP)",
+    "Ultrasound or CT scan",
+    "Biopsy of the tumor"
+  ],
+  "remedies": [
+    "Surgical removal of the tumor",
+    "Chemotherapy",
+    "Regular follow-up monitoring"
+  ],
+  "prevention": [
+    "No known prevention",
+    "Early detection through medical evaluation of symptoms"
+  ]
+},
 "zinc_induced_copper_deficiency": {
   "description": "Zinc-induced copper deficiency is a condition where excessive zinc intake interferes with copper absorption, leading to low copper levels and related health issues.",
   "symptoms": [
