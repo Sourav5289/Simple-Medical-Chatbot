@@ -6,6 +6,39 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"yaws_early_stage": {
+  "description": "Early-stage yaws is an infectious bacterial disease affecting the skin, primarily in tropical regions, characterized by painless skin lesions that can spread if untreated.",
+  "symptoms": [
+    "Painless skin sores or ulcers",
+    "Papules or nodules on skin",
+    "Mild itching",
+    "Swollen lymph nodes"
+  ],
+  "causes": [
+    "Treponema pallidum pertenue bacteria",
+    "Direct skin-to-skin contact with infected person"
+  ],
+  "risk_factors": [
+    "Living in tropical or rural areas",
+    "Poor hygiene conditions",
+    "Close contact with infected individuals"
+  ],
+  "diagnosis": [
+    "Clinical examination of lesions",
+    "Blood tests for treponemal infection",
+    "PCR testing in some cases"
+  ],
+  "remedies": [
+    "Single-dose antibiotic treatment (e.g., azithromycin)",
+    "Wound care and hygiene",
+    "Follow-up treatment if needed"
+  ],
+  "prevention": [
+    "Maintain personal hygiene",
+    "Avoid direct contact with infected lesions",
+    "Community-wide antibiotic programs in endemic areas"
+  ]
+},
 "yolk_sac_tumor": {
   "description": "Yolk sac tumor is a rare and aggressive type of germ cell tumor that typically occurs in the ovaries or testes, most commonly in children and young adults.",
   "symptoms": [
