@@ -6,6 +6,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"yersinia_pestis_infection": {
+  "description": "Yersinia pestis infection is a serious bacterial disease known as plague, which can affect the lymph nodes, lungs, or bloodstream.",
+  "symptoms": [
+    "Fever and chills",
+    "Swollen and painful lymph nodes (buboes)",
+    "Weakness",
+    "Cough with bloody sputum (in pneumonic form)",
+    "Sepsis in severe cases"
+  ],
+  "causes": [
+    "Infection with Yersinia pestis bacteria",
+    "Bites from infected fleas",
+    "Contact with infected animals"
+  ],
+  "risk_factors": [
+    "Living in areas with rodent infestations",
+    "Exposure to infected animals",
+    "Poor sanitation conditions"
+  ],
+  "diagnosis": [
+    "Blood tests",
+    "Culture of bacteria",
+    "PCR testing"
+  ],
+  "remedies": [
+    "Antibiotic treatment (e.g., streptomycin, doxycycline)",
+    "Supportive care",
+    "Isolation in pneumonic cases"
+  ],
+  "prevention": [
+    "Control rodent populations",
+    "Avoid flea bites",
+    "Use protective measures when handling animals"
+  ]
+},
 "yaws_early_stage": {
   "description": "Early-stage yaws is an infectious bacterial disease affecting the skin, primarily in tropical regions, characterized by painless skin lesions that can spread if untreated.",
   "symptoms": [
