@@ -6,6 +6,41 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"yellow_nail_syndrome_variant": {
+  "description": "Yellow nail syndrome variant is a rare condition characterized by slow-growing yellow nails along with respiratory issues and mild lymphatic dysfunction.",
+  "symptoms": [
+    "Thickened yellow nails",
+    "Slow nail growth",
+    "Chronic cough",
+    "Shortness of breath",
+    "Mild swelling in limbs"
+  ],
+  "causes": [
+    "Lymphatic system abnormalities",
+    "Chronic respiratory disease",
+    "Unknown underlying factors"
+  ],
+  "risk_factors": [
+    "Chronic lung disease",
+    "Lymphatic disorders",
+    "Older age"
+  ],
+  "diagnosis": [
+    "Clinical examination of nails",
+    "Chest imaging (X-ray or CT)",
+    "Lymphatic function assessment"
+  ],
+  "remedies": [
+    "Treat underlying respiratory conditions",
+    "Vitamin supplementation",
+    "Supportive care for symptoms"
+  ],
+  "prevention": [
+    "Manage respiratory health",
+    "Regular medical check-ups",
+    "Early treatment of symptoms"
+  ]
+},
 "yersinia_pestis_infection": {
   "description": "Yersinia pestis infection is a serious bacterial disease known as plague, which can affect the lymph nodes, lungs, or bloodstream.",
   "symptoms": [
