@@ -6,6 +6,42 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_deficiency_growth_retardation": {
+  "description": "Zinc deficiency growth retardation is a condition where inadequate zinc levels impair normal growth and development, especially in children.",
+  "symptoms": [
+    "Stunted growth",
+    "Delayed puberty",
+    "Frequent infections",
+    "Poor appetite",
+    "Delayed wound healing"
+  ],
+  "causes": [
+    "Insufficient dietary zinc intake",
+    "Malabsorption disorders",
+    "Chronic illnesses"
+  ],
+  "risk_factors": [
+    "Malnutrition",
+    "Poverty or limited food access",
+    "Digestive disorders",
+    "Children in developing regions"
+  ],
+  "diagnosis": [
+    "Blood zinc level test",
+    "Growth assessment",
+    "Dietary evaluation"
+  ],
+  "remedies": [
+    "Zinc supplementation",
+    "Balanced diet rich in zinc",
+    "Treatment of underlying conditions"
+  ],
+  "prevention": [
+    "Ensure adequate nutrition",
+    "Regular growth monitoring in children",
+    "Nutritional supplementation when needed"
+  ]
+},
 "zoster_radiculitis": {
   "description": "Zoster radiculitis is a nerve root inflammation caused by reactivation of the varicella-zoster virus, leading to sharp pain along the affected nerve pathway.",
   "symptoms": [
