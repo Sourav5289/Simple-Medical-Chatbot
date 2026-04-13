@@ -6,6 +6,39 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_radiculitis": {
+  "description": "Zoster radiculitis is a nerve root inflammation caused by reactivation of the varicella-zoster virus, leading to sharp pain along the affected nerve pathway.",
+  "symptoms": [
+    "Sharp or burning nerve pain",
+    "Tingling or numbness",
+    "Muscle weakness in affected area",
+    "Sensitivity to touch",
+    "Possible skin rash in the same region"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Spread of the virus to spinal nerve roots"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Weakened immune system",
+    "History of chickenpox"
+  ],
+  "diagnosis": [
+    "Clinical examination",
+    "MRI of spine",
+    "PCR testing for varicella-zoster virus"
+  ],
+  "remedies": [
+    "Antiviral medications",
+    "Pain management therapy",
+    "Physical therapy if needed"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early antiviral treatment of shingles"
+  ]
+},
 "yellow_nail_syndrome_variant": {
   "description": "Yellow nail syndrome variant is a rare condition characterized by slow-growing yellow nails along with respiratory issues and mild lymphatic dysfunction.",
   "symptoms": [
