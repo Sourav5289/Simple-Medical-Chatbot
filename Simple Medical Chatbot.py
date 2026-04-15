@@ -6,6 +6,39 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_keratitis": {
+  "description": "Zoster keratitis is an eye condition caused by reactivation of the varicella-zoster virus, leading to inflammation of the cornea.",
+  "symptoms": [
+    "Eye pain",
+    "Redness in the eye",
+    "Blurred vision",
+    "Sensitivity to light",
+    "Excess tearing"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Spread of infection to the cornea"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Weakened immune system",
+    "History of shingles"
+  ],
+  "diagnosis": [
+    "Eye examination with slit lamp",
+    "Fluorescein staining",
+    "PCR testing for varicella-zoster virus"
+  ],
+  "remedies": [
+    "Antiviral eye drops or oral antivirals",
+    "Pain management",
+    "Lubricating eye drops"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early treatment of shingles"
+  ]
+},
 "zinc_deficiency_growth_retardation": {
   "description": "Zinc deficiency growth retardation is a condition where inadequate zinc levels impair normal growth and development, especially in children.",
   "symptoms": [
