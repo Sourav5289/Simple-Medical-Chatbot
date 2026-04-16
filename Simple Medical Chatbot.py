@@ -6,6 +6,43 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_deficiency_hypogeusia": {
+  "description": "Zinc deficiency hypogeusia is a condition where reduced zinc levels lead to a decreased sense of taste.",
+  "symptoms": [
+    "Reduced ability to taste",
+    "Altered taste perception",
+    "Loss of appetite",
+    "Weight loss",
+    "Nutritional deficiencies"
+  ],
+  "causes": [
+    "Low dietary zinc intake",
+    "Malabsorption disorders",
+    "Chronic illnesses",
+    "Excessive zinc loss from the body"
+  ],
+  "risk_factors": [
+    "Poor nutrition",
+    "Gastrointestinal disorders",
+    "Elderly individuals",
+    "Chronic disease conditions"
+  ],
+  "diagnosis": [
+    "Blood zinc level test",
+    "Taste function tests",
+    "Dietary assessment"
+  ],
+  "remedies": [
+    "Zinc supplementation",
+    "Improved dietary intake",
+    "Treatment of underlying conditions"
+  ],
+  "prevention": [
+    "Balanced diet with adequate zinc",
+    "Regular nutritional monitoring",
+    "Early treatment of deficiency symptoms"
+  ]
+},
 "zoster_keratitis": {
   "description": "Zoster keratitis is an eye condition caused by reactivation of the varicella-zoster virus, leading to inflammation of the cornea.",
   "symptoms": [
