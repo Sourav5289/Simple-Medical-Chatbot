@@ -6,6 +6,43 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zollinger_ellison_related_diarrhea": {
+  "description": "Zollinger-Ellison related diarrhea is a condition where excessive stomach acid from gastrin-secreting tumors leads to chronic diarrhea and digestive disturbances.",
+  "symptoms": [
+    "Chronic watery diarrhea",
+    "Abdominal pain",
+    "Bloating",
+    "Weight loss",
+    "Frequent ulcers"
+  ],
+  "causes": [
+    "Excess gastrin production from gastrinomas",
+    "High stomach acid interfering with digestion",
+    "Association with Zollinger-Ellison syndrome"
+  ],
+  "risk_factors": [
+    "Presence of gastrin-secreting tumors",
+    "MEN1 genetic syndrome",
+    "Chronic acid-related disorders"
+  ],
+  "diagnosis": [
+    "Blood gastrin level test",
+    "Stool analysis",
+    "Endoscopy",
+    "Imaging (CT/MRI)"
+  ],
+  "remedies": [
+    "Proton pump inhibitors",
+    "Antidiarrheal medications",
+    "Surgical removal of tumors",
+    "Nutritional support"
+  ],
+  "prevention": [
+    "Early diagnosis of gastrinomas",
+    "Regular monitoring in high-risk individuals",
+    "Proper management of acid-related conditions"
+  ]
+},
 "zinc_deficiency_hypogeusia": {
   "description": "Zinc deficiency hypogeusia is a condition where reduced zinc levels lead to a decreased sense of taste.",
   "symptoms": [
