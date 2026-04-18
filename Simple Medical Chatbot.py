@@ -6,6 +6,44 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zenker_related_esophageal_cancer": {
+  "description": "Zenker-related esophageal cancer is a rare malignancy that can develop in the upper esophagus, often associated with long-standing Zenker diverticulum and chronic irritation.",
+  "symptoms": [
+    "Progressive difficulty swallowing (dysphagia)",
+    "Unintentional weight loss",
+    "Persistent cough",
+    "Hoarseness",
+    "Regurgitation of food",
+    "Neck discomfort"
+  ],
+  "causes": [
+    "Chronic irritation from retained food in Zenker diverticulum",
+    "Long-standing inflammation of esophageal lining",
+    "Cellular mutations leading to cancer"
+  ],
+  "risk_factors": [
+    "Untreated Zenker diverticulum",
+    "Older age",
+    "Chronic esophageal irritation",
+    "Smoking and alcohol use"
+  ],
+  "diagnosis": [
+    "Endoscopy with biopsy",
+    "Barium swallow study",
+    "CT scan or MRI for staging"
+  ],
+  "remedies": [
+    "Surgical removal of tumor",
+    "Radiation therapy",
+    "Chemotherapy depending on stage",
+    "Nutritional support"
+  ],
+  "prevention": [
+    "Early treatment of Zenker diverticulum",
+    "Avoid smoking and excessive alcohol",
+    "Regular screening for persistent swallowing issues"
+  ]
+},
 "zollinger_ellison_related_diarrhea": {
   "description": "Zollinger-Ellison related diarrhea is a condition where excessive stomach acid from gastrin-secreting tumors leads to chronic diarrhea and digestive disturbances.",
   "symptoms": [
