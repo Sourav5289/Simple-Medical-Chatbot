@@ -6,6 +6,43 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_deficiency_immunodeficiency": {
+  "description": "Zinc deficiency immunodeficiency is a condition where low zinc levels impair immune system function, increasing susceptibility to infections.",
+  "symptoms": [
+    "Frequent infections",
+    "Delayed wound healing",
+    "Fatigue",
+    "Hair loss",
+    "Skin rashes"
+  ],
+  "causes": [
+    "Inadequate dietary zinc intake",
+    "Malabsorption disorders",
+    "Chronic illnesses",
+    "Excessive loss of zinc"
+  ],
+  "risk_factors": [
+    "Malnutrition",
+    "Chronic gastrointestinal diseases",
+    "Elderly individuals",
+    "Alcohol dependence"
+  ],
+  "diagnosis": [
+    "Blood zinc level test",
+    "Immune function tests",
+    "Clinical evaluation"
+  ],
+  "remedies": [
+    "Zinc supplementation",
+    "Balanced diet rich in zinc",
+    "Treatment of underlying conditions"
+  ],
+  "prevention": [
+    "Maintain adequate zinc intake",
+    "Regular health check-ups",
+    "Early treatment of deficiency symptoms"
+  ]
+},
 "zenker_related_esophageal_cancer": {
   "description": "Zenker-related esophageal cancer is a rare malignancy that can develop in the upper esophagus, often associated with long-standing Zenker diverticulum and chronic irritation.",
   "symptoms": [
