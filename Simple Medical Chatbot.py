@@ -6,6 +6,40 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zika_congenital_microcephaly": {
+  "description": "Zika congenital microcephaly is a severe birth defect in which babies are born with abnormally small heads and brain development issues due to Zika virus infection during pregnancy.",
+  "symptoms": [
+    "Abnormally small head size",
+    "Developmental delays",
+    "Seizures",
+    "Feeding difficulties",
+    "Vision and hearing problems"
+  ],
+  "causes": [
+    "Zika virus infection during pregnancy",
+    "Transmission from mother to fetus"
+  ],
+  "risk_factors": [
+    "Pregnancy in Zika-endemic regions",
+    "Exposure to infected mosquitoes",
+    "Lack of protective measures against mosquito bites"
+  ],
+  "diagnosis": [
+    "Prenatal ultrasound",
+    "PCR testing for Zika virus",
+    "Physical examination after birth"
+  ],
+  "remedies": [
+    "Supportive medical care",
+    "Physical and developmental therapy",
+    "Management of complications"
+  ],
+  "prevention": [
+    "Avoid mosquito bites during pregnancy",
+    "Use repellents and protective clothing",
+    "Avoid travel to high-risk areas during outbreaks"
+  ]
+},
 "zinc_deficiency_immunodeficiency": {
   "description": "Zinc deficiency immunodeficiency is a condition where low zinc levels impair immune system function, increasing susceptibility to infections.",
   "symptoms": [
