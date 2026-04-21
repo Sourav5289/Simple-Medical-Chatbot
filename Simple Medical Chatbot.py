@@ -6,6 +6,39 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_ganglionitis": {
+  "description": "Zoster ganglionitis is an inflammation of nerve ganglia caused by reactivation of the varicella-zoster virus, leading to localized nerve pain and possible skin manifestations.",
+  "symptoms": [
+    "Localized burning or sharp nerve pain",
+    "Tingling or numbness",
+    "Sensitivity to touch",
+    "Possible rash in affected area",
+    "Fatigue"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Infection of sensory nerve ganglia"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Weakened immune system",
+    "History of chickenpox"
+  ],
+  "diagnosis": [
+    "Clinical examination",
+    "PCR testing for varicella-zoster virus",
+    "Neurological assessment"
+  ],
+  "remedies": [
+    "Antiviral medications",
+    "Pain management therapy",
+    "Rest and supportive care"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early treatment of shingles"
+  ]
+},
 "zygomycosis_cutaneous": {
   "description": "Cutaneous zygomycosis is a fungal infection of the skin caused by Mucorales species, often entering through wounds and potentially spreading rapidly.",
   "symptoms": [
