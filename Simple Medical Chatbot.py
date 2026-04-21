@@ -6,6 +6,42 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zygomycosis_cutaneous": {
+  "description": "Cutaneous zygomycosis is a fungal infection of the skin caused by Mucorales species, often entering through wounds and potentially spreading rapidly.",
+  "symptoms": [
+    "Red or swollen skin area",
+    "Pain at infection site",
+    "Blisters or ulcers",
+    "Blackened or necrotic tissue",
+    "Fever in severe cases"
+  ],
+  "causes": [
+    "Fungal spores entering through cuts or wounds",
+    "Contaminated soil or organic matter exposure",
+    "Weakened immune system"
+  ],
+  "risk_factors": [
+    "Open wounds or burns",
+    "Uncontrolled diabetes",
+    "Immunocompromised conditions",
+    "Traumatic injuries"
+  ],
+  "diagnosis": [
+    "Skin biopsy",
+    "Fungal culture",
+    "Microscopic examination"
+  ],
+  "remedies": [
+    "Prompt antifungal therapy (e.g., amphotericin B)",
+    "Surgical removal of infected tissue",
+    "Management of underlying conditions"
+  ],
+  "prevention": [
+    "Proper wound care",
+    "Avoid exposure of open wounds to contaminated environments",
+    "Control of diabetes and immune conditions"
+  ]
+},
 "zika_congenital_microcephaly": {
   "description": "Zika congenital microcephaly is a severe birth defect in which babies are born with abnormally small heads and brain development issues due to Zika virus infection during pregnancy.",
   "symptoms": [
