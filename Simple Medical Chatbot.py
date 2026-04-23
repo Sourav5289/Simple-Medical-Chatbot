@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zollinger_syndrome": {
+  "description": "Zollinger syndrome is a condition causing excessive stomach acid leading to ulcers.",
+  "causes": ["Gastrin-secreting tumors"],
+  "remedies": ["Proton pump inhibitors", "Surgery"]
+},
 "zoster_peripheral_neuropathy": {
   "description": "Zoster peripheral neuropathy is nerve damage caused by reactivation of the varicella-zoster virus, leading to persistent pain and sensory disturbances even after the rash resolves.",
   "symptoms": [
