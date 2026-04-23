@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_overdose": {
+  "description": "Zinc overdose is a condition caused by excessive intake of zinc, leading to digestive and systemic symptoms.",
+  "causes": ["Excessive zinc supplements", "Accidental ingestion"],
+  "remedies": ["Stop zinc intake", "Supportive care"]
+},
 "zoster": {
   "description": "Zoster is a viral infection causing a painful rash, also known as shingles.",
   "causes": ["Reactivation of varicella-zoster virus"],
