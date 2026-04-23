@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_rash": {
+  "description": "Zoster rash is a painful skin rash caused by reactivation of the varicella-zoster virus.",
+  "causes": ["Varicella-zoster virus reactivation"],
+  "remedies": ["Antiviral medications", "Pain relief"]
+},
 "zollinger_ellison": {
   "description": "Zollinger-Ellison is a condition where tumors cause excess stomach acid.",
   "causes": ["Gastrin-secreting tumors"],
