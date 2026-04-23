@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_neuralgia": {
+  "description": "Zoster neuralgia is persistent nerve pain following a shingles infection.",
+  "causes": ["Nerve damage from varicella-zoster virus"],
+  "remedies": ["Pain medications", "Antiviral therapy"]
+},
 "zinc_overdose": {
   "description": "Zinc overdose is a condition caused by excessive intake of zinc, leading to digestive and systemic symptoms.",
   "causes": ["Excessive zinc supplements", "Accidental ingestion"],
