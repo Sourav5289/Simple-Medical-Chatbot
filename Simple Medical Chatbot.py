@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zika_fever": {
+  "description": "Zika fever is a mild viral illness transmitted by mosquitoes.",
+  "causes": ["Zika virus infection", "Mosquito bites"],
+  "remedies": ["Rest", "Fluids", "Pain relief"]
+},
 "zoster_neuralgia": {
   "description": "Zoster neuralgia is persistent nerve pain following a shingles infection.",
   "causes": ["Nerve damage from varicella-zoster virus"],
