@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster": {
+  "description": "Zoster is a viral infection causing a painful rash, also known as shingles.",
+  "causes": ["Reactivation of varicella-zoster virus"],
+  "remedies": ["Antiviral medications", "Pain relief"]
+},
 "zollinger_syndrome": {
   "description": "Zollinger syndrome is a condition causing excessive stomach acid leading to ulcers.",
   "causes": ["Gastrin-secreting tumors"],
