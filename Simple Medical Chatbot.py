@@ -6,6 +6,40 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_peripheral_neuropathy": {
+  "description": "Zoster peripheral neuropathy is nerve damage caused by reactivation of the varicella-zoster virus, leading to persistent pain and sensory disturbances even after the rash resolves.",
+  "symptoms": [
+    "Burning or stabbing pain",
+    "Numbness or tingling",
+    "Increased sensitivity to touch",
+    "Muscle weakness",
+    "Persistent nerve pain (postherpetic neuralgia)"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus",
+    "Damage to peripheral nerves during infection"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Weakened immune system",
+    "Severe shingles episode"
+  ],
+  "diagnosis": [
+    "Clinical neurological examination",
+    "History of shingles infection",
+    "Nerve conduction studies"
+  ],
+  "remedies": [
+    "Antiviral medications (early stage)",
+    "Pain management (e.g., gabapentin, pregabalin)",
+    "Physical therapy"
+  ],
+  "prevention": [
+    "Shingles vaccination",
+    "Early antiviral treatment of shingles",
+    "Managing immune health"
+  ]
+},
 "zoster_ganglionitis": {
   "description": "Zoster ganglionitis is an inflammation of nerve ganglia caused by reactivation of the varicella-zoster virus, leading to localized nerve pain and possible skin manifestations.",
   "symptoms": [
