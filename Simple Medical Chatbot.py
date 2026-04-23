@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_deficiency": {
+  "description": "Zinc deficiency is a condition where the body lacks enough zinc for normal function.",
+  "causes": ["Poor diet", "Malabsorption"],
+  "remedies": ["Zinc supplements", "Balanced diet"]
+},
 "zika_fever": {
   "description": "Zika fever is a mild viral illness transmitted by mosquitoes.",
   "causes": ["Zika virus infection", "Mosquito bites"],
