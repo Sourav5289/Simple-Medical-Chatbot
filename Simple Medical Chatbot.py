@@ -11,6 +11,11 @@ medical_db = {
   "causes": ["Varicella-zoster virus reactivation"],
   "remedies": ["Antiviral medications", "Pain relief"]
 },
+"zinc_deficiency_anemia": {
+  "description": "Zinc deficiency anemia is a condition where low zinc levels contribute to reduced red blood cell production.",
+  "causes": ["Low dietary zinc", "Malabsorption"],
+  "remedies": ["Zinc supplements", "Improved diet"]
+},
 "zollinger_ellison": {
   "description": "Zollinger-Ellison is a condition where tumors cause excess stomach acid.",
   "causes": ["Gastrin-secreting tumors"],
