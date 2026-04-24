@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_eye_infection": {
+  "description": "Zoster eye infection is an eye condition caused by varicella-zoster virus affecting ocular tissues.",
+  "causes": ["Varicella-zoster virus reactivation"],
+  "remedies": ["Antiviral medication", "Eye care"]
+},
 "zoster_rash": {
   "description": "Zoster rash is a painful skin rash caused by reactivation of the varicella-zoster virus.",
   "causes": ["Varicella-zoster virus reactivation"],
