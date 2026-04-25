@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zinc_deficiency_skin": {
+  "description": "Zinc deficiency skin condition causes dryness, rashes, and delayed wound healing.",
+  "causes": ["Low zinc intake", "Malabsorption"],
+  "remedies": ["Zinc supplements", "Balanced diet"]
+},
 "zoster_eye_infection": {
   "description": "Zoster eye infection is an eye condition caused by varicella-zoster virus affecting ocular tissues.",
   "causes": ["Varicella-zoster virus reactivation"],
