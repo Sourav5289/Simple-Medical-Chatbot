@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Mutation in LMNA gene"],
   "remedies": ["No cure available", "Supportive care", "Medications to manage symptoms"]
 },
+"alien_hand_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Alien hand syndrome is a rare neurological condition in which a person experiences involuntary movements of one hand as if it has a mind of its own.",
+  "causes": ["Brain injury", "Stroke", "Neurodegenerative disorders"],
+  "remedies": ["Behavioral therapy", "Physical therapy", "Managing underlying condition"]
+},
 "stiff_person_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Stiff person syndrome is a rare neurological disorder characterized by muscle stiffness and painful spasms.",
