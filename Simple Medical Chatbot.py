@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Mutation in LMNA gene"],
   "remedies": ["No cure available", "Supportive care", "Medications to manage symptoms"]
 },
+"fatal_familial_insomnia": {
+  "type": "Genetic (Rare)",
+  "description": "Fatal familial insomnia is an extremely rare inherited brain disorder that causes progressively worsening insomnia leading to severe neurological decline.",
+  "causes": ["Mutation in PRNP gene affecting prion proteins"],
+  "remedies": ["No cure available", "Supportive care", "Symptom management"]
+},
 "fibrodysplasia_ossificans_progressiva": {
   "type": "Genetic (Rare)",
   "description": "Fibrodysplasia ossificans progressiva (FOP) is an extremely rare disorder where soft tissues like muscles and ligaments gradually turn into bone.",
