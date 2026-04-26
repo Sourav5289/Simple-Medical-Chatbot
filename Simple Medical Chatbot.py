@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Mutation in LMNA gene"],
   "remedies": ["No cure available", "Supportive care", "Medications to manage symptoms"]
 },
+"stiff_person_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Stiff person syndrome is a rare neurological disorder characterized by muscle stiffness and painful spasms.",
+  "causes": ["Autoimmune reaction affecting the nervous system"],
+  "remedies": ["Muscle relaxants", "Immunotherapy", "Physical therapy"]
+},
 "kuru": {
   "type": "Prion (Rare)",
   "description": "Kuru is an extremely rare and fatal neurodegenerative disorder historically found in certain populations, characterized by tremors and loss of coordination.",
