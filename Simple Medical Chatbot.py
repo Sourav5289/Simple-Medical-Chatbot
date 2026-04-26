@@ -6,6 +6,11 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"zoster_fever": {
+  "description": "Zoster fever is a mild fever associated with shingles infection.",
+  "causes": ["Varicella-zoster virus reactivation"],
+  "remedies": ["Rest", "Fluids", "Antiviral medication"]
+},
 "zinc_deficiency_skin": {
   "description": "Zinc deficiency skin condition causes dryness, rashes, and delayed wound healing.",
   "causes": ["Low zinc intake", "Malabsorption"],
