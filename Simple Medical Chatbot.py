@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Mutation in LMNA gene"],
   "remedies": ["No cure available", "Supportive care", "Medications to manage symptoms"]
 },
+"kuru": {
+  "type": "Prion (Rare)",
+  "description": "Kuru is an extremely rare and fatal neurodegenerative disorder historically found in certain populations, characterized by tremors and loss of coordination.",
+  "causes": ["Infectious prion proteins transmitted through contaminated human tissue"],
+  "remedies": ["No cure available", "Supportive care"]
+},
 "fatal_familial_insomnia": {
   "type": "Genetic (Rare)",
   "description": "Fatal familial insomnia is an extremely rare inherited brain disorder that causes progressively worsening insomnia leading to severe neurological decline.",
