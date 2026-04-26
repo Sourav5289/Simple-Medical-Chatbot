@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"fibrodysplasia_ossificans_progressiva": {
+  "type": "Genetic (Rare)",
+  "description": "Fibrodysplasia ossificans progressiva (FOP) is an extremely rare disorder where soft tissues like muscles and ligaments gradually turn into bone.",
+  "causes": ["Mutation in ACVR1 gene"],
+  "remedies": ["No cure available", "Symptom management", "Avoid injury to prevent progression"]
+},
 "zoster_fever": {
   "description": "Zoster fever is a mild fever associated with shingles infection.",
   "causes": ["Varicella-zoster virus reactivation"],
