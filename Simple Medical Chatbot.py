@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"progeria": {
+  "type": "Genetic (Rare)",
+  "description": "Progeria is an extremely rare genetic disorder that causes rapid aging in children.",
+  "causes": ["Mutation in LMNA gene"],
+  "remedies": ["No cure available", "Supportive care", "Medications to manage symptoms"]
+},
 "fibrodysplasia_ossificans_progressiva": {
   "type": "Genetic (Rare)",
   "description": "Fibrodysplasia ossificans progressiva (FOP) is an extremely rare disorder where soft tissues like muscles and ligaments gradually turn into bone.",
