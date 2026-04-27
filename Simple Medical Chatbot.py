@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"harlequin_ichthyosis": {
+  "type": "Genetic (Rare)",
+  "description": "Harlequin ichthyosis is an extremely rare and severe genetic skin disorder where infants are born with thick, hard skin plates that can crack and split.",
+  "causes": ["Mutation in ABCA12 gene"],
+  "remedies": ["Intensive neonatal care", "Moisturizers", "Retinoid therapy", "Supportive treatment"]
+},
 "progeria": {
   "type": "Genetic (Rare)",
   "description": "Progeria is an extremely rare genetic disorder that causes rapid aging in children.",
