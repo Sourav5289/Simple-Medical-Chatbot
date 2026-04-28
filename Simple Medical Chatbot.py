@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"maple_syrup_urine_disease": {
+  "type": "Metabolic (Rare)",
+  "description": "Maple syrup urine disease is a rare inherited disorder where the body cannot properly break down certain amino acids, causing a characteristic sweet-smelling urine.",
+  "causes": ["Deficiency of branched-chain alpha-keto acid dehydrogenase enzyme"],
+  "remedies": ["Strict dietary management", "Special medical formula", "Monitoring amino acid levels"]
+},
 "harlequin_ichthyosis": {
   "type": "Genetic (Rare)",
   "description": "Harlequin ichthyosis is an extremely rare and severe genetic skin disorder where infants are born with thick, hard skin plates that can crack and split.",
