@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"moebius_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Moebius syndrome is a rare congenital neurological disorder characterized by facial paralysis and inability to move the eyes laterally.",
+  "causes": ["Underdevelopment of cranial nerves VI and VII"],
+  "remedies": ["Supportive care", "Physical therapy", "Surgical interventions for function improvement"]
+},
 "capgras_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Capgras syndrome is a rare delusional disorder in which a person believes that someone close to them has been replaced by an identical impostor.",
