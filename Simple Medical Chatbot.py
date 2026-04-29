@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"capgras_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Capgras syndrome is a rare delusional disorder in which a person believes that someone close to them has been replaced by an identical impostor.",
+  "causes": ["Brain injury", "Neurodegenerative diseases", "Psychiatric conditions"],
+  "remedies": ["Antipsychotic medication", "Psychotherapy", "Treatment of underlying condition"]
+},
 "maple_syrup_urine_disease": {
   "type": "Metabolic (Rare)",
   "description": "Maple syrup urine disease is a rare inherited disorder where the body cannot properly break down certain amino acids, causing a characteristic sweet-smelling urine.",
