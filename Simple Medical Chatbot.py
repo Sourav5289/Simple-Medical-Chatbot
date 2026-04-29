@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"locked_in_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Locked-in syndrome is a rare condition where a person is conscious but unable to move or speak due to paralysis of nearly all voluntary muscles.",
+  "causes": ["Brainstem stroke", "Severe brain injury"],
+  "remedies": ["Supportive care", "Communication aids", "Rehabilitation therapy"]
+},
 "trimethylaminuria": {
   "type": "Metabolic (Rare)",
   "description": "Trimethylaminuria is a rare metabolic disorder in which the body cannot properly break down trimethylamine, causing a strong fish-like body odor.",
