@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"trimethylaminuria": {
+  "type": "Metabolic (Rare)",
+  "description": "Trimethylaminuria is a rare metabolic disorder in which the body cannot properly break down trimethylamine, causing a strong fish-like body odor.",
+  "causes": ["FMO3 gene mutation leading to enzyme deficiency"],
+  "remedies": ["Dietary changes", "Activated charcoal", "Antibiotics in some cases"]
+},
 "moebius_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Moebius syndrome is a rare congenital neurological disorder characterized by facial paralysis and inability to move the eyes laterally.",
