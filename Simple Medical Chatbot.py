@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"walking_corpse_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Walking corpse syndrome, also known as Cotard's syndrome, is a rare mental disorder in which a person believes they are dead or do not exist.",
+  "causes": ["Severe depression", "Neurological conditions", "Brain injury"],
+  "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
+},
 "foreign_accent_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Foreign accent syndrome is a rare condition where a person's speech suddenly sounds as if they have a foreign accent after brain injury or neurological changes.",
