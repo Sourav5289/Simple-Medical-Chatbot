@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"prosopagnosia": {
+  "type": "Neurological (Rare)",
+  "description": "Prosopagnosia, also known as face blindness, is a condition where a person has difficulty recognizing faces, even those of close friends or family.",
+  "causes": ["Brain injury", "Stroke", "Congenital brain differences"],
+  "remedies": ["Coping strategies", "Visual training", "Assistive techniques"]
+},
 "walking_corpse_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Walking corpse syndrome, also known as Cotard's syndrome, is a rare mental disorder in which a person believes they are dead or do not exist.",
