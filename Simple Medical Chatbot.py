@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"foreign_accent_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Foreign accent syndrome is a rare condition where a person's speech suddenly sounds as if they have a foreign accent after brain injury or neurological changes.",
+  "causes": ["Stroke", "Traumatic brain injury", "Neurological disorders"],
+  "remedies": ["Speech therapy", "Neurological rehabilitation"]
+},
 "locked_in_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Locked-in syndrome is a rare condition where a person is conscious but unable to move or speak due to paralysis of nearly all voluntary muscles.",
