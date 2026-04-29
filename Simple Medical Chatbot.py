@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"pica": {
+  "type": "Psychiatric (Rare)",
+  "description": "Pica is an eating disorder characterized by the persistent craving and consumption of non-food substances such as dirt, clay, or paper.",
+  "causes": ["Nutritional deficiencies (e.g., iron deficiency)", "Developmental disorders", "Psychological factors"],
+  "remedies": ["Nutritional supplementation", "Behavioral therapy", "Treat underlying conditions"]
+},
 "prosopagnosia": {
   "type": "Neurological (Rare)",
   "description": "Prosopagnosia, also known as face blindness, is a condition where a person has difficulty recognizing faces, even those of close friends or family.",
