@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"aquagenic_urticaria": {
+  "type": "Allergic (Rare)",
+  "description": "Aquagenic urticaria is an extremely rare condition in which contact with water causes itchy hives on the skin.",
+  "causes": ["Unknown", "Abnormal skin reaction to water"],
+  "remedies": ["Antihistamines", "Barrier creams", "Avoid prolonged water exposure"]
+},
 "pica": {
   "type": "Psychiatric (Rare)",
   "description": "Pica is an eating disorder characterized by the persistent craving and consumption of non-food substances such as dirt, clay, or paper.",
