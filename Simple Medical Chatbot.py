@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"erythromelalgia": {
+  "type": "Neurological (Rare)",
+  "description": "Erythromelalgia is a rare condition characterized by episodes of burning pain, redness, and warmth in the hands or feet.",
+  "causes": ["Nerve dysfunction", "Genetic mutations", "Blood disorders"],
+  "remedies": ["Cooling measures", "Pain management", "Treat underlying conditions"]
+},
 "aquagenic_urticaria": {
   "type": "Allergic (Rare)",
   "description": "Aquagenic urticaria is an extremely rare condition in which contact with water causes itchy hives on the skin.",
