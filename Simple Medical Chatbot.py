@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"kleine_levin_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Kleine-Levin syndrome is a rare disorder characterized by recurring episodes of excessive sleep, behavioral changes, and altered perception.",
+  "causes": ["Unknown", "Possible hypothalamic dysfunction"],
+  "remedies": ["Supportive care", "Sleep management", "Monitoring during episodes"]
+},
 "erythromelalgia": {
   "type": "Neurological (Rare)",
   "description": "Erythromelalgia is a rare condition characterized by episodes of burning pain, redness, and warmth in the hands or feet.",
