@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"morgellons_disease": {
+  "type": "Dermatological/Psychiatric (Rare)",
+  "description": "Morgellons disease is a poorly understood condition where individuals report fibers or particles emerging from the skin along with itching and discomfort.",
+  "causes": ["Unclear; may involve psychological and dermatological factors"],
+  "remedies": ["Symptom management", "Dermatological care", "Psychiatric support"]
+},
 "kleine_levin_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Kleine-Levin syndrome is a rare disorder characterized by recurring episodes of excessive sleep, behavioral changes, and altered perception.",
