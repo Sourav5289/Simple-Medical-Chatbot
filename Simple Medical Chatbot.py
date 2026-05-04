@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"fregoli_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Fregoli syndrome is a rare delusional disorder in which a person believes that different people are actually a single person who changes appearance or is in disguise.",
+  "causes": ["Brain injury", "Schizophrenia", "Neurological disorders"],
+  "remedies": ["Antipsychotic medication", "Psychotherapy", "Treatment of underlying condition"]
+},
 "morgellons_disease": {
   "type": "Dermatological/Psychiatric (Rare)",
   "description": "Morgellons disease is a poorly understood condition where individuals report fibers or particles emerging from the skin along with itching and discomfort.",
