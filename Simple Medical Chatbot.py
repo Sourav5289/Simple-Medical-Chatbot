@@ -16,7 +16,7 @@ medical_db = {
   "type": "Cardiac (Rare)",
   "description": "Takotsubo cardiomyopathy, also known as broken heart syndrome, is a temporary heart condition often triggered by severe emotional or physical stress.",
   "causes": ["Sudden stress", "Hormonal surge affecting the heart"],
-  "remedies": ["Supportive cardiac care", "Stress,
+  "remedies": ["Supportive cardiac care", "Stress]},
 "paraneoplastic_syndrome": {
   "type": "Oncological (Rare)",
   "description": "Paraneoplastic syndrome is a group of rare disorders triggered by an abnormal immune response to a cancer in the body.",
