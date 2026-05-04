@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"paraneoplastic_syndrome": {
+  "type": "Oncological (Rare)",
+  "description": "Paraneoplastic syndrome is a group of rare disorders triggered by an abnormal immune response to a cancer in the body.",
+  "causes": ["Immune reaction to tumor cells"],
+  "remedies": ["Treat underlying cancer", "Immunotherapy", "Supportive care"]
+},
 "hyperekplexia": {
   "type": "Neurological (Rare)",
   "description": "Hyperekplexia is a rare genetic disorder characterized by an exaggerated startle response and muscle stiffness from birth.",
