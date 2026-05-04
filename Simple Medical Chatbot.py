@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"xeroderma_pigmentosum_variant": {
+  "type": "Genetic (Rare)",
+  "description": "Xeroderma pigmentosum variant is a rare inherited condition that impairs DNA repair after UV exposure, increasing skin cancer risk.",
+  "causes": ["Mutations affecting DNA repair pathways"],
+  "remedies": ["Strict sun protection", "Regular skin screening", "Early treatment of lesions"]
+},
 "takotsubo_cardiomyopathy": {
   "type": "Cardiac (Rare)",
   "description": "Takotsubo cardiomyopathy, also known as broken heart syndrome, is a temporary heart condition often triggered by severe emotional or physical stress.",
