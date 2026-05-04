@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"hyperekplexia": {
+  "type": "Neurological (Rare)",
+  "description": "Hyperekplexia is a rare genetic disorder characterized by an exaggerated startle response and muscle stiffness from birth.",
+  "causes": ["Mutations affecting glycine receptors"],
+  "remedies": ["Medications like clonazepam", "Safety precautions", "Supportive care"]
+},
 "fregoli_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Fregoli syndrome is a rare delusional disorder in which a person believes that different people are actually a single person who changes appearance or is in disguise.",
