@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"ehlers_danlos_syndrome": {
+  "type": "Genetic (Rare)",
+  "description": "Ehlers-Danlos syndrome is a group of inherited disorders that affect connective tissues, leading to hyperflexible joints and fragile skin.",
+  "causes": ["Mutations in genes affecting collagen production"],
+  "remedies": ["Physical therapy", "Pain management", "Joint protection strategies"]
+},
 "xeroderma_pigmentosum_variant": {
   "type": "Genetic (Rare)",
   "description": "Xeroderma pigmentosum variant is a rare inherited condition that impairs DNA repair after UV exposure, increasing skin cancer risk.",
