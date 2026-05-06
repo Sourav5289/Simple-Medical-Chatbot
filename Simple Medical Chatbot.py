@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"prader_willi_syndrome": {
+  "type": "Genetic (Rare)",
+  "description": "Prader-Willi syndrome is a rare genetic disorder that causes constant hunger, developmental delays, and reduced muscle tone.",
+  "causes": ["Loss of function of genes on chromosome 15"],
+  "remedies": ["Strict diet management", "Hormone therapy", "Behavioral support"]
+},
 "ehlers_danlos_syndrome": {
   "type": "Genetic (Rare)",
   "description": "Ehlers-Danlos syndrome is a group of inherited disorders that affect connective tissues, leading to hyperflexible joints and fragile skin.",
