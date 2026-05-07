@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"cotard_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Cotard syndrome is a rare mental disorder in which a person believes they are dead, do not exist, or have lost their organs or blood.",
+  "causes": ["Severe depression", "Neurological disorders", "Brain injury"],
+  "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
+},
 "prader_willi_syndrome": {
   "type": "Genetic (Rare)",
   "description": "Prader-Willi syndrome is a rare genetic disorder that causes constant hunger, developmental delays, and reduced muscle tone.",
