@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"boanthropy": {
+  "type": "Psychiatric (Rare)",
+  "description": "Boanthropy is a rare psychological disorder in which a person believes they are a cow or ox and may behave accordingly.",
+  "causes": ["Severe psychiatric disorders", "Delusional conditions"],
+  "remedies": ["Psychotherapy", "Antipsychotic medication", "Psychiatric care"]
+},
 "mirror_touch_synesthesia": {
   "type": "Neurological (Rare)",
   "description": "Mirror-touch synesthesia is a rare condition in which a person physically feels sensations on their own body when seeing someone else being touched.",
