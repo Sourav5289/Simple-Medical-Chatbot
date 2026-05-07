@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"savants_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Savant syndrome is a rare condition in which a person with developmental disorders demonstrates extraordinary abilities in specific areas such as music, mathematics, or memory.",
+  "causes": ["Autism spectrum disorders", "Brain injury", "Neurological differences"],
+  "remedies": ["Supportive education", "Skill-focused therapy", "Behavioral support"]
+},
 "cotard_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Cotard syndrome is a rare mental disorder in which a person believes they are dead, do not exist, or have lost their organs or blood.",
