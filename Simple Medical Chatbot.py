@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"mirror_touch_synesthesia": {
+  "type": "Neurological (Rare)",
+  "description": "Mirror-touch synesthesia is a rare condition in which a person physically feels sensations on their own body when seeing someone else being touched.",
+  "causes": ["Differences in sensory processing", "Neurological variations"],
+  "remedies": ["Sensory management techniques", "Psychological support", "Stress reduction"]
+},
 "exploding_head_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Exploding head syndrome is a rare sleep disorder in which a person hears a sudden loud noise or explosive sensation while falling asleep or waking up.",
