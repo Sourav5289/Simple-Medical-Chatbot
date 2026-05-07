@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"exploding_head_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Exploding head syndrome is a rare sleep disorder in which a person hears a sudden loud noise or explosive sensation while falling asleep or waking up.",
+  "causes": ["Sleep disturbances", "Stress", "Unknown neurological factors"],
+  "remedies": ["Stress management", "Improved sleep habits", "Reassurance and monitoring"]
+},
 "alice_in_wonderland_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Alice in Wonderland syndrome is a rare condition that alters perception, causing objects or body parts to appear distorted in size, shape, or distance.",
