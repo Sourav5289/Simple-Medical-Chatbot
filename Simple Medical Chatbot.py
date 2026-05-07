@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"jerusalem_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Jerusalem syndrome is a rare mental condition in which visitors to Jerusalem experience intense religious delusions or psychosis.",
+  "causes": ["Psychological stress", "Underlying mental health conditions"],
+  "remedies": ["Psychiatric treatment", "Supportive therapy", "Hospitalization in severe cases"]
+},
 "boanthropy": {
   "type": "Psychiatric (Rare)",
   "description": "Boanthropy is a rare psychological disorder in which a person believes they are a cow or ox and may behave accordingly.",
