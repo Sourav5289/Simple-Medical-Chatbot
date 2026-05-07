@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"alice_in_wonderland_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Alice in Wonderland syndrome is a rare condition that alters perception, causing objects or body parts to appear distorted in size, shape, or distance.",
+  "causes": ["Migraine", "Epstein-Barr virus infection", "Neurological disorders"],
+  "remedies": ["Treat underlying condition", "Migraine management", "Rest and monitoring"]
+},
 "savants_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Savant syndrome is a rare condition in which a person with developmental disorders demonstrates extraordinary abilities in specific areas such as music, mathematics, or memory.",
