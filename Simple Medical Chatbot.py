@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"paris_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Paris syndrome is a rare psychological condition experienced by some tourists who become extremely disappointed or distressed when visiting Paris.",
+  "causes": ["Culture shock", "Stress", "Unrealistic expectations"],
+  "remedies": ["Rest", "Psychological support", "Stress management"]
+},
 "jerusalem_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Jerusalem syndrome is a rare mental condition in which visitors to Jerusalem experience intense religious delusions or psychosis.",
