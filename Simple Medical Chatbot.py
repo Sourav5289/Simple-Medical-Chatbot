@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"diogenes_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Diogenes syndrome is a behavioral disorder characterized by extreme self-neglect, social withdrawal, and compulsive hoarding.",
+  "causes": ["Mental illness", "Dementia", "Social isolation"],
+  "remedies": ["Psychiatric care", "Behavioral therapy", "Social support"]
+},
 "paris_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Paris syndrome is a rare psychological condition experienced by some tourists who become extremely disappointed or distressed when visiting Paris.",
