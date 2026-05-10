@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"stone_man_syndrome": {
+  "type": "Genetic (Rare)",
+  "description": "Stone man syndrome, also known as fibrodysplasia ossificans progressiva, is a rare disorder where muscles and connective tissues gradually turn into bone.",
+  "causes": ["Mutation in the ACVR1 gene"],
+  "remedies": ["No cure available", "Injury prevention", "Supportive care"]
+},
 "diogenes_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Diogenes syndrome is a behavioral disorder characterized by extreme self-neglect, social withdrawal, and compulsive hoarding.",
