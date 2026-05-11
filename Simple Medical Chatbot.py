@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Mutation in the ACVR1 gene"],
   "remedies": ["No cure available", "Injury prevention", "Supportive care"]
 },
+"rapunzel_syndrome": {
+  "type": "Gastrointestinal/Psychiatric (Rare)",
+  "description": "Rapunzel syndrome is a rare condition where a person swallows hair, leading to a large hairball extending through the digestive tract.",
+  "causes": ["Trichotillomania", "Hair eating disorder (trichophagia)"],
+  "remedies": ["Surgical removal of hairball", "Psychiatric therapy", "Behavioral treatment"]
+},
 "diogenes_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Diogenes syndrome is a behavioral disorder characterized by extreme self-neglect, social withdrawal, and compulsive hoarding.",
