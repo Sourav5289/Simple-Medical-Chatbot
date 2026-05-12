@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"auto_brewery_syndrome": {
+  "type": "Metabolic (Rare)",
+  "description": "Auto-brewery syndrome is a rare condition in which the gut produces alcohol from carbohydrates, causing symptoms of intoxication without drinking alcohol.",
+  "causes": ["Overgrowth of fermenting yeast or bacteria in the gut"],
+  "remedies": ["Low-carbohydrate diet", "Antifungal medication", "Probiotics"]
+},
 "stone_man_syndrome": {
   "type": "Genetic (Rare)",
   "description": "Stone man syndrome, also known as fibrodysplasia ossificans progressiva, is a rare disorder where muscles and connective tissues gradually turn into bone.",
