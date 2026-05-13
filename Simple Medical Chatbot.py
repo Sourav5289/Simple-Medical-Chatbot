@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"burning_mouth_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Burning mouth syndrome is a chronic condition causing a burning sensation in the mouth without an obvious medical cause.",
+  "causes": ["Nerve dysfunction", "Hormonal changes", "Nutritional deficiencies"],
+  "remedies": ["Pain management", "Saliva substitutes", "Treat underlying deficiencies"]
+},
 "auto_brewery_syndrome": {
   "type": "Metabolic (Rare)",
   "description": "Auto-brewery syndrome is a rare condition in which the gut produces alcohol from carbohydrates, causing symptoms of intoxication without drinking alcohol.",
