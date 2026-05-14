@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"visual_snow_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Visual snow syndrome is a rare condition where a person constantly sees flickering dots or static across their entire field of vision.",
+  "causes": ["Abnormal visual processing in the brain"],
+  "remedies": ["Migraine management", "Symptom monitoring", "Supportive neurological care"]
+},
 "burning_mouth_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Burning mouth syndrome is a chronic condition causing a burning sensation in the mouth without an obvious medical cause.",
