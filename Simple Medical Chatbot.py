@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"locked_in_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Locked-in syndrome is a rare neurological condition in which a person is conscious and aware but unable to move or speak due to complete paralysis of nearly all voluntary muscles.",
+  "causes": ["Brainstem stroke", "Severe brain injury", "Neurological disease"],
+  "remedies": ["Supportive care", "Communication devices", "Rehabilitation therapy"]
+},
 "visual_snow_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Visual snow syndrome is a rare condition where a person constantly sees flickering dots or static across their entire field of vision.",
