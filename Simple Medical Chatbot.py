@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"sleeping_beauty_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Sleeping Beauty syndrome, also known as Kleine-Levin syndrome, is a rare disorder characterized by excessive sleep episodes lasting for days or weeks.",
+  "causes": ["Unknown neurological dysfunction", "Possible hypothalamic abnormalities"],
+  "remedies": ["Supportive care", "Sleep regulation", "Monitoring during episodes"]
+},
 "locked_in_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Locked-in syndrome is a rare neurological condition in which a person is conscious and aware but unable to move or speak due to complete paralysis of nearly all voluntary muscles.",
