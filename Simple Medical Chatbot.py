@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"phantom_limb_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Phantom limb syndrome is a condition in which a person feels pain or sensations in a limb that has been amputated.",
+  "causes": ["Nerve signaling changes after amputation", "Brain adaptation issues"],
+  "remedies": ["Pain management", "Mirror therapy", "Physical rehabilitation"]
+},
 "sleeping_beauty_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Sleeping Beauty syndrome, also known as Kleine-Levin syndrome, is a rare disorder characterized by excessive sleep episodes lasting for days or weeks.",
