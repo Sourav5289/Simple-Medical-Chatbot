@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"walking_pneumonia": {
+  "type": "Bacterial",
+  "description": "Walking pneumonia is a mild form of pneumonia that allows people to continue daily activities despite infection.",
+  "causes": ["Mycoplasma pneumoniae bacteria"],
+  "remedies": ["Antibiotics", "Rest", "Hydration"]
+},
 "phantom_limb_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Phantom limb syndrome is a condition in which a person feels pain or sensations in a limb that has been amputated.",
