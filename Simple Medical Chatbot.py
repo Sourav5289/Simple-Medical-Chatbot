@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"misophonia": {
+  "type": "Neurological/Psychiatric (Rare)",
+  "description": "Misophonia is a condition in which certain everyday sounds trigger intense emotional or physical reactions such as anger, anxiety, or discomfort.",
+  "causes": ["Abnormal sound processing", "Neurological sensitivity"],
+  "remedies": ["Sound therapy", "Cognitive behavioral therapy", "Stress management"]
+},
 "walking_pneumonia": {
   "type": "Bacterial",
   "description": "Walking pneumonia is a mild form of pneumonia that allows people to continue daily activities despite infection.",
