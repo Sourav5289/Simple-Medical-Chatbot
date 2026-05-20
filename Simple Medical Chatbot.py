@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"hyperthymesia": {
+  "type": "Neurological (Rare)",
+  "description": "Hyperthymesia is a rare condition in which a person can remember an unusually vast number of personal life experiences in vivid detail.",
+  "causes": ["Unusual brain activity", "Neurological differences"],
+  "remedies": ["No specific treatment", "Psychological support if needed"]
+},
 "misophonia": {
   "type": "Neurological/Psychiatric (Rare)",
   "description": "Misophonia is a condition in which certain everyday sounds trigger intense emotional or physical reactions such as anger, anxiety, or discomfort.",
