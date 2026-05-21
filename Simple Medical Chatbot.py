@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"synesthesia": {
+  "type": "Neurological (Rare)",
+  "description": "Synesthesia is a rare condition in which stimulation of one sense automatically triggers another, such as seeing colors when hearing music.",
+  "causes": ["Neurological differences in sensory processing"],
+  "remedies": ["No treatment needed in most cases", "Supportive care if symptoms affect daily life"]
+},
 "hyperthymesia": {
   "type": "Neurological (Rare)",
   "description": "Hyperthymesia is a rare condition in which a person can remember an unusually vast number of personal life experiences in vivid detail.",
