@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"hemolacria": {
+  "type": "Ophthalmological (Rare)",
+  "description": "Hemolacria is a rare condition in which a person sheds tears mixed with blood.",
+  "causes": ["Eye infections", "Trauma", "Blood vessel abnormalities"],
+  "remedies": ["Treat underlying cause", "Medical evaluation", "Eye care"]
+},
 "synesthesia": {
   "type": "Neurological (Rare)",
   "description": "Synesthesia is a rare condition in which stimulation of one sense automatically triggers another, such as seeing colors when hearing music.",
