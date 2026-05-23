@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"pain_asymbolia": {
+  "type": "Neurological (Rare)",
+  "description": "Pain asymbolia is a rare neurological condition in which a person feels pain but does not experience the normal emotional distress or urgency associated with it.",
+  "causes": ["Brain injury affecting pain-processing regions", "Neurological disorders"],
+  "remedies": ["Safety monitoring", "Neurological care", "Treatment of underlying condition"]
+},
 "hemolacria": {
   "type": "Ophthalmological (Rare)",
   "description": "Hemolacria is a rare condition in which a person sheds tears mixed with blood.",
