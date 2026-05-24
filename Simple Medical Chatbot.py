@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"truman_show_delusion": {
+  "type": "Psychiatric (Rare)",
+  "description": "Truman Show delusion is a rare psychiatric condition in which a person believes their life is being secretly filmed or observed as part of a reality show.",
+  "causes": ["Psychotic disorders", "Delusional thinking", "Severe mental illness"],
+  "remedies": ["Psychotherapy", "Antipsychotic medication", "Psychiatric care"]
+},
 "pain_asymbolia": {
   "type": "Neurological (Rare)",
   "description": "Pain asymbolia is a rare neurological condition in which a person feels pain but does not experience the normal emotional distress or urgency associated with it.",
