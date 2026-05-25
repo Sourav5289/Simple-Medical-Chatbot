@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"congenital_insensitivity_to_pain": {
+  "type": "Neurological/Genetic (Rare)",
+  "description": "Congenital insensitivity to pain is a rare condition in which a person cannot feel physical pain, increasing the risk of unnoticed injuries.",
+  "causes": ["Genetic mutations affecting pain-signaling nerves"],
+  "remedies": ["Injury prevention", "Regular medical monitoring", "Protective care"]
+},
 "truman_show_delusion": {
   "type": "Psychiatric (Rare)",
   "description": "Truman Show delusion is a rare psychiatric condition in which a person believes their life is being secretly filmed or observed as part of a reality show.",
