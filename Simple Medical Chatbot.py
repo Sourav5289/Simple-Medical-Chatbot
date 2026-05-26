@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"apotemnophilia": {
+  "type": "Psychiatric/Neurological (Rare)",
+  "description": "Apotemnophilia, also called body integrity identity disorder (BIID), is a rare condition in which a person feels a strong desire to remove or disable a healthy limb because it feels like it does not belong to their body.",
+  "causes": ["Neurological differences", "Psychological factors", "Body identity disturbances"],
+  "remedies": ["Psychotherapy", "Psychiatric care", "Behavioral support"]
+},
 "congenital_insensitivity_to_pain": {
   "type": "Neurological/Genetic (Rare)",
   "description": "Congenital insensitivity to pain is a rare condition in which a person cannot feel physical pain, increasing the risk of unnoticed injuries.",
