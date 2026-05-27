@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"charles_bonnet_syndrome": {
+  "type": "Neurological/Ophthalmological (Rare)",
+  "description": "Charles Bonnet syndrome is a rare condition in which people with vision loss experience vivid visual hallucinations while remaining aware that the images are not real.",
+  "causes": ["Vision loss", "Reduced visual input to the brain"],
+  "remedies": ["Treat underlying vision problems", "Reassurance and education", "Medical evaluation if symptoms are severe"]
+},
 "apotemnophilia": {
   "type": "Psychiatric/Neurological (Rare)",
   "description": "Apotemnophilia, also called body integrity identity disorder (BIID), is a rare condition in which a person feels a strong desire to remove or disable a healthy limb because it feels like it does not belong to their body.",
