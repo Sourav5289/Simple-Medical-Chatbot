@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"parry_romberg_syndrome": {
+  "type": "Neurological/Autoimmune (Rare)",
+  "description": "Parry-Romberg syndrome is a rare condition causing gradual shrinking of skin and soft tissues on one side of the face.",
+  "causes": ["Unknown", "Possible autoimmune or nervous system abnormalities"],
+  "remedies": ["Immunosuppressive therapy", "Reconstructive surgery", "Symptom management"]
+},
 "charles_bonnet_syndrome": {
   "type": "Neurological/Ophthalmological (Rare)",
   "description": "Charles Bonnet syndrome is a rare condition in which people with vision loss experience vivid visual hallucinations while remaining aware that the images are not real.",
