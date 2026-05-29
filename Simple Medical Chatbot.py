@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"fecal_vomiting_syndrome": {
+  "type": "Gastrointestinal (Rare)",
+  "description": "Fecal vomiting syndrome is a rare and serious condition in which intestinal blockage causes vomit to contain fecal material.",
+  "causes": ["Severe intestinal obstruction", "Bowel fistula", "Digestive tract blockage"],
+  "remedies": ["Emergency medical treatment", "Surgery", "Fluid and electrolyte management"]
+},
 "parry_romberg_syndrome": {
   "type": "Neurological/Autoimmune (Rare)",
   "description": "Parry-Romberg syndrome is a rare condition causing gradual shrinking of skin and soft tissues on one side of the face.",
