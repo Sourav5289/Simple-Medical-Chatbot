@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"fibrodysplasia_ossificans_progressiva": {
+  "type": "Genetic (Rare)",
+  "description": "Fibrodysplasia ossificans progressiva is an extremely rare disorder in which muscles and connective tissues gradually turn into bone.",
+  "causes": ["Mutation in the ACVR1 gene"],
+  "remedies": ["Injury prevention", "Symptom management", "Supportive care"]
+},
 "fecal_vomiting_syndrome": {
   "type": "Gastrointestinal (Rare)",
   "description": "Fecal vomiting syndrome is a rare and serious condition in which intestinal blockage causes vomit to contain fecal material.",
