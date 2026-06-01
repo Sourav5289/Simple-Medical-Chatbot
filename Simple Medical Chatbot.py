@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"crigler_najjar_syndrome": {
+  "type": "Genetic (Rare)",
+  "description": "Crigler-Najjar syndrome is a rare inherited disorder in which the body cannot properly process bilirubin, leading to severe jaundice.",
+  "causes": ["Mutation in the UGT1A1 gene"],
+  "remedies": ["Phototherapy", "Liver transplant in severe cases", "Medical monitoring"]
+},
 "fibrodysplasia_ossificans_progressiva": {
   "type": "Genetic (Rare)",
   "description": "Fibrodysplasia ossificans progressiva is an extremely rare disorder in which muscles and connective tissues gradually turn into bone.",
