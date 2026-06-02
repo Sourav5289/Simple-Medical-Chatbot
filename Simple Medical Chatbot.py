@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"foreign_hand_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Foreign hand syndrome is a rare condition in which one hand moves involuntarily and seems to act independently.",
+  "causes": ["Brain injury", "Stroke", "Brain surgery affecting nerve pathways"],
+  "remedies": ["Behavioral therapy", "Physical therapy", "Management of underlying condition"]
+},
 "crigler_najjar_syndrome": {
   "type": "Genetic (Rare)",
   "description": "Crigler-Najjar syndrome is a rare inherited disorder in which the body cannot properly process bilirubin, leading to severe jaundice.",
