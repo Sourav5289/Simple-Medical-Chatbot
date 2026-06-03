@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"insensitivity_to_temperature": {
+  "type": "Neurological (Rare)",
+  "description": "Insensitivity to temperature is a rare disorder in which a person cannot properly sense hot or cold temperatures, increasing the risk of burns or frostbite.",
+  "causes": ["Genetic nerve disorders", "Peripheral neuropathy", "Neurological damage"],
+  "remedies": ["Protective measures", "Regular skin checks", "Treatment of underlying neurological condition"]
+},
 "foreign_hand_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Foreign hand syndrome is a rare condition in which one hand moves involuntarily and seems to act independently.",
