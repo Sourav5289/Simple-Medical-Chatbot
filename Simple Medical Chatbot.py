@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"hypertrichosis": {
+  "type": "Genetic/Dermatological (Rare)",
+  "description": "Hypertrichosis, sometimes called 'werewolf syndrome,' is a rare condition characterized by excessive hair growth on the face and body.",
+  "causes": ["Genetic mutations", "Certain medications", "Underlying medical conditions"],
+  "remedies": ["Hair removal treatments", "Laser therapy", "Treatment of underlying cause"]
+},
 "insensitivity_to_temperature": {
   "type": "Neurological (Rare)",
   "description": "Insensitivity to temperature is a rare disorder in which a person cannot properly sense hot or cold temperatures, increasing the risk of burns or frostbite.",
