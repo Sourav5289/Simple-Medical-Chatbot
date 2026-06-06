@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"aquagenic_pruritus": {
+  "type": "Dermatological (Rare)",
+  "description": "Aquagenic pruritus is a rare condition in which contact with water causes intense itching without any visible skin rash.",
+  "causes": ["Unknown", "Abnormal nerve or mast cell response"],
+  "remedies": ["Antihistamines", "Phototherapy", "Avoidance of triggers"]
+},
 "hypertrichosis": {
   "type": "Genetic/Dermatological (Rare)",
   "description": "Hypertrichosis, sometimes called 'werewolf syndrome,' is a rare condition characterized by excessive hair growth on the face and body.",
