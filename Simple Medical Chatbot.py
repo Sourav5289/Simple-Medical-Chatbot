@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"exploding_toes_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Exploding toes syndrome is a rare condition characterized by sudden episodes of severe burning, stabbing, or electric shock-like pain in the toes.",
+  "causes": ["Peripheral nerve dysfunction", "Neuropathy", "Unknown neurological factors"],
+  "remedies": ["Pain management", "Neurological evaluation", "Treatment of underlying nerve disorders"]
+},
 "aquagenic_pruritus": {
   "type": "Dermatological (Rare)",
   "description": "Aquagenic pruritus is a rare condition in which contact with water causes intense itching without any visible skin rash.",
