@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"red_ear_syndrome": {
+  "type": "Neurological (Rare)",
+  "description": "Red ear syndrome is a rare condition characterized by episodes of redness and burning pain in one or both ears.",
+  "causes": ["Migraine disorders", "Nerve dysfunction", "Cervical spine abnormalities"],
+  "remedies": ["Migraine treatment", "Pain management", "Avoidance of triggers"]
+},
 "exploding_toes_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Exploding toes syndrome is a rare condition characterized by sudden episodes of severe burning, stabbing, or electric shock-like pain in the toes.",
