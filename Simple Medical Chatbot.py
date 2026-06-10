@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"walking_corpse_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Walking corpse syndrome, also known as Cotard syndrome, is a rare disorder in which a person believes they are dead, do not exist, or have lost their organs.",
+  "causes": ["Severe depression", "Psychotic disorders", "Neurological conditions"],
+  "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
+},
 "red_ear_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Red ear syndrome is a rare condition characterized by episodes of redness and burning pain in one or both ears.",
