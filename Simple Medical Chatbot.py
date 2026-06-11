@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Severe depression", "Psychotic disorders", "Neurological conditions"],
   "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
 },
+"laughing_death_disease": {
+  "type": "Prion (Rare)",
+  "description": "Kuru, also known as laughing death disease, is a rare and fatal neurodegenerative disorder characterized by tremors, loss of coordination, and inappropriate bursts of laughter.",
+  "causes": ["Infectious prion proteins"],
+  "remedies": ["No cure available", "Supportive care"]
+},
 "red_ear_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Red ear syndrome is a rare condition characterized by episodes of redness and burning pain in one or both ears.",
