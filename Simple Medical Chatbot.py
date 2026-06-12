@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Severe depression", "Psychotic disorders", "Neurological conditions"],
   "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
 },
+"fish_odor_syndrome": {
+  "type": "Metabolic (Rare)",
+  "description": "Fish odor syndrome, also known as trimethylaminuria, is a rare disorder in which the body is unable to break down trimethylamine, causing a strong fish-like body odor.",
+  "causes": ["FMO3 gene mutation", "Impaired trimethylamine metabolism"],
+  "remedies": ["Dietary modifications", "Activated charcoal", "Medical management"]
+},
 "laughing_death_disease": {
   "type": "Prion (Rare)",
   "description": "Kuru, also known as laughing death disease, is a rare and fatal neurodegenerative disorder characterized by tremors, loss of coordination, and inappropriate bursts of laughter.",
