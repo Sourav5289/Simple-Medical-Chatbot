@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"blue_skin_disorder": {
+  "type": "Genetic (Rare)",
+  "description": "Blue skin disorder, also known as methemoglobinemia, is a condition in which abnormal hemoglobin reduces oxygen delivery, causing the skin to appear bluish.",
+  "causes": ["Genetic mutations", "Exposure to certain drugs or chemicals"],
+  "remedies": ["Methylene blue treatment", "Oxygen therapy", "Avoid triggering substances"]
+},
 "walking_corpse_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Walking corpse syndrome, also known as Cotard syndrome, is a rare disorder in which a person believes they are dead, do not exist, or have lost their organs.",
