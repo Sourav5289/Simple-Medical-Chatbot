@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"tree_man_syndrome": {
+  "type": "Genetic/Dermatological (Rare)",
+  "description": "Tree man syndrome is an extremely rare disorder in which wart-like growths resembling tree bark develop on the skin due to a genetic susceptibility to human papillomavirus (HPV) infection.",
+  "causes": ["Genetic immune system defect", "Human papillomavirus (HPV) infection"],
+  "remedies": ["Surgical removal of growths", "Dermatological treatment", "Ongoing medical monitoring"]
+},
 "blue_skin_disorder": {
   "type": "Genetic (Rare)",
   "description": "Blue skin disorder, also known as methemoglobinemia, is a condition in which abnormal hemoglobin reduces oxygen delivery, causing the skin to appear bluish.",
