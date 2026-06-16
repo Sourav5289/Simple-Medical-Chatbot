@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"walking_dead_syndrome": {
+  "type": "Psychiatric (Rare)",
+  "description": "Walking dead syndrome, also known as Cotard syndrome, is a rare condition in which a person believes they are dead, dying, or missing parts of their body.",
+  "causes": ["Severe depression", "Psychotic disorders", "Neurological disease"],
+  "remedies": ["Antidepressants", "Antipsychotic medication", "Psychotherapy"]
+},
 "jumping_frenchmen_of_maine": {
   "type": "Neurological (Rare)",
   "description": "Jumping Frenchmen of Maine is a rare startle disorder in which unexpected stimuli trigger exaggerated jumping, shouting, or automatic obedience behaviors.",
