@@ -12,6 +12,12 @@ medical_db = {
   "causes": ["Severe depression", "Psychotic disorders", "Neurological disease"],
   "remedies": ["Antidepressants", "Antipsychotic medication", "Psychotherapy"]
 },
+"sleep_related_eating_disorder": {
+  "type": "Sleep Disorder (Rare)",
+  "description": "Sleep-related eating disorder is a rare condition in which a person unconsciously eats or drinks during partial awakenings from sleep and often has little or no memory of the event.",
+  "causes": ["Sleepwalking-related disorders", "Certain medications", "Sleep deprivation"],
+  "remedies": ["Improved sleep hygiene", "Medication adjustment", "Treatment of underlying sleep disorders"]
+},
 "jumping_frenchmen_of_maine": {
   "type": "Neurological (Rare)",
   "description": "Jumping Frenchmen of Maine is a rare startle disorder in which unexpected stimuli trigger exaggerated jumping, shouting, or automatic obedience behaviors.",
