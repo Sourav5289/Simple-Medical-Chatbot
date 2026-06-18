@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"persistent_genital_arousal_disorder": {
+  "type": "Neurological/Psychiatric (Rare)",
+  "description": "Persistent genital arousal disorder (PGAD) is a rare condition characterized by unwanted and persistent feelings of genital arousal that occur without sexual desire.",
+  "causes": ["Nerve dysfunction", "Hormonal changes", "Psychological factors"],
+  "remedies": ["Pelvic floor therapy", "Medications", "Psychological support"]
+},
 "werewolf_syndrome": {
   "type": "Genetic/Dermatological (Rare)",
   "description": "Werewolf syndrome, medically known as hypertrichosis, is a rare condition that causes excessive hair growth over large areas of the body.",
