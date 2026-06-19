@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"tachysensia": {
+  "type": "Neurological (Rare)",
+  "description": "Tachysensia, sometimes called 'fast-feeling syndrome,' is a rare condition in which a person experiences temporary distortions in the perception of time, movement, or sound, making everything seem unusually fast.",
+  "causes": ["Migraine", "Viral infections", "Neurological disturbances"],
+  "remedies": ["Treat underlying condition", "Rest", "Neurological evaluation if persistent"]
+},
 "persistent_genital_arousal_disorder": {
   "type": "Neurological/Psychiatric (Rare)",
   "description": "Persistent genital arousal disorder (PGAD) is a rare condition characterized by unwanted and persistent feelings of genital arousal that occur without sexual desire.",
