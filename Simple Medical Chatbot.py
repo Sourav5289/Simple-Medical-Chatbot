@@ -6,6 +6,12 @@ medical_db = {
         "causes": ["Stress", "Tension", "Migraine", "Dehydration", "Eye strain"],
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
+"recurrent_hypersomnia": {
+  "type": "Neurological (Rare)",
+  "description": "Recurrent hypersomnia is a rare disorder characterized by repeated episodes of excessive sleep lasting days to weeks, during which a person may sleep up to 20 hours a day.",
+  "causes": ["Unknown neurological dysfunction", "Possible hypothalamic abnormalities"],
+  "remedies": ["Supportive care", "Sleep regulation", "Monitoring during episodes"]
+},
 "body_integrity_identity_disorder": {
   "type": "Psychiatric/Neurological (Rare)",
   "description": "Body Integrity Identity Disorder (BIID) is a rare condition in which a person feels that a healthy limb or body part does not belong to their body and may desire its removal.",
