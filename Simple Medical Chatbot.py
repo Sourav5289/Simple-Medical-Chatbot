@@ -14,12 +14,7 @@ medical_db = {
   "remedies": ["Psychotherapy", "Psychiatric support", "Behavioral therapy"]
 },
 
-"werewolf_syndrome": {
-  "type": "Genetic/Dermatological (Rare)",
-  "description": "Werewolf syndrome, medically known as hypertrichosis, is a rare condition that causes excessive hair growth over large areas of the body.",
-  "causes": ["Genetic mutations", "Rarely certain medications"],
-  "remedies": ["Laser hair removal", "Hair management therapies", "Treatment of underlying cause"]
-},
+
 "walking_dead_syndrome": {
   "type": "Psychiatric (Rare)",
   "description": "Walking dead syndrome, also known as Cotard syndrome, is a rare condition in which a person believes they are dead, dying, or missing parts of their body.",
