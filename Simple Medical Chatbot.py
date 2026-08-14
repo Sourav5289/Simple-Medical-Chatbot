@@ -7,13 +7,6 @@ medical_db = {
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
    },
 
-"body_integrity_identity_disorder": {
-  "type": "Psychiatric/Neurological (Rare)",
-  "description": "Body Integrity Identity Disorder (BIID) is a rare condition in which a person feels that a healthy limb or body part does not belong to their body and may desire its removal.",
-  "causes": ["Neurological differences in body perception", "Psychological factors"],
-  "remedies": ["Psychotherapy", "Psychiatric support", "Behavioral therapy"]
-},
-
 
 "walking_dead_syndrome": {
   "type": "Psychiatric (Rare)",
