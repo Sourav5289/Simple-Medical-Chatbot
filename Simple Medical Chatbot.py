@@ -17,7 +17,7 @@ medical_db = {
   "description": "Jumping Frenchmen of Maine is a rare startle disorder in which unexpected stimuli trigger exaggerated jumping, shouting, or automatic obedience behaviors.",
   "causes": ["Unknown neurological factors", "Abnormal startle reflex"],
   "remedies": ["Behavioral therapy", "Stress management", "Supportive care"]
-}
+},
 "tree_man_syndrome": {
   "type": "Genetic/Dermatological (Rare)",
   "description": "Tree man syndrome is an extremely rare disorder in which wart-like growths resembling tree bark develop on the skin due to a genetic susceptibility to human papillomavirus (HPV) infection.",
