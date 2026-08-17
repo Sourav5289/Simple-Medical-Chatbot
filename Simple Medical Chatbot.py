@@ -48,7 +48,6 @@ medical_db = {
   "causes": ["Infectious prion proteins"],
   "remedies": ["No cure available", "Supportive care"]
 },
-
 "exploding_toes_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Exploding toes syndrome is a rare condition characterized by sudden episodes of severe burning, stabbing, or electric shock-like pain in the toes.",
