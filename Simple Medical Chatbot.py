@@ -48,12 +48,7 @@ medical_db = {
   "causes": ["Infectious prion proteins"],
   "remedies": ["No cure available", "Supportive care"]
 },
-"red_ear_syndrome": {
-  "type": "Neurological (Rare)",
-  "description": "Red ear syndrome is a rare condition characterized by episodes of redness and burning pain in one or both ears.",
-  "causes": ["Migraine disorders", "Nerve dysfunction", "Cervical spine abnormalities"],
-  "remedies": ["Migraine treatment", "Pain management", "Avoidance of triggers"]
-},
+
 "exploding_toes_syndrome": {
   "type": "Neurological (Rare)",
   "description": "Exploding toes syndrome is a rare condition characterized by sudden episodes of severe burning, stabbing, or electric shock-like pain in the toes.",
