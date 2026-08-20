@@ -12,11 +12,7 @@ medical_db = {
   "causes": ["Severe depression", "Psychotic disorders", "Neurological disease"],
   "remedies": ["Antidepressants", "Antipsychotic medication", "Psychotherapy"]
 },
-"jumping_frenchmen_of_maine": {
-  "type": "Neurological (Rare)",
-  "description": "Jumping Frenchmen of Maine is a rare startle disorder in which unexpected stimuli trigger exaggerated jumping, shouting, or automatic obedience behaviors.",
-  "causes": ["Unknown neurological factors", "Abnormal startle reflex"],
-  "remedies": ["Behavioral therapy", "Stress management", "Supportive care"]
+"
 },
 "tree_man_syndrome": {
   "type": "Genetic/Dermatological (Rare)",
