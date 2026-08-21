@@ -13,7 +13,6 @@ medical_db = {
   "remedies": ["Antidepressants", "Antipsychotic medication", "Psychotherapy"]
 },
 "
-},
 "tree_man_syndrome": {
   "type": "Genetic/Dermatological (Rare)",
   "description": "Tree man syndrome is an extremely rare disorder in which wart-like growths resembling tree bark develop on the skin due to a genetic susceptibility to human papillomavirus (HPV) infection.",
