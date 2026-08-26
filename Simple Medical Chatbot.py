@@ -32,8 +32,7 @@ medical_db = {
 },
 "fish_odor_syndrome": {
   "type": "Metabolic (Rare)",
-  "description": "Fish odor syndrome, also known as trimethylaminuria, is a rare disorder in which the body is unable to break down trimethylamine, causing a strong fish-like body odor.",
-  "causes": ["FMO3 gene mutation", "Impaired trimethylamine metabolism"],
+  "description": "Fish odor syndrome, also known as trimethylaminuria, is a rare disorder in which the body is unable to break down trimethylamine, causing a strong fish-like body odor.
   "remedies": ["Dietary modifications", "Activated charcoal", "Medical management"]
 },
 "laughing_death_disease": {
