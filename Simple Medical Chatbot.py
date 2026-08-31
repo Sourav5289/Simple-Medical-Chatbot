@@ -37,8 +37,7 @@ medical_db = {
   "remedies": ["No cure available", "Supportive care"]
 },
 "exploding_toes_syndrome": {
-  "type": "Neurological (Rare)",
-  "description": "Exploding toes syndrome is a rare condition characterized by sudden episodes of severe burning, stabbing, or electric shock-like pain in the toes.",
+  " characterized by sudden episodes of severe burning, stabbing, or electric shock-like pain in the toes.",
   "causes": ["Peripheral nerve dysfunction", "Neuropathy", "Unknown neurological factors"],
   "remedies": ["Pain management", "Neurological evaluation", "Treatment of underlying nerve disorders"]
 },
