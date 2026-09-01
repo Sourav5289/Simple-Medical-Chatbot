@@ -34,7 +34,7 @@ medical_db = {
   "type": "Prion (Rare)",
   "description": "Kuru, also known as laughing death disease, is a rare and fatal neurodegenerative disorder characterized by tremors, loss of coordination, and inappropriate bursts of laughter.",
   "causes": ["Infectious prion proteins"],
-  "remedies": ["No cure available", "Supportive care"]
+  "remedies": ["No cure available"]
 },
 "exploding_toes_syndrome": {
   " characterized by sudden episodes of severe burning, stabbing, or electric shock-like pain in the toes.",
