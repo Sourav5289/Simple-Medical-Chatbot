@@ -10,7 +10,7 @@ medical_db = {
   "type": "Psychiatric (Rare)",
   "description": "Walking dead syndrome, also known as Cotard syndrome, is a rare condition in which a person believes they are dead, dying, or missing parts of their body.",
   "causes": ["Severe depression", "Psychotic disorders", "Neurological disease"],
-  "remedies": ["Antidepressants", "Antipsychotic medication"]
+  "remedies": ["Antipsychotic medication"]
 },
 "tree_man_syndrome": {
   "type": "Genetic/Dermatological (Rare)",
