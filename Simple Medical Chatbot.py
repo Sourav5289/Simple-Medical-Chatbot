@@ -28,7 +28,7 @@ medical_db = {
   "type": "Psychiatric (Rare)",
   "description": "Walking corpse syndrome, also known as Cotard syndrome, is a rare disorder in which a person believes they are dead, do not exist, or have lost their organs.",
   "causes": ["Severe depression", "Psychotic disorders", "Neurological conditions"],
-  "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
+  "remedies": [ "Antipsychotic medication", "Electroconvulsive therapy"]
 },
 "laughing_death_disease": {
   "type": "Prion (Rare)",
