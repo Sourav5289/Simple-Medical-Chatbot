@@ -25,7 +25,7 @@ medical_db = {
   "remedies": ["Methylene blue treatment", "Oxygen therapy", "Avoid triggering substances"]
 },
 "walking_corpse_syndrome": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric",
   "description": "Walking corpse syndrome, also known as Cotard syndrome, is a rare disorder in which a person believes they are dead, do not exist, or have lost their organs.",
   "causes": ["Severe depression", "Psychotic disorders", "Neurological conditions"],
   "remedies": [ "Antipsychotic medication", "Electroconvulsive therapy"]
