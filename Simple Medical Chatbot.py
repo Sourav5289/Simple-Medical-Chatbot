@@ -141,7 +141,7 @@ medical_db = {
   "type": "Bacterial",
   "description": "Walking pneumonia is a mild form of pneumonia that allows people to continue daily activities despite infection.",
   "causes": ["Mycoplasma pneumoniae bacteria"],
-  "remedies": ["Antibiotics", "Rest", "Hydration"]
+  "remedies": ["Antibiotics", "Hydration"]
 },
 "phantom_limb_syndrome": {
   "type": "Neurological (Rare)",
