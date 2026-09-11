@@ -60,7 +60,7 @@ medical_db = {
   "remedies": ["Protective measures", "Regular skin checks", "Treatment of underlying neurological condition"]
 },
 "foreign_hand_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological",
   "description": "Foreign hand syndrome is a rare condition in which one hand moves involuntarily and seems to act independently.",
   "causes": ["Brain injury", "Stroke", "Brain surgery affecting nerve pathways"],
   "remedies": ["Behavioral therapy", "Physical therapy", "Management of underlying condition"]
