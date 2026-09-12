@@ -108,7 +108,7 @@ medical_db = {
   "remedies": ["Psychotherapy", "Antipsychotic medication", "Psychiatric care"]
 },
 "pain_asymbolia": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological",
   "description": "Pain asymbolia is a rare neurological condition in which a person feels pain but does not experience the normal emotional distress or urgency associated with it.",
   "causes": ["Brain injury affecting pain-processing regions", "Neurological disorders"],
   "remedies": ["Safety monitoring", "Neurological care", "Treatment of underlying condition"]
