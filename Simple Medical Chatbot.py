@@ -72,7 +72,7 @@ medical_db = {
   "remedies": ["Phototherapy", "Liver transplant in severe cases", "Medical monitoring"]
 },
 "fibrodysplasia_ossificans_progressiva": {
-  "type": "Genetic (Rare)",
+  "type": "Genetic",
   "description": "Fibrodysplasia ossificans progressiva is an extremely rare disorder in which muscles and connective tissues gradually turn into bone.",
   "causes": ["Mutation in the ACVR1 gene"],
   "remedies": ["Injury prevention", "Symptom management", "Supportive care"]
