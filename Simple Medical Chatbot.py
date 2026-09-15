@@ -54,7 +54,7 @@ medical_db = {
   "remedies": ["Hair removal treatment", "Treatment of underlying cause"]
 },
 "insensitivity_to_temperature": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological",
   "description": "Insensitivity to temperature is a rare disorder in which a person cannot properly sense hot or cold temperatures, increasing the risk of burns or frostbite.",
   "causes": ["Genetic nerve disorders", "Peripheral neuropathy", "Neurological damage"],
   "remedies": ["Protective measures", "Regular skin checks", "Treatment of underlying neurological condition"]
