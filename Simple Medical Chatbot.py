@@ -14,7 +14,7 @@ medical_db = {
 },
 "tree_man_syndrome": {
   "type": "Genetic/Dermatological (Rare)",
-  "description": "Tree man syndrome is an extremely rare disorder in which wart-like growths resembling tree bark develop on the skin due to a genetic susceptibility to human papillomavirus (HPV) infection.",
+  "description": "Tree man syndrome is an extremely rare disorder in which wart-like growths resembling tree bark develop on the skin due to a genetic susceptibility to human papillomavirus infection.",
   "causes": ["Genetic immune system defect", "Human papillomavirus infection"],
   "remedies": ["Surgical removal of growths",  "Ongoing medical monitoring"]
 },
