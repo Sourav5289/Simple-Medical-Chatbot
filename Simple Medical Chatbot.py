@@ -7,7 +7,7 @@ medical_db = {
         "remedies": ["Rest in a quiet room", "Apply cold compress", "Take OTC pain relievers", "Stay hydrated"]
  },
 "walking_dead_syndrome": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric",
   "description": "Walking dead syndrome, also known as Cotard syndrome, is rare condition in which a person believes they are dead, dying, or missing parts of their body.",
   "causes": ["Severe depression", "Psychotic disorders", "Neurological disease"],
   "remedies": ["Antipsychotic medication"]
