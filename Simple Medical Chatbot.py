@@ -19,7 +19,7 @@ medical_db = {
   "remedies": ["Surgical removal of growths",  "Ongoing medical monitoring"]
 },
 "blue_skin_disorder": {
-  "type": "Genetic (Rare)",
+  "type": "Genetic ",
   "description": "Blue skin disorder, also known as methemoglobinemia, is a condition in which abnormal hemoglobin reduces oxygen delivery, causing the skin to appear bluish.",
   "causes": ["Genetic mutations", "Exposure to certain  chemicals"],
   "remedies": ["Methylene blue treatment", "Oxygen therapy", "Avoid triggering substances"]
