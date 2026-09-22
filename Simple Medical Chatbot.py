@@ -98,7 +98,7 @@ medical_db = {
   "type": "Neurological/Genetic (Rare)",
   "description": "Congenital insensitivity to pain is a rare condition in which a person cannot feel physical pain, increasing the risk of unnoticed injuries.",
   "causes": ["Genetic mutations affecting pain-signaling nerves"],
-  "remedies": ["Injury prevention", "Regular medical monitoring", "Protective care"]
+  "remedies": [ "Regular medical monitoring", "Protective care"]
 },
 "truman_show_delusion": {
   "type": "Psychiatric (Rare)",
