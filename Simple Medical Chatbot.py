@@ -42,7 +42,7 @@ medical_db = {
   "remedies": ["Pain management", "Neurological evaluation", "Treatment of underlying nerve disorders"]
 },
 "aquagenic_pruritus": {
-  "type": "Dermatological (Rare)",
+  "type": "Dermatological",
   "description": "Aquagenic pruritus is a rare condition in which contact with water causes intense itching without any visible skin rash.",
   "causes": ["Unknown", "Abnormal nerve or mast cell response"],
   "remedies": ["Antihistamines", "Phototherapy", "Avoidance of triggers"]
