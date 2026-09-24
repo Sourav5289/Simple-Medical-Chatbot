@@ -31,7 +31,7 @@ medical_db = {
   "remedies": [ "Antipsychotic medication", "Electroconvulsive therapy"]
 },
 "laughing_death_disease": {
-  "type": "Prion (Rare)",
+  "type": "Prion",
   "description": "Kuru, also known as laughing death disease, is a rare and fatal neurodegenerative disorder characterized by tremors, loss of coordination, and inappropriate bursts of laughter.",
   "causes": ["Infectious prion proteins"],
   "remedies": ["No cure available"]
