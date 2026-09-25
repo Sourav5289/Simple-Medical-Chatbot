@@ -48,7 +48,7 @@ medical_db = {
   "remedies": ["Antihistamines", "Phototherapy", "Avoidance of triggers"]
 },
 "hypertrichosis": {
-  "type": "Genetic/Dermatological (Rare)",
+  "type": "Genetic/Dermatological ",
   "description": "Hypertrichosis, sometimes called 'werewolf syndrome,' is a rare condition characterized by excessive hair growth on the face and body.",
   "causes": ["Genetic mutations", "Certain medications", "Underlying medical conditions"],
   "remedies": ["Hair removal treatment", "Treatment of underlying cause"]
