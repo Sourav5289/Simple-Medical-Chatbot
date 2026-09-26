@@ -74,7 +74,7 @@ medical_db = {
   "type": "Genetic",
   "description": "Fibrodysplasia ossificans progressiva is an extremely rare disorder in which muscles and connective tissues gradually turn into bone.",
   "causes": ["Mutation in the ACVR1 gene"],
-  "remedies": ["Injury prevention", "Symptom management", "Supportive care"]
+  "remedies": ["Injury prevention", "Symptom management"]
 },
 "fecal_vomiting_syndrome": {
   "type": "Gastrointestinal (Rare)",
