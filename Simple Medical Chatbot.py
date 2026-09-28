@@ -143,7 +143,7 @@ medical_db = {
   "remedies": ["Antibiotics", "Hydration"]
 },
 "phantom_limb_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Phantom limb syndrome is a condition in which a person feels pain or sensations in a limb that has been amputated.",
   "causes": ["Nerve signaling changes after amputation", "Brain adaptation issues"],
   "remedies": ["Pain management", "Mirror therapy", "Physical rehabilitation"]
