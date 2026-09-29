@@ -101,7 +101,7 @@ medical_db = {
   "remedies": [ "Regular medical monitoring", "Protective care"]
 },
 "truman_show_delusion": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric ",
   "description": "Truman Show delusion is a rare psychiatric condition in which a person believes their life is being secretly filmed or observed as part of a reality show.",
   "causes": ["Psychotic disorders", "Delusional thinking", "Severe mental illness"],
   "remedies": ["Psychotherapy", "Antipsychotic medication", "Psychiatric care"]
