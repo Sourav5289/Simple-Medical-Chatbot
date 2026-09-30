@@ -77,7 +77,7 @@ medical_db = {
   "remedies": ["Injury prevention", "Symptom management"]
 },
 "fecal_vomiting_syndrome": {
-  "type": "Gastrointestinal (Rare)",
+  "type": "Gastrointestinal ",
   "description": "Fecal vomiting syndrome is a rare and serious condition in which intestinal blockage causes vomit to contain fecal material.",
   "causes": ["Severe intestinal obstruction", "Bowel fistula", "Digestive tract blockage"],
   "remedies": ["Emergency medical treatment", "Surgery", "Fluid and electrolyte management"]
