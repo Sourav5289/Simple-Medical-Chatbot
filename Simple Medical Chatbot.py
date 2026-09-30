@@ -45,7 +45,7 @@ medical_db = {
   "type": "Dermatological",
   "description": "Aquagenic pruritus is a rare condition in which contact with water causes intense itching without any visible skin rash.",
   "causes": ["Unknown", "Abnormal nerve or mast cell response"],
-  "remedies": ["Antihistamines", "Phototherapy", "Avoidance of triggers"]
+  "remedies": ["Antihistamines", "Avoidance of triggers"]
 },
 "hypertrichosis": {
   "type": "Genetic/Dermatological ",
