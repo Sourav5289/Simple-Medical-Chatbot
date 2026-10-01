@@ -119,7 +119,7 @@ medical_db = {
   "remedies": ["Treat underlying cause", "Medical evaluation", "Eye care"]
 },
 "synesthesia": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Synesthesia is a rare condition in which stimulation of one sense automatically triggers another, such as seeing colors when hearing music.",
   "causes": ["Neurological differences in sensory processing"],
   "remedies": ["No treatment needed in most cases", "Supportive care if symptoms affect daily life"]
