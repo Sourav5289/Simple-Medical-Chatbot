@@ -95,7 +95,7 @@ medical_db = {
   "remedies": ["Treat underlying vision problems", "Reassurance and education", "Medical evaluation if symptoms are severe"]
 },
 "congenital_insensitivity_to_pain": {
-  "type": "Neurological/Genetic (Rare)",
+  "type": "Neurological/Genetic ",
   "description": "Congenital insensitivity to pain is a rare condition in which a person cannot feel physical pain, increasing the risk of unnoticed injuries.",
   "causes": ["Genetic mutations affecting pain-signaling nerves"],
   "remedies": [ "Regular medical monitoring", "Protective care"]
