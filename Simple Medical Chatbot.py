@@ -161,7 +161,7 @@ medical_db = {
   "remedies": ["Supportive care", "Communication devices", "Rehabilitation therapy"]
 },
 "visual_snow_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological",
   "description": "Visual snow syndrome is a rare condition where a person constantly sees flickering dots or static across their entire field of vision.",
   "causes": ["Abnormal visual processing in the brain"],
   "remedies": ["Migraine management", "Symptom monitoring", "Supportive neurological care"]
