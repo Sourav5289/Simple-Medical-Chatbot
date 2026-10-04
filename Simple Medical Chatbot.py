@@ -83,7 +83,7 @@ medical_db = {
   "remedies": ["Emergency medical treatment", "Surgery", "Fluid and electrolyte management"]
 },
 "parry_romberg_syndrome": {
-  "type": "Neurological/Autoimmune (Rare)",
+  "type": "Neurological/Autoimmune ",
   "description": "Parry-Romberg syndrome is a rare condition causing gradual shrinking of skin and soft tissues on one side of the face.",
   "causes": ["Unknown", "Possible autoimmune or nervous system abnormalities"],
   "remedies": ["Immunosuppressive therapy", "Reconstructive surgery", "Symptom management"]
