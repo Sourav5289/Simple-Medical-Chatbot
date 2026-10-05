@@ -131,7 +131,7 @@ medical_db = {
   "remedies": ["No specific treatment", "Psychological support if needed"]
 },
 "misophonia": {
-  "type": "Neurological/Psychiatric (Rare)",
+  "type": "Neurological/Psychiatric ",
   "description": "Misophonia is a condition in which certain everyday sounds trigger intense emotional or physical reactions such as anger, anxiety, or discomfort.",
   "causes": ["Abnormal sound processing", "Neurological sensitivity"],
   "remedies": ["Sound therapy", "Cognitive behavioral therapy", "Stress management"]
