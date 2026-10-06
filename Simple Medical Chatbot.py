@@ -167,7 +167,7 @@ medical_db = {
   "remedies": ["Migraine management", "Symptom monitoring", "Supportive neurological care"]
 },
 "burning_mouth_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Burning mouth syndrome is a chronic condition causing a burning sensation in the mouth without an obvious medical cause.",
   "causes": ["Nerve dysfunction", "Hormonal changes", "Nutritional deficiencies"],
   "remedies": ["Pain management", "Saliva substitutes", "Treat underlying deficiencies"]
