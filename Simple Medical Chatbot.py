@@ -191,7 +191,7 @@ medical_db = {
   "remedies": ["Surgical removal of hairball", "Psychiatric therapy", "Behavioral treatment"]
 },
 "diogenes_syndrome": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric ",
   "description": "Diogenes syndrome is a behavioral disorder characterized by extreme self-neglect, social withdrawal, and compulsive hoarding.",
   "causes": ["Mental illness", "Dementia", "Social isolation"],
   "remedies": ["Psychiatric care", "Behavioral therapy", "Social support"]
