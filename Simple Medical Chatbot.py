@@ -113,7 +113,7 @@ medical_db = {
   "remedies": ["Safety monitoring", "Neurological care", "Treatment of underlying condition"]
 },
 "hemolacria": {
-  "type": "Ophthalmological (Rare)",
+  "type": "Ophthalmological ",
   "description": "Hemolacria is a rare condition in which a person sheds tears mixed with blood.",
   "causes": ["Eye infections", "Trauma", "Blood vessel abnormalities"],
   "remedies": ["Treat underlying cause", "Medical evaluation", "Eye care"]
