@@ -179,7 +179,7 @@ medical_db = {
   "remedies": ["Low-carbohydrate diet", "Antifungal medication", "Probiotics"]
 },
 "stone_man_syndrome": {
-  "type": "Genetic (Rare)",
+  "type": "Genetic ",
   "description": "Stone man syndrome, also known as fibrodysplasia ossificans progressiva, is a rare disorder where muscles and connective tissues gradually turn into bone.",
   "causes": ["Mutation in the ACVR1 gene"],
   "remedies": ["No cure available", "Injury prevention", "Supportive care"]
