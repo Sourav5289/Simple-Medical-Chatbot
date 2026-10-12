@@ -197,7 +197,7 @@ medical_db = {
   "remedies": ["Psychiatric care", "Behavioral therapy", "Social support"]
 },
 "paris_syndrome": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric ",
   "description": "Paris syndrome is a rare psychological condition experienced by some tourists who become extremely disappointed or distressed when visiting Paris.",
   "causes": ["Culture shock", "Stress", "Unrealistic expectations"],
   "remedies": ["Rest", "Psychological support", "Stress management"]
