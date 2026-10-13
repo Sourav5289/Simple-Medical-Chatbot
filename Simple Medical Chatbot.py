@@ -188,7 +188,7 @@ medical_db = {
   "type": "Gastrointestinal/Psychiatric ",
   "description": "Rapunzel syndrome is a rare condition where a person swallows hair, leading to a large hairball extending through the digestive tract.",
   "causes": ["Trichotillomania", "Hair eating disorder (trichophagia)"],
-  "remedies": ["Surgical removal of hairball", "Psychiatric therapy", "Behavioral treatment"]
+  "remedies": ["Surgical removal of hairball", "Psychiatric therapy"]
 },
 "diogenes_syndrome": {
   "type": "Psychiatric ",
