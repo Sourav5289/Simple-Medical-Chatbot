@@ -125,7 +125,7 @@ medical_db = {
   "remedies": ["No treatment needed in most cases", "Supportive care if symptoms affect daily life"]
 },
 "hyperthymesia": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Hyperthymesia is a rare condition in which a person can remember an unusually vast number of personal life experiences in vivid detail.",
   "causes": ["Unusual brain activity", "Neurological differences"],
   "remedies": ["No specific treatment", "Psychological support if needed"]
