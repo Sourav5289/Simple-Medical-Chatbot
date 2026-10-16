@@ -149,7 +149,7 @@ medical_db = {
   "remedies": ["Pain management", "Mirror therapy", "Physical rehabilitation"]
 },
 "sleeping_beauty_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Sleeping Beauty syndrome, also known as Kleine-Levin syndrome, is a rare disorder characterized by excessive sleep episodes lasting for days or weeks.",
   "causes": ["Unknown neurological dysfunction", "Possible hypothalamic abnormalities"],
   "remedies": ["Supportive care", "Sleep regulation", "Monitoring during episodes"]
