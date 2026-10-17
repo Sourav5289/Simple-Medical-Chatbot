@@ -274,7 +274,7 @@ medical_db = {
   "remedies": ["Treat underlying cancer", "Immunotherapy", "Supportive care"]
 },
 "hyperekplexia": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Hyperekplexia is a rare genetic disorder characterized by an exaggerated startle response and muscle stiffness from birth.",
   "causes": ["Mutations affecting glycine receptors"],
   "remedies": ["Medications like clonazepam", "Safety precautions", "Supportive care"]
