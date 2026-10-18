@@ -203,7 +203,7 @@ medical_db = {
   "remedies": ["Rest", "Psychological support", "Stress management"]
 },
 "jerusalem_syndrome": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric",
   "description": "Jerusalem syndrome is a rare mental condition in which visitors to Jerusalem experience intense religious delusions or psychosis.",
   "causes": ["Psychological stress", "Underlying mental health conditions"],
   "remedies": ["Psychiatric treatment", "Supportive therapy", "Hospitalization in severe cases"]
