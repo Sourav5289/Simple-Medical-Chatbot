@@ -209,7 +209,7 @@ medical_db = {
   "remedies": ["Psychiatric treatment", "Supportive therapy", "Hospitalization in severe cases"]
 },
 "boanthropy": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric ",
   "description": "Boanthropy is a rare psychological disorder in which a person believes they are a cow or ox and may behave accordingly.",
   "causes": ["Severe psychiatric disorders", "Delusional conditions"],
   "remedies": ["Psychotherapy", "Antipsychotic medication", "Psychiatric care"]
