@@ -239,7 +239,7 @@ medical_db = {
   "remedies": ["Supportive education", "Skill-focused therapy", "Behavioral support"]
 },
 "cotard_syndrome": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric ",
   "description": "Cotard syndrome is a rare mental disorder in which a person believes they are dead, do not exist, or have lost their organs or blood.",
   "causes": ["Severe depression", "Neurological disorders", "Brain injury"],
   "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
