@@ -251,7 +251,7 @@ medical_db = {
   "remedies": ["Strict diet management", "Hormone therapy", "Behavioral support"]
 },
 "ehlers_danlos_syndrome": {
-  "type": "Genetic (Rare)",
+  "type": "Genetic ",
   "description": "Ehlers-Danlos syndrome is a group of inherited disorders that affect connective tissues, leading to hyperflexible joints and fragile skin.",
   "causes": ["Mutations in genes affecting collagen production"],
   "remedies": ["Physical therapy", "Pain management", "Joint protection strategies"]
