@@ -263,7 +263,7 @@ medical_db = {
   "remedies": ["Strict sun protection", "Regular skin screening", "Early treatment of lesions"]
 },
 "takotsubo_cardiomyopathy": {
-  "type": "Cardiac (Rare)",
+  "type": "Cardiac",
   "description": "Takotsubo cardiomyopathy, also known as broken heart syndrome, is a temporary heart condition often triggered by severe emotional or physical stress.",
   "causes": ["Sudden stress", "Hormonal surge affecting the heart"],
   "remedies": ["Supportive cardiac care", "Stress"]},
