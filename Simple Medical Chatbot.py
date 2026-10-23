@@ -221,7 +221,7 @@ medical_db = {
   "remedies": ["Sensory management techniques", "Psychological support", "Stress reduction"]
 },
 "exploding_head_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Exploding head syndrome is a rare sleep disorder in which a person hears a sudden loud noise or explosive sensation while falling asleep or waking up.",
   "causes": ["Sleep disturbances", "Stress", "Unknown neurological factors"],
   "remedies": ["Stress management", "Improved sleep habits", "Reassurance and monitoring"]
