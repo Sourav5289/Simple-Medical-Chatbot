@@ -268,7 +268,7 @@ medical_db = {
   "causes": ["Sudden stress", "Hormonal surge affecting the heart"],
   "remedies": ["Supportive cardiac care", "Stress"]},
 "paraneoplastic_syndrome": {
-  "type": "Oncological (Rare)",
+  "type": "Oncological ",
   "description": "Paraneoplastic syndrome is a group of rare disorders triggered by an abnormal immune response to a cancer in the body.",
   "causes": ["Immune reaction to tumor cells"],
   "remedies": ["Treat underlying cancer", "Immunotherapy", "Supportive care"]
