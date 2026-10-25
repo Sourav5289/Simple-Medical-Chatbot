@@ -280,7 +280,7 @@ medical_db = {
   "remedies": ["Medications like clonazepam", "Safety precautions", "Supportive care"]
 },
 "fregoli_syndrome": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric ",
   "description": "Fregoli syndrome is a rare delusional disorder in which a person believes that different people are actually a single person who changes appearance or is in disguise.",
   "causes": ["Brain injury", "Schizophrenia", "Neurological disorders"],
   "remedies": ["Antipsychotic medication", "Psychotherapy", "Treatment of underlying condition"]
