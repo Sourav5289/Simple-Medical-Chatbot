@@ -316,7 +316,7 @@ medical_db = {
   "remedies": ["Nutritional supplementation", "Behavioral therapy", "Treat underlying conditions"]
 },
 "prosopagnosia": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Prosopagnosia, also known as face blindness, is a condition where a person has difficulty recognizing faces, even those of close friends or family.",
   "causes": ["Brain injury", "Stroke", "Congenital brain differences"],
   "remedies": ["Coping strategies", "Visual training", "Assistive techniques"]
