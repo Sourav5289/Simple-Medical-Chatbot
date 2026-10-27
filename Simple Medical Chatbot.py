@@ -257,7 +257,7 @@ medical_db = {
   "remedies": ["Physical therapy", "Pain management", "Joint protection strategies"]
 },
 "xeroderma_pigmentosum_variant": {
-  "type": "Genetic (Rare)",
+  "type": "Genetic ",
   "description": "Xeroderma pigmentosum variant is a rare inherited condition that impairs DNA repair after UV exposure, increasing skin cancer risk.",
   "causes": ["Mutations affecting DNA repair pathways"],
   "remedies": ["Strict sun protection", "Regular skin screening", "Early treatment of lesions"]
