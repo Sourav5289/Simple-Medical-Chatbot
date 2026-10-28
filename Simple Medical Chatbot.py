@@ -304,7 +304,7 @@ medical_db = {
   "remedies": ["Cooling measures", "Pain management", "Treat underlying conditions"]
 },
 "aquagenic_urticaria": {
-  "type": "Allergic (Rare)",
+  "type": "Allergic ",
   "description": "Aquagenic urticaria is an extremely rare condition in which contact with water causes itchy hives on the skin.",
   "causes": ["Unknown", "Abnormal skin reaction to water"],
   "remedies": ["Antihistamines", "Barrier creams", "Avoid prolonged water exposure"]
