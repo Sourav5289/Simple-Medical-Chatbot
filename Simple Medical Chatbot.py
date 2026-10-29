@@ -227,7 +227,7 @@ medical_db = {
   "remedies": ["Stress management", "Improved sleep habits", "Reassurance and monitoring"]
 },
 "alice_in_wonderland_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Alice in Wonderland syndrome is a rare condition that alters perception, causing objects or body parts to appear distorted in size, shape, or distance.",
   "causes": ["Migraine", "Epstein-Barr virus infection", "Neurological disorders"],
   "remedies": ["Treat underlying condition", "Migraine management", "Rest and monitoring"]
