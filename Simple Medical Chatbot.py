@@ -310,7 +310,7 @@ medical_db = {
   "remedies": ["Antihistamines", "Barrier creams", "Avoid prolonged water exposure"]
 },
 "pica": {
-  "type": "Psychiatric (Rare)",
+  "type": "Psychiatric ",
   "description": "Pica is an eating disorder characterized by the persistent craving and consumption of non-food substances such as dirt, clay, or paper.",
   "causes": ["Nutritional deficiencies (e.g., iron deficiency)", "Developmental disorders", "Psychological factors"],
   "remedies": ["Nutritional supplementation", "Behavioral therapy", "Treat underlying conditions"]
