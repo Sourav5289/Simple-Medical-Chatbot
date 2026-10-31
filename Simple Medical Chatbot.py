@@ -292,7 +292,7 @@ medical_db = {
   "remedies": ["Symptom management", "Dermatological care", "Psychiatric support"]
 },
 "kleine_levin_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Kleine-Levin syndrome is a rare disorder characterized by recurring episodes of excessive sleep, behavioral changes, and altered perception.",
   "causes": ["Unknown", "Possible hypothalamic dysfunction"],
   "remedies": ["Supportive care", "Sleep management", "Monitoring during episodes"]
