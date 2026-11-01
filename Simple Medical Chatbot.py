@@ -376,7 +376,7 @@ medical_db = {
   "remedies": ["No cure available", "Supportive care", "Medications to manage symptoms"]
 },
 "alien_hand_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Alien hand syndrome is a rare neurological condition in which a person experiences involuntary movements of one hand as if it has a mind of its own.",
   "causes": ["Brain injury", "Stroke", "Neurodegenerative disorders"],
   "remedies": ["Behavioral therapy", "Physical therapy", "Managing underlying condition"]
