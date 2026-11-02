@@ -155,7 +155,7 @@ medical_db = {
   "remedies": ["Supportive care", "Sleep regulation", "Monitoring during episodes"]
 },
 "locked_in_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Locked-in syndrome is a rare neurological condition in which a person is conscious and aware but unable to move or speak due to complete paralysis of nearly all voluntary muscles.",
   "causes": ["Brainstem stroke", "Severe brain injury", "Neurological disease"],
   "remedies": ["Supportive care", "Communication devices", "Rehabilitation therapy"]
