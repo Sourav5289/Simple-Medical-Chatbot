@@ -400,7 +400,7 @@ medical_db = {
   "remedies": ["No cure available", "Supportive care", "Symptom management"]
 },
 "fibrodysplasia_ossificans_progressiva": {
-  "type": "Genetic (Rare)",
+  "type": "Genetic ",
   "description": "Fibrodysplasia ossificans progressiva (FOP) is an extremely rare disorder where soft tissues like muscles and ligaments gradually turn into bone.",
   "causes": ["Mutation in ACVR1 gene"],
   "remedies": ["No cure available", "Symptom management", "Avoid injury to prevent progression"]
