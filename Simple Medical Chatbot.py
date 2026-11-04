@@ -233,7 +233,7 @@ medical_db = {
   "remedies": ["Treat underlying condition", "Migraine management", "Rest and monitoring"]
 },
 "savants_syndrome": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological",
   "description": "Savant syndrome is a rare condition in which a person with developmental disorders demonstrates extraordinary abilities in specific areas such as music, mathematics, or memory.",
   "causes": ["Autism spectrum disorders", "Brain injury", "Neurological differences"],
   "remedies": ["Supportive education", "Skill-focused therapy", "Behavioral support"]
