@@ -245,7 +245,7 @@ medical_db = {
   "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
 },
 "prader_willi_syndrome": {
-  "type": "Genetic (Rare)",
+  "type": "Genetic ",
   "description": "Prader-Willi syndrome is a rare genetic disorder that causes constant hunger, developmental delays, and reduced muscle tone.",
   "causes": ["Loss of function of genes on chromosome 15"],
   "remedies": ["Strict diet management", "Hormone therapy", "Behavioral support"]
