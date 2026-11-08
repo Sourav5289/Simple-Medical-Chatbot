@@ -91,7 +91,7 @@ medical_db = {
 "charles_bonnet_syndrome": {
   "type": "Neurological/Ophthalmological ",
   "description": "Charles Bonnet syndrome is a rare condition in which people with vision loss experience vivid visual hallucinations while remaining aware that the images are not real.",
-  "causes": ["Vision loss", "Reduced visual input to the brain"],
+  "causes": [ "Reduced visual input to the brain"],
   "remedies": ["Treat underlying vision problems", "Reassurance and education", "Medical evaluation if symptoms are severe"]
 },
 "congenital_insensitivity_to_pain": {
