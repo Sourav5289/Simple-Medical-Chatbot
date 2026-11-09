@@ -68,7 +68,7 @@ medical_db = {
   "type": "Genetic",
   "description": "Crigler-Najjar syndrome is a rare inherited disorder in which the body cannot properly process bilirubin, leading to severe jaundice.",
   "causes": ["Mutation in the UGT1A1 gene"],
-  "remedies": ["Phototherapy", "Liver transplant in severe cases", "Medical monitoring"]
+  "remedies": ["Liver transplant in severe cases", "Medical monitoring"]
 },
 "fibrodysplasia_ossificans_progressiva": {
   "type": "Genetic",
