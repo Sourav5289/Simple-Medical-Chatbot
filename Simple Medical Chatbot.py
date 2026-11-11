@@ -218,7 +218,7 @@ medical_db = {
   "type": "Neurological ",
   "description": "Mirror-touch synesthesia is a rare condition in which a person physically feels sensations on their own body when seeing someone else being touched.",
   "causes": ["Differences in sensory processing", "Neurological variations"],
-  "remedies": ["Sensory management techniques", "Psychological support", "Stress reduction"]
+  "remedies": ["Sensory management techniques", "Psychological support"]
 },
 "exploding_head_syndrome": {
   "type": "Neurological ",
