@@ -271,7 +271,7 @@ medical_db = {
   "type": "Oncological ",
   "description": "Paraneoplastic syndrome is a group of rare disorders triggered by an abnormal immune response to a cancer in the body.",
   "causes": ["Immune reaction to tumor cells"],
-  "remedies": ["Treat underlying cancer", "Immunotherapy", "Supportive care"]
+  "remedies": ["Treat underlying cancer", "Supportive care"]
 },
 "hyperekplexia": {
   "type": "Neurological ",
