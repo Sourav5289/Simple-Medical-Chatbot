@@ -176,7 +176,7 @@ medical_db = {
   "type": "Metabolic ",
   "description": "Auto-brewery syndrome is a rare condition in which the gut produces alcohol from carbohydrates, causing symptoms of intoxication without drinking alcohol.",
   "causes": ["Overgrowth of fermenting yeast or bacteria in the gut"],
-  "remedies": ["Low-carbohydrate diet", "Antifungal medication", "Probiotics"]
+  "remedies": ["Low-carbohydrate diet", "Antifungal medication"]
 },
 "stone_man_syndrome": {
   "type": "Genetic ",
