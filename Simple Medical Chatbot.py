@@ -157,7 +157,7 @@ medical_db = {
 "locked_in_syndrome": {
   "type": "Neurological ",
   "description": "Locked-in syndrome is a rare neurological condition in which a person is conscious and aware but unable to move or speak due to complete paralysis of nearly all voluntary muscles.",
-  "causes": ["Brainstem stroke", "Severe brain injury", "Neurological disease"],
+  "causes": [ "Severe brain injury", "Neurological disease"],
   "remedies": ["Communication devices", "Rehabilitation therapy"]
 },
 "visual_snow_syndrome": {
