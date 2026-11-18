@@ -340,7 +340,7 @@ medical_db = {
   "remedies": ["Supportive care", "Communication aids", "Rehabilitation therapy"]
 },
 "trimethylaminuria": {
-  "type": "Metabolic (Rare)",
+  "type": "Metabolic ",
   "description": "Trimethylaminuria is a rare metabolic disorder in which the body cannot properly break down trimethylamine, causing a strong fish-like body odor.",
   "causes": ["FMO3 gene mutation leading to enzyme deficiency"],
   "remedies": ["Dietary changes", "Activated charcoal", "Antibiotics in some cases"]
