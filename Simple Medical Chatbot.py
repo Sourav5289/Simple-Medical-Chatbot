@@ -286,7 +286,7 @@ medical_db = {
   "remedies": ["Antipsychotic medication", "Psychotherapy", "Treatment of underlying condition"]
 },
 "morgellons_disease": {
-  "type": "Dermatological/Psychiatric (Rare)",
+  "type": "Dermatological/Psychiatric ",
   "description": "Morgellons disease is a poorly understood condition where individuals report fibers or particles emerging from the skin along with itching and discomfort.",
   "causes": ["Unclear; may involve psychological and dermatological factors"],
   "remedies": ["Symptom management "Psychiatric support"]
