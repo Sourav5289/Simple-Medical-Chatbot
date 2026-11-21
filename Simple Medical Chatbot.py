@@ -242,7 +242,7 @@ medical_db = {
   "type": "Psychiatric ",
   "description": "Cotard syndrome is a rare mental disorder in which a person believes they are dead, do not exist, or have lost their organs or blood.",
   "causes": ["Severe depression", "Neurological disorders", "Brain injury"],
-  "remedies": ["Antidepressants", "Antipsychotic medication", "Electroconvulsive therapy"]
+  "remedies": [ "Antipsychotic medication", "Electroconvulsive therapy"]
 },
 "prader_willi_syndrome": {
   "type": "Genetic ",
