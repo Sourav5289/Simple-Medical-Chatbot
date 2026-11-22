@@ -277,7 +277,7 @@ medical_db = {
   "type": "Neurological ",
   "description": "Hyperekplexia is a rare genetic disorder characterized by an exaggerated startle response and muscle stiffness from birth.",
   "causes": ["Mutations affecting glycine receptors"],
-  "remedies": ["Medications like clonazepam", "Safety precautions", "Supportive care"]
+  "remedies": ["Medications like clonazepam", "Safety precautions"]
 },
 "fregoli_syndrome": {
   "type": "Psychiatric ",
