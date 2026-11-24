@@ -298,7 +298,7 @@ medical_db = {
   "remedies": ["Supportive care", "Sleep management", "Monitoring during episodes"]
 },
 "erythromelalgia": {
-  "type": "Neurological (Rare)",
+  "type": "Neurological ",
   "description": "Erythromelalgia is a rare condition characterized by episodes of burning pain, redness, and warmth in the hands or feet.",
   "causes": ["Nerve dysfunction", "Genetic mutations", "Blood disorders"],
   "remedies": ["Cooling measures",  "Treat underlying conditions"]
