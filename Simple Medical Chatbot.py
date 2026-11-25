@@ -453,7 +453,7 @@ medical_db = {
 "zinc_overdose": {
   "description": "Zinc overdose is a condition caused by excessive intake of zinc, leading to digestive and systemic symptoms.",
   "causes": ["Excessive zinc supplements", "Accidental ingestion"],
-  "remedies": ["Stop zinc intake", "Supportive care"]
+  "remedies": ["Stop zinc intake"]
 },
 "zoster": {
   "description": "Zoster is a viral infection causing a painful rash, also known as shingles.",
