@@ -230,7 +230,7 @@ medical_db = {
   "type": "Neurological ",
   "description": "Alice in Wonderland syndrome is a rare condition that alters perception, causing objects or body parts to appear distorted in size, shape, or distance.",
   "causes": ["Migraine", "Epstein-Barr virus infection", "Neurological disorders"],
-  "remedies": ["Treat underlying condition", "Migraine management", "Rest and monitoring"]
+  "remedies": ["Treat underlying condition", "Migraine management"]
 },
 "savants_syndrome": {
   "type": "Neurological",
